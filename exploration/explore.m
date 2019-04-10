@@ -1,3 +1,4 @@
+global qr_code;
 qr_code = [
     1 1 1 1 1 1 1 0 1 0 1 0 1 0 1
     1 0 0 0 0 0 1 0 0 0 1 1 1 1 1
@@ -74,21 +75,32 @@ function [m] = led_matrix (x)
 end
 
 function [] = show_output (x, m)
+  global qr_code
   m = led_matrix(x);
 
   clf;
 
-  subplot(1, 2, 1);
-  image(x + 1);
+  subplot(1, 3, 1);
+  image(x' + 1);
   colormap([[1 1 1]; [0 0 0]]);
-  axis equal;
+  axis image;
   title("Obfuscator output signals");
 
-  subplot(1, 2, 2);
+  subplot(1, 3, 2);
   image(m + 1);
   colormap([[1 1 1]; [0 0 0]]);
-  axis square;
+  axis image;
   title("LED matrix");
+
+  subplot(1, 3, 3);
+  imshow(ind2rgb((xor(m, qr_code) + 1), [[0 1 0]; [1 0 0]]));
+  title("Correct pixels");
+end
+
+function [] = correct ()
+  global x;
+  x = [ones(8, 1); zeros(8, 1)];
+  show_output(x);
 end
 
 function [] = regenerate ()
