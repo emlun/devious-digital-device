@@ -148,6 +148,52 @@ function [] = show_output (x, m)
   title("Correct pixels");
 end
 
+function [nerr] = count_errors (x)
+    global qr_code
+    nerr = sum(sum(abs(qr_code - led_matrix(x))));
+end
+
+function [nerr] = count_anchor_errors (x)
+    global qr_code
+    m = led_matrix(x);
+    nerr = sum(sum(abs(qr_code(1:7, 1:7) - m(1:7, 1:7))));
+end
+
+function [v] = dec2binv (x)
+  v = [
+    floor(x / 2^15)
+    floor(mod(x, 2^15) / 2^14)
+    floor(mod(x, 2^14) / 2^13)
+    floor(mod(x, 2^13) / 2^12)
+    floor(mod(x, 2^12) / 2^11)
+    floor(mod(x, 2^11) / 2^10)
+    floor(mod(x, 2^10) / 2^9)
+    floor(mod(x, 2^9) / 2^8)
+    floor(mod(x, 2^8) / 2^7)
+    floor(mod(x, 2^7) / 2^6)
+    floor(mod(x, 2^6) / 2^5)
+    floor(mod(x, 2^5) / 2^4)
+    floor(mod(x, 2^4) / 2^3)
+    floor(mod(x, 2^3) / 2^2)
+    floor(mod(x, 2^2) / 2^1)
+    floor(mod(x, 2^1) / 2^0)
+  ];
+end
+
+function [n_solutions] = count_solutions ()
+    n_solutions = 0
+    for i = 0:(2^16 - 1)
+      if mod(i, 2^10) == 0
+        disp(i);
+      end
+      x = dec2binv(i);
+      if count_anchor_errors(x) == 0
+        n_solutions += 1
+        disp(x');
+      end
+    end
+end
+
 function [] = correct ()
   global x;
   x = [ones(8, 1); zeros(8, 1)];
