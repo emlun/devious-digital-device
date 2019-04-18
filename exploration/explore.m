@@ -125,7 +125,7 @@ function [m] = led_matrix (x)
 
 end
 
-function [] = show_output (x, m)
+function [] = show_output (x)
   global qr_code
   m = led_matrix(x);
 
