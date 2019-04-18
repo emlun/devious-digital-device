@@ -1,4 +1,5 @@
 global qr_code;
+global solution;
 M = 1;
 _ = 0;
 qr_code = [
@@ -25,10 +26,14 @@ qr_code = [
     M M M M M M M _ M _ M _ M M M _ M M M M _
 ];
 
-function [m] = led_matrix (x)
+% randperm(16) >= 9
+solution = [1 1 0 1 0 0 0 1 0 0 1 1 1 0 0 1]' == 1;
 
-  h = x(1:8);
-  l = x(9:16);
+function [m] = led_matrix (x)
+  global solution;
+
+  h = x(solution == 1);
+  l = x(solution == 0);
 
   a1 = xor(h(1), h(2), h(3), l(1), l(2), l(3));
   a2 = xor(h(4), h(5), h(6), l(4), l(5));
@@ -196,14 +201,16 @@ end
 
 function [] = correct ()
   global x;
-  x = [ones(8, 1); zeros(8, 1)];
+  global solution;
+  x = solution;
   show_output(x);
 end
 
 function [] = regenerate ()
   global x;
+  global solution;
   if rand() < 0.05
-    x = [ones(8, 1); zeros(8, 1)];
+    x = solution;
   else
     x = round(rand(16, 1));
   end
