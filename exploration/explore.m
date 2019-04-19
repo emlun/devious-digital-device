@@ -348,3 +348,17 @@ function [] = animate (times)
       pause(1);
   end
 end
+
+function [] = animate_shift_registers (times)
+  state = initial_state();
+  show_state(state);
+  for i = 1:times
+    if mod(i, 7) == 0
+      state = toggle_user_input_1(state);
+    else
+      state = advance_state(state);
+    end
+    show_state(state);
+    pause(0.2);
+  end
+end
