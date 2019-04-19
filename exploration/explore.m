@@ -153,6 +153,112 @@ function [] = show_output (x)
   title("Correct pixels");
 end
 
+function [new_state] = initial_state ()
+  new_state = zeros(50, 1);
+end
+
+function [new_state] = toggle_user_input_1 (state)
+  new_state = [
+    state(1:48);
+    ~state(49);
+    state(50);
+  ];
+end
+
+function [new_state] = toggle_user_input_2 (state)
+  new_state = [
+    state(1:48);
+    state(49);
+    ~state(50);
+  ];
+end
+
+function [fudger_internal, fudger_parouts, outputer_internal, outputer_parouts, ...
+          user_input_1, user_input_2, fudger_input, outputer_input] = unpack_state (state)
+  fudger_internal = state(1:8);
+  fudger_parouts = state(9:16);
+  outputer_internal = state(17:32);
+  outputer_parouts = state(33:48);
+  user_input_1 = state(49);
+  user_input_2 = state(50);
+
+  fudger_input = xor(~fudger_parouts(1), fudger_parouts(7));
+  outputer_input = xor(user_input_1, fudger_parouts(8), fudger_internal(2));
+end
+
+function [new_state] = advance_state (state)
+  [fudger_internal, fudger_parouts, outputer_internal, outputer_parouts, ...
+   user_input_1, user_input_2, fudger_input, outputer_input] = unpack_state(state);
+
+  new_fudger_internal = [
+    fudger_input;
+    fudger_internal(1:7);
+  ];
+  new_fudger_parouts = fudger_internal;
+
+  new_outputer_internal = [
+    outputer_input;
+    outputer_internal(1:15);
+  ];
+  new_outputer_parouts = outputer_internal;
+
+  new_state = [
+    new_fudger_internal;
+    new_fudger_parouts;
+    new_outputer_internal;
+    new_outputer_parouts;
+    user_input_1;
+    user_input_2;
+  ];
+end
+
+function [] = show_state (state)
+  [fudger_internal, fudger_parouts, outputer_internal, outputer_parouts, ...
+   user_input_1, user_input_2, fudger_input, outputer_input] = unpack_state(state);
+
+  clf;
+  colormap default;
+
+  subplot(1, 7, 1);
+  barh(outputer_parouts);
+  title("O(1:16)");
+  yticks([1 4 8 9 13 16]);
+  xticks([0 1]);
+
+  subplot(1, 7, 2);
+  barh(outputer_internal);
+  title("O'(1:16)");
+  yticks([1 4 8 9 13 16]);
+  xticks([0 1]);
+
+  subplot(1, 7, 3);
+  barh([outputer_input, zeros(1, 15)]);
+  title("DS_O");
+  xticks([0 1]);
+
+  subplot(1, 7, 4);
+  barh([user_input_1, user_input_2]);
+  title("u");
+  xticks([0 1]);
+
+  subplot(1, 7, 5);
+  barh(fudger_parouts);
+  title("F(1:8)");
+  yticks([1 4 8]);
+  xticks([0 1]);
+
+  subplot(1, 7, 6);
+  barh(fudger_internal);
+  title("F'(1:8)");
+  yticks([1 4 8]);
+  xticks([0 1]);
+
+  subplot(1, 7, 7);
+  barh([fudger_input, zeros(1, 7)]);
+  title("DS_F");
+  xticks([0 1]);
+end
+
 function [nerr] = count_errors (x)
     global qr_code
     nerr = sum(sum(abs(qr_code - led_matrix(x))));
