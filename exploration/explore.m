@@ -157,6 +157,18 @@ function [new_state] = initial_state ()
   new_state = zeros(50, 1);
 end
 
+function [states] = simulate_output_sequence (T)
+  states = initial_state();
+  for t = 1:T
+    states(:, t + 1) = advance_state(states(:, t));
+  end
+  clf;
+  bar(states(33, :));
+  xlabel('Time step');
+  ylabel('O_0');
+  yticks([0 1]);
+end
+
 function [new_state] = toggle_user_input_1 (state)
   new_state = [
     state(1:48);
