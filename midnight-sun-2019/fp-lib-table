@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name electrokit)(type KiCad)(uri "/home/emlun/documents/elektronik/Midnight Sun CTF 2019/midnight-sun-2019/electrokit.pretty")(options "")(descr ""))
+)
