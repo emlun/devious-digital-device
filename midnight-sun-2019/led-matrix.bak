@@ -29,22 +29,6 @@ F 3 "~" H 7300 9250 50  0001 C CNN
 	1    7300 9250
 	-1   0    0    1   
 $EndComp
-Connection ~ 7450 9250
-Wire Wire Line
-	7450 9350 7450 9250
-$Comp
-L Device:LED D?
-U 1 1 61C553AA
-P 7300 9350
-AR Path="/61C553AA" Ref="D?"  Part="1" 
-AR Path="/61AF721F/61C553AA" Ref="D637"  Part="1" 
-F 0 "D637" H 7293 9095 50  0000 C CNN
-F 1 "LED" H 7293 9186 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 9350 50  0001 C CNN
-F 3 "~" H 7300 9350 50  0001 C CNN
-	1    7300 9350
-	-1   0    0    1   
-$EndComp
 $Comp
 L Device:LED D?
 U 1 1 61C553BE
@@ -296,22 +280,6 @@ F 3 "~" H 7300 6900 50  0001 C CNN
 	1    7300 6900
 	-1   0    0    1   
 $EndComp
-Connection ~ 7450 6900
-$Comp
-L Device:LED D?
-U 1 1 61C554A8
-P 7300 7000
-AR Path="/61C554A8" Ref="D?"  Part="1" 
-AR Path="/61AF721F/61C554A8" Ref="D621"  Part="1" 
-F 0 "D621" H 7293 6745 50  0000 C CNN
-F 1 "LED" H 7293 6836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 7000 50  0001 C CNN
-F 3 "~" H 7300 7000 50  0001 C CNN
-	1    7300 7000
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	7450 7000 7450 6900
 $Comp
 L Device:LED D?
 U 1 1 61C554BF
@@ -561,22 +529,6 @@ F 1 "LED" H 7293 4436 50  0000 C CNN
 F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 4600 50  0001 C CNN
 F 3 "~" H 7300 4600 50  0001 C CNN
 	1    7300 4600
-	-1   0    0    1   
-$EndComp
-Connection ~ 7450 4600
-Wire Wire Line
-	7450 4700 7450 4600
-$Comp
-L Device:LED D?
-U 1 1 61C555B0
-P 7300 4700
-AR Path="/61C555B0" Ref="D?"  Part="1" 
-AR Path="/61AF721F/61C555B0" Ref="D605"  Part="1" 
-F 0 "D605" H 7293 4445 50  0000 C CNN
-F 1 "LED" H 7293 4536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 4700 50  0001 C CNN
-F 3 "~" H 7300 4700 50  0001 C CNN
-	1    7300 4700
 	-1   0    0    1   
 $EndComp
 $Comp
@@ -830,22 +782,6 @@ F 3 "~" H 7300 2200 50  0001 C CNN
 	1    7300 2200
 	-1   0    0    1   
 $EndComp
-Connection ~ 7450 2200
-$Comp
-L Device:LED D?
-U 1 1 61C556AE
-P 7300 2300
-AR Path="/61C556AE" Ref="D?"  Part="1" 
-AR Path="/61AF721F/61C556AE" Ref="D589"  Part="1" 
-F 0 "D589" H 7293 2045 50  0000 C CNN
-F 1 "LED" H 7293 2136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 2300 50  0001 C CNN
-F 3 "~" H 7300 2300 50  0001 C CNN
-	1    7300 2300
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	7450 2300 7450 2200
 $Comp
 L Device:LED D?
 U 1 1 61C556C5
@@ -1107,22 +1043,6 @@ F 1 "LED" H 6143 9086 50  0000 C CNN
 F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 9250 50  0001 C CNN
 F 3 "~" H 6150 9250 50  0001 C CNN
 	1    6150 9250
-	-1   0    0    1   
-$EndComp
-Connection ~ 6300 9250
-Wire Wire Line
-	6300 9350 6300 9250
-$Comp
-L Device:LED D?
-U 1 1 61C557B6
-P 6150 9350
-AR Path="/61C557B6" Ref="D?"  Part="1" 
-AR Path="/61AF721F/61C557B6" Ref="D573"  Part="1" 
-F 0 "D573" H 6143 9095 50  0000 C CNN
-F 1 "LED" H 6143 9186 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 9350 50  0001 C CNN
-F 3 "~" H 6150 9350 50  0001 C CNN
-	1    6150 9350
 	-1   0    0    1   
 $EndComp
 $Comp
@@ -1897,19 +1817,6 @@ Wire Wire Line
 	5600 800  5700 800 
 $Comp
 L Device:LED D?
-U 1 1 61C55AB3
-P 6150 2400
-AR Path="/61C55AB3" Ref="D?"  Part="1" 
-AR Path="/61AF721F/61C55AB3" Ref="D525"  Part="1" 
-F 0 "D525" H 6143 2145 50  0000 C CNN
-F 1 "LED" H 6143 2236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 2400 50  0001 C CNN
-F 3 "~" H 6150 2400 50  0001 C CNN
-	1    6150 2400
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D?
 U 1 1 61C55AC1
 P 6150 2200
 AR Path="/61C55AC1" Ref="D?"  Part="1" 
@@ -1936,10 +1843,7 @@ F 3 "~" H 6150 2300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	6300 2400 6300 2300
-Wire Wire Line
 	6300 2300 6300 2200
-Connection ~ 6300 2300
 $Comp
 L Device:LED D?
 U 1 1 61C55AE1
@@ -8128,9 +8032,6 @@ Wire Wire Line
 Connection ~ 6000 9150
 Wire Wire Line
 	6000 9150 6000 9250
-Connection ~ 6000 9250
-Wire Wire Line
-	6000 9250 6000 9350
 Wire Wire Line
 	6000 7000 6000 6900
 Connection ~ 6000 5500
@@ -8221,8 +8122,6 @@ Wire Wire Line
 Connection ~ 6000 4600
 Wire Wire Line
 	6000 4600 6000 4700
-Wire Wire Line
-	6000 2400 6000 2300
 Connection ~ 6000 800 
 Connection ~ 6000 900 
 Wire Wire Line
@@ -8266,7 +8165,6 @@ Wire Wire Line
 Connection ~ 6000 2200
 Wire Wire Line
 	6000 2200 6000 2100
-Connection ~ 6000 2300
 Wire Wire Line
 	6000 2300 6000 2200
 Wire Wire Line
@@ -8311,9 +8209,6 @@ Wire Wire Line
 Connection ~ 7150 2100
 Wire Wire Line
 	7150 2100 7150 2200
-Connection ~ 7150 2200
-Wire Wire Line
-	7150 2200 7150 2300
 Wire Wire Line
 	7150 3200 7150 3300
 Connection ~ 7150 3200
@@ -8356,9 +8251,6 @@ Wire Wire Line
 Connection ~ 7150 4500
 Wire Wire Line
 	7150 4500 7150 4600
-Connection ~ 7150 4600
-Wire Wire Line
-	7150 4600 7150 4700
 Wire Wire Line
 	7150 5500 7150 5600
 Connection ~ 7150 5500
@@ -8401,9 +8293,6 @@ Wire Wire Line
 Connection ~ 7150 6800
 Wire Wire Line
 	7150 6800 7150 6900
-Connection ~ 7150 6900
-Wire Wire Line
-	7150 6900 7150 7000
 Wire Wire Line
 	7150 7900 7150 7950
 Connection ~ 7150 7950
@@ -8445,9 +8334,6 @@ Wire Wire Line
 Connection ~ 7150 9150
 Wire Wire Line
 	7150 9150 7150 9250
-Connection ~ 7150 9250
-Wire Wire Line
-	7150 9250 7150 9350
 $Comp
 L Device:R R?
 U 1 1 5EABD1E0
@@ -9036,4 +8922,194 @@ Wire Wire Line
 	1950 9200 1850 9200
 Wire Wire Line
 	1950 9800 1850 9800
+$Comp
+L Device:LED D?
+U 1 1 60A83BC0
+P 3600 2900
+AR Path="/60A83BC0" Ref="D?"  Part="1" 
+AR Path="/61AF721F/60A83BC0" Ref="D?"  Part="1" 
+F 0 "D?" H 3593 2645 50  0000 C CNN
+F 1 "LED" H 3593 2736 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 2900 50  0001 C CNN
+F 3 "~" H 3600 2900 50  0001 C CNN
+	1    3600 2900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3450 2900 3450 2800
+Connection ~ 3450 2800
+Wire Wire Line
+	3750 2900 3750 2800
+Connection ~ 3750 2800
+$Comp
+L Device:LED D?
+U 1 1 60EEE0C7
+P 3600 5200
+AR Path="/60EEE0C7" Ref="D?"  Part="1" 
+AR Path="/61AF721F/60EEE0C7" Ref="D?"  Part="1" 
+F 0 "D?" H 3593 4945 50  0000 C CNN
+F 1 "LED" H 3593 5036 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 5200 50  0001 C CNN
+F 3 "~" H 3600 5200 50  0001 C CNN
+	1    3600 5200
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3450 5200 3450 5100
+Connection ~ 3450 5100
+Wire Wire Line
+	3750 5200 3750 5100
+Connection ~ 3750 5100
+$Comp
+L Device:LED D?
+U 1 1 611E4D6E
+P 3600 7500
+AR Path="/611E4D6E" Ref="D?"  Part="1" 
+AR Path="/61AF721F/611E4D6E" Ref="D?"  Part="1" 
+F 0 "D?" H 3593 7245 50  0000 C CNN
+F 1 "LED" H 3593 7336 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 7500 50  0001 C CNN
+F 3 "~" H 3600 7500 50  0001 C CNN
+	1    3600 7500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3450 7500 3450 7400
+Connection ~ 3450 7400
+Wire Wire Line
+	3750 7500 3750 7400
+Connection ~ 3750 7400
+$Comp
+L Device:LED D?
+U 1 1 614E4333
+P 3600 9800
+AR Path="/614E4333" Ref="D?"  Part="1" 
+AR Path="/61AF721F/614E4333" Ref="D?"  Part="1" 
+F 0 "D?" H 3593 9545 50  0000 C CNN
+F 1 "LED" H 3593 9636 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 9800 50  0001 C CNN
+F 3 "~" H 3600 9800 50  0001 C CNN
+	1    3600 9800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3450 9700 3450 9800
+Connection ~ 3450 9700
+Wire Wire Line
+	3750 9700 3750 9800
+Connection ~ 3750 9700
+$Comp
+L Device:LED D?
+U 1 1 617F31ED
+P 4800 2800
+AR Path="/617F31ED" Ref="D?"  Part="1" 
+AR Path="/61AF721F/617F31ED" Ref="D?"  Part="1" 
+F 0 "D?" H 4793 2545 50  0000 C CNN
+F 1 "LED" H 4793 2636 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 2800 50  0001 C CNN
+F 3 "~" H 4800 2800 50  0001 C CNN
+	1    4800 2800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4650 2800 4650 2700
+Connection ~ 4650 2700
+Wire Wire Line
+	4950 2700 4950 2800
+Connection ~ 4950 2700
+$Comp
+L Device:LED D?
+U 1 1 61C76022
+P 3600 5300
+AR Path="/61C76022" Ref="D?"  Part="1" 
+AR Path="/61AF721F/61C76022" Ref="D?"  Part="1" 
+F 0 "D?" H 3593 5045 50  0000 C CNN
+F 1 "LED" H 3593 5136 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 5300 50  0001 C CNN
+F 3 "~" H 3600 5300 50  0001 C CNN
+	1    3600 5300
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3450 5300 3450 5200
+Connection ~ 3450 5200
+Wire Wire Line
+	3750 5300 3750 5200
+Connection ~ 3750 5200
+$Comp
+L Device:LED D?
+U 1 1 61F7E60F
+P 3600 7600
+AR Path="/61F7E60F" Ref="D?"  Part="1" 
+AR Path="/61AF721F/61F7E60F" Ref="D?"  Part="1" 
+F 0 "D?" H 3593 7345 50  0000 C CNN
+F 1 "LED" H 3593 7436 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 7600 50  0001 C CNN
+F 3 "~" H 3600 7600 50  0001 C CNN
+	1    3600 7600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3450 7600 3450 7500
+Connection ~ 3450 7500
+Wire Wire Line
+	3750 7600 3750 7500
+Connection ~ 3750 7500
+$Comp
+L Device:LED D?
+U 1 1 62287B1C
+P 4800 5200
+AR Path="/62287B1C" Ref="D?"  Part="1" 
+AR Path="/61AF721F/62287B1C" Ref="D?"  Part="1" 
+F 0 "D?" H 4793 4945 50  0000 C CNN
+F 1 "LED" H 4793 5036 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 5200 50  0001 C CNN
+F 3 "~" H 4800 5200 50  0001 C CNN
+	1    4800 5200
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4650 5200 4650 5100
+Connection ~ 4650 5100
+Wire Wire Line
+	4950 5200 4950 5100
+Connection ~ 4950 5100
+$Comp
+L Device:LED D?
+U 1 1 625946B2
+P 4800 7500
+AR Path="/625946B2" Ref="D?"  Part="1" 
+AR Path="/61AF721F/625946B2" Ref="D?"  Part="1" 
+F 0 "D?" H 4793 7245 50  0000 C CNN
+F 1 "LED" H 4793 7336 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 7500 50  0001 C CNN
+F 3 "~" H 4800 7500 50  0001 C CNN
+	1    4800 7500
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4650 7500 4650 7400
+Connection ~ 4650 7400
+Wire Wire Line
+	4950 7500 4950 7400
+Connection ~ 4950 7400
+$Comp
+L Device:LED D?
+U 1 1 628A750B
+P 4800 9800
+AR Path="/628A750B" Ref="D?"  Part="1" 
+AR Path="/61AF721F/628A750B" Ref="D?"  Part="1" 
+F 0 "D?" H 4793 9545 50  0000 C CNN
+F 1 "LED" H 4793 9636 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 9800 50  0001 C CNN
+F 3 "~" H 4800 9800 50  0001 C CNN
+	1    4800 9800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4650 9800 4650 9700
+Connection ~ 4650 9700
+Wire Wire Line
+	4950 9800 4950 9700
+Connection ~ 4950 9700
 $EndSCHEMATC
