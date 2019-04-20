@@ -1,4 +1,4 @@
-15656585361615530
+15659720769537530
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -43805,6 +43805,20 @@ single digit 7 segemnt red/green LED
 0
 10
 10
+electrokit
+SW_PUSH_DPDT_CW_Industries_GPBS850L
+
+
+0
+6
+6
+electrokit
+SW_SPDT_MTS-102-A2
+
+
+0
+3
+3
 electrokit
 USB_Micro-B_Electrokit_anr41011019
 Micro USB Type B 10103594-0001LF
