@@ -426,7 +426,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CE2D639)
-    (at -25.635 34.52 90)
+    (at 53.34 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C553A2)
@@ -464,7 +464,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CE2D626)
-    (at -28.575 34.52 90)
+    (at 83.82 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C553C5)
@@ -502,7 +502,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CE2D613)
-    (at -25.635 39.37 90)
+    (at 83.82 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C553BE)
@@ -540,7 +540,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CE2D600)
-    (at -28.575 39.37 90)
+    (at 80.01 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C553E5)
@@ -6613,8 +6613,8 @@
     )
   )
 
-  (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBA9D4)
-    (at -45.994999 108.273999 90)
+  (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBCCBDD)
+    (at 30.48 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5657A)
@@ -6652,7 +6652,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBA9E7)
-    (at -16.594999 137.373999 90)
+    (at 72.39 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56581)
@@ -6690,7 +6690,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBA9FA)
-    (at -34.234999 132.523999 90)
+    (at 30.48 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5655A)
@@ -6728,7 +6728,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAA0D)
-    (at -48.934999 122.823999 90)
+    (at 83.82 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56561)
@@ -6766,7 +6766,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAA20)
-    (at -43.054999 127.673999 90)
+    (at 68.58 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5653A)
@@ -6804,7 +6804,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAA33)
-    (at -69.514999 98.573999 90)
+    (at 64.77 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56541)
@@ -6842,7 +6842,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAA46)
-    (at -45.994999 122.823999 90)
+    (at 26.67 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5651A)
@@ -6880,7 +6880,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAA59)
-    (at -31.294999 137.373999 90)
+    (at 99.06 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56521)
@@ -6918,7 +6918,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAA6C)
-    (at -51.874999 117.973999 90)
+    (at 80.01 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C564FA)
@@ -6956,7 +6956,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAA7F)
-    (at -37.174999 132.523999 90)
+    (at 34.29 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56501)
@@ -6994,7 +6994,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAA92)
-    (at -60.694999 108.273999 90)
+    (at 76.2 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C564DA)
@@ -7032,7 +7032,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAAA5)
-    (at -51.874999 122.823999 90)
+    (at 91.44 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C564E1)
@@ -7070,7 +7070,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAAB8)
-    (at -22.474999 132.523999 90)
+    (at 83.82 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C564BA)
@@ -7108,7 +7108,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAACB)
-    (at -37.174999 117.973999 90)
+    (at 76.2 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C564C1)
@@ -7146,7 +7146,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAADE)
-    (at -60.694999 93.723999 90)
+    (at 91.44 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C564AA)
@@ -7184,7 +7184,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAAF1)
-    (at -63.634999 88.873999 90)
+    (at 49.53 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C564A1)
@@ -7222,7 +7222,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAB04)
-    (at -40.114999 113.123999 90)
+    (at 99.06 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56491)
@@ -7260,7 +7260,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAB17)
-    (at -25.414999 127.673999 90)
+    (at 87.63 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/60A83BC0)
@@ -7412,7 +7412,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAB63)
-    (at -34.234999 117.973999 90)
+    (at 72.39 39.37 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56451)
@@ -7450,7 +7450,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAB76)
-    (at -19.534999 132.523999 90)
+    (at 34.29 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5642A)
@@ -7488,7 +7488,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAB89)
-    (at -48.934999 103.423999 90)
+    (at 76.2 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56431)
@@ -7526,7 +7526,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAB9C)
-    (at -31.294999 122.823999 90)
+    (at 34.29 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5640A)
@@ -7564,7 +7564,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBABAF)
-    (at -31.294999 103.423999 90)
+    (at 26.67 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56411)
@@ -7602,7 +7602,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBABC2)
-    (at -43.054999 108.273999 90)
+    (at 72.39 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C563EA)
@@ -7640,7 +7640,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBABD5)
-    (at -69.514999 79.173999 90)
+    (at 68.58 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C563F1)
@@ -7678,7 +7678,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBABE8)
-    (at -45.994999 103.423999 90)
+    (at 30.48 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C563CA)
@@ -7716,7 +7716,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBABFB)
-    (at -16.594999 132.523999 90)
+    (at 26.67 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C563D1)
@@ -7754,7 +7754,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAC0E)
-    (at -31.294999 117.973999 90)
+    (at 87.63 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C563AA)
@@ -7792,7 +7792,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAC21)
-    (at -51.874999 98.573999 90)
+    (at 38.1 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C563B1)
@@ -7830,7 +7830,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAC34)
-    (at -22.474999 127.673999 90)
+    (at 80.01 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5638A)
@@ -7868,7 +7868,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAC47)
-    (at -37.174999 113.123999 90)
+    (at 99.06 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56391)
@@ -7906,7 +7906,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAC5A)
-    (at -60.694999 88.873999 90)
+    (at 87.63 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5636A)
@@ -7944,7 +7944,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAC6D)
-    (at -63.634999 84.023999 90)
+    (at 83.82 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56371)
@@ -7982,7 +7982,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAC80)
-    (at -40.114999 108.273999 90)
+    (at 95.25 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5635A)
@@ -8020,7 +8020,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAC93)
-    (at -10.714999 137.373999 90)
+    (at 60.96 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56353)
@@ -8058,7 +8058,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBACA6)
-    (at -51.874999 93.723999 90)
+    (at 49.53 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/60EEE0C7)
@@ -8096,7 +8096,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBACB9)
-    (at -16.594999 117.973999 90)
+    (at 91.44 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C76022)
@@ -8248,7 +8248,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAD05)
-    (at -57.754999 88.873999 90)
+    (at 49.53 43.18 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56313)
@@ -8286,7 +8286,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAD18)
-    (at -34.234999 113.123999 90)
+    (at 38.1 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C562EB)
@@ -8324,7 +8324,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAD2B)
-    (at -19.534999 127.673999 90)
+    (at 80.01 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C562F2)
@@ -8362,7 +8362,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAD3E)
-    (at -48.934999 98.573999 90)
+    (at 49.53 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C562CB)
@@ -8400,7 +8400,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAD51)
-    (at -28.354999 117.973999 90)
+    (at 30.48 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C562D2)
@@ -8438,7 +8438,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAD64)
-    (at -13.654999 132.523999 90)
+    (at 87.63 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C562AB)
@@ -8476,7 +8476,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAD77)
-    (at -43.054999 103.423999 90)
+    (at 72.39 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C562B2)
@@ -8514,7 +8514,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAD8A)
-    (at -69.514999 74.323999 90)
+    (at 38.1 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5628B)
@@ -8552,7 +8552,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAD9D)
-    (at -45.994999 98.573999 90)
+    (at 38.1 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56292)
@@ -8590,7 +8590,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBADB0)
-    (at -16.594999 127.673999 90)
+    (at 91.44 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5626B)
@@ -8628,7 +8628,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBADC3)
-    (at -31.294999 113.123999 90)
+    (at 41.91 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56272)
@@ -8666,7 +8666,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBADD6)
-    (at -51.874999 103.423999 90)
+    (at 99.06 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5624B)
@@ -8704,7 +8704,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBADE9)
-    (at -22.474999 122.823999 90)
+    (at 49.53 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56252)
@@ -8742,7 +8742,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBADFC)
-    (at -7.774999 137.373999 90)
+    (at 91.44 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5622B)
@@ -8780,7 +8780,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAE0F)
-    (at -37.174999 108.273999 90)
+    (at 87.63 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56232)
@@ -8818,7 +8818,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAE22)
-    (at -60.694999 84.023999 90)
+    (at 49.53 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5621B)
@@ -8856,7 +8856,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAE35)
-    (at -63.634999 79.173999 90)
+    (at 68.58 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56212)
@@ -8894,7 +8894,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAE48)
-    (at -40.114999 103.423999 90)
+    (at 57.15 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/611E4D6E)
@@ -8932,7 +8932,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAE5B)
-    (at -10.714999 132.523999 90)
+    (at 95.25 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61F7E60F)
@@ -9084,7 +9084,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAEA7)
-    (at -57.754999 84.023999 90)
+    (at 57.15 43.18 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C561D1)
@@ -9122,7 +9122,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAEBA)
-    (at -34.234999 108.273999 90)
+    (at 41.91 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C561AA)
@@ -9160,7 +9160,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAECD)
-    (at -28.354999 122.823999 90)
+    (at 83.82 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C561B1)
@@ -9198,7 +9198,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAEE0)
-    (at -19.534999 113.123999 90)
+    (at 53.34 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5618A)
@@ -9236,7 +9236,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAEF3)
-    (at -69.514999 69.473999 90)
+    (at 34.29 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56191)
@@ -9274,7 +9274,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAF06)
-    (at -45.994999 93.723999 90)
+    (at 91.44 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5616A)
@@ -9312,7 +9312,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAF19)
-    (at -16.594999 122.823999 90)
+    (at 76.2 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56171)
@@ -9350,7 +9350,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAF2C)
-    (at -31.294999 108.273999 90)
+    (at 45.72 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5614A)
@@ -9388,7 +9388,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAF3F)
-    (at -51.874999 88.873999 90)
+    (at 49.53 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56151)
@@ -9426,7 +9426,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAF52)
-    (at -22.474999 117.973999 90)
+    (at 95.25 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5612A)
@@ -9464,7 +9464,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAF65)
-    (at -7.774999 132.523999 90)
+    (at 45.72 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56131)
@@ -9502,7 +9502,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAF78)
-    (at -37.174999 103.423999 90)
+    (at 49.53 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5610A)
@@ -9540,7 +9540,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAF8B)
-    (at -60.694999 79.173999 90)
+    (at 57.15 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56111)
@@ -9578,7 +9578,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAF9E)
-    (at -19.534999 122.823999 90)
+    (at 99.06 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C560EA)
@@ -9616,7 +9616,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAFB1)
-    (at -40.114999 98.573999 90)
+    (at 91.44 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C560F1)
@@ -9654,7 +9654,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAFC4)
-    (at -10.714999 127.673999 90)
+    (at 53.34 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C560DA)
@@ -9692,7 +9692,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAFD7)
-    (at -25.414999 113.123999 90)
+    (at 76.2 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C560D3)
@@ -9730,7 +9730,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBAFEA)
-    (at -43.054999 137.373999 90)
+    (at 60.96 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/614E4333)
@@ -9882,7 +9882,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB036)
-    (at -19.534999 117.973999 90)
+    (at 64.77 43.18 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56094)
@@ -9920,7 +9920,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB049)
-    (at -48.934999 88.873999 90)
+    (at 45.72 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5606C)
@@ -9958,7 +9958,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB05C)
-    (at -28.354999 108.273999 90)
+    (at 87.63 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56073)
@@ -9996,7 +9996,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB06F)
-    (at -13.654999 122.823999 90)
+    (at 57.15 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5604C)
@@ -10034,7 +10034,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB082)
-    (at -43.054999 93.723999 90)
+    (at 38.1 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56053)
@@ -10072,7 +10072,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB095)
-    (at -69.514999 64.623999 90)
+    (at 99.06 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5602C)
@@ -10110,7 +10110,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB0A8)
-    (at -40.114999 117.973999 90)
+    (at 80.01 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56033)
@@ -10148,7 +10148,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB0BB)
-    (at -54.814999 127.673999 90)
+    (at 60.96 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5600C)
@@ -10186,7 +10186,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB0CE)
-    (at -66.574999 113.123999 90)
+    (at 53.34 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C56013)
@@ -10224,7 +10224,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB0E1)
-    (at -57.754999 122.823999 90)
+    (at 99.06 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55FEC)
@@ -10262,7 +10262,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB0F4)
-    (at -48.934999 132.523999 90)
+    (at 49.53 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55FF3)
@@ -10300,7 +10300,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB107)
-    (at -54.814999 84.023999 90)
+    (at 53.34 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55FCC)
@@ -10338,7 +10338,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB11A)
-    (at -51.874999 84.023999 90)
+    (at 64.77 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55FD3)
@@ -10376,7 +10376,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB12D)
-    (at -22.474999 113.123999 90)
+    (at 49.53 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55FAC)
@@ -10414,7 +10414,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB140)
-    (at -7.774999 127.673999 90)
+    (at 49.53 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55FB3)
@@ -10452,7 +10452,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB153)
-    (at -37.174999 98.573999 90)
+    (at 68.58 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55F9C)
@@ -10490,7 +10490,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB166)
-    (at -60.694999 74.323999 90)
+    (at 80.01 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55F93)
@@ -10528,7 +10528,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB179)
-    (at -63.634999 69.473999 90)
+    (at 64.77 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/617F31ED)
@@ -10680,7 +10680,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB1C5)
-    (at -54.814999 79.173999 90)
+    (at 72.39 43.18 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55F52)
@@ -10718,7 +10718,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB1D8)
-    (at -66.574999 64.623999 90)
+    (at 49.53 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55F2B)
@@ -10756,7 +10756,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB1EB)
-    (at -45.994999 88.873999 90)
+    (at 91.44 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55F32)
@@ -10794,7 +10794,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB1FE)
-    (at -34.234999 98.573999 90)
+    (at 60.96 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55F0B)
@@ -10832,7 +10832,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB211)
-    (at -43.054999 98.573999 90)
+    (at 45.72 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55F12)
@@ -10870,7 +10870,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB224)
-    (at -48.934999 84.023999 90)
+    (at 41.91 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55EEB)
@@ -10908,7 +10908,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB237)
-    (at -28.354999 103.423999 90)
+    (at 87.63 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55EF2)
@@ -10946,7 +10946,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB24A)
-    (at -13.654999 117.973999 90)
+    (at 76.2 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55ECB)
@@ -10984,7 +10984,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB25D)
-    (at -43.054999 88.873999 90)
+    (at 60.96 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55ED2)
@@ -11022,7 +11022,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB270)
-    (at -69.514999 59.773999 90)
+    (at 22.86 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55EAB)
@@ -11060,7 +11060,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB283)
-    (at -45.994999 84.023999 90)
+    (at 57.15 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55EB2)
@@ -11098,7 +11098,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB296)
-    (at -16.594999 113.123999 90)
+    (at 64.77 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55E8B)
@@ -11136,7 +11136,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB2A9)
-    (at -31.294999 98.573999 90)
+    (at 68.58 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55E92)
@@ -11174,7 +11174,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB2BC)
-    (at -51.874999 79.173999 90)
+    (at 60.96 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55E6B)
@@ -11212,7 +11212,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB2CF)
-    (at -22.474999 108.273999 90)
+    (at 53.34 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55E72)
@@ -11250,7 +11250,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB2E2)
-    (at -63.634999 74.323999 90)
+    (at 80.01 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55E5B)
@@ -11288,7 +11288,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB2F5)
-    (at -48.934999 93.723999 90)
+    (at 87.63 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55E54)
@@ -11326,7 +11326,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB308)
-    (at -28.354999 113.123999 90)
+    (at 68.58 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/62287B1C)
@@ -11478,7 +11478,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB354)
-    (at -25.414999 103.423999 90)
+    (at 22.86 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55E0F)
@@ -11516,7 +11516,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB367)
-    (at -54.814999 74.323999 90)
+    (at 53.34 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55DE7)
@@ -11554,7 +11554,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB37A)
-    (at -66.574999 59.773999 90)
+    (at 95.25 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55DEE)
@@ -11592,7 +11592,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB38D)
-    (at -57.754999 69.473999 90)
+    (at 72.39 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55DC7)
@@ -11630,7 +11630,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB3A0)
-    (at -34.234999 93.723999 90)
+    (at 49.53 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55DCE)
@@ -11668,7 +11668,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB3B3)
-    (at -19.534999 108.273999 90)
+    (at 53.34 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55DA7)
@@ -11706,7 +11706,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB3C6)
-    (at -48.934999 79.173999 90)
+    (at 91.44 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55DAE)
@@ -11744,7 +11744,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB3D9)
-    (at -28.354999 98.573999 90)
+    (at 87.63 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55D87)
@@ -11781,8 +11781,8 @@
     )
   )
 
-  (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB3EC)
-    (at -7.774999 122.823999 90)
+  (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBCD541)
+    (at 72.39 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55D8E)
@@ -11820,7 +11820,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB3FF)
-    (at -43.054999 84.023999 90)
+    (at 26.67 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55D67)
@@ -11858,7 +11858,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB412)
-    (at -69.514999 54.923999 90)
+    (at 64.77 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55D6E)
@@ -11896,7 +11896,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB425)
-    (at -31.294999 79.173999 90)
+    (at 68.58 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55D47)
@@ -11934,7 +11934,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB438)
-    (at -16.594999 108.273999 90)
+    (at 76.2 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55D4E)
@@ -11972,7 +11972,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB44B)
-    (at -31.294999 93.723999 90)
+    (at 64.77 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55D27)
@@ -12010,7 +12010,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB45E)
-    (at -51.874999 74.323999 90)
+    (at 68.58 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55D2E)
@@ -12048,7 +12048,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB471)
-    (at -22.474999 103.423999 90)
+    (at 95.25 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55D17)
@@ -12086,7 +12086,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB484)
-    (at -7.774999 117.973999 90)
+    (at 91.44 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55D0E)
@@ -12124,7 +12124,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB497)
-    (at -37.174999 88.873999 90)
+    (at 76.2 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/625946B2)
@@ -12276,7 +12276,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB4E3)
-    (at -10.714999 113.123999 90)
+    (at 26.67 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55CCD)
@@ -12314,7 +12314,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB4F6)
-    (at -51.874999 69.473999 90)
+    (at 68.58 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55CA6)
@@ -12352,7 +12352,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB509)
-    (at -16.594999 93.723999 90)
+    (at 99.06 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55CAD)
@@ -12390,7 +12390,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB51C)
-    (at -45.994999 79.173999 90)
+    (at 76.2 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55C86)
@@ -12428,7 +12428,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB52F)
-    (at -48.934999 74.323999 90)
+    (at 53.34 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55C8D)
@@ -12466,7 +12466,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB542)
-    (at -28.354999 93.723999 90)
+    (at 57.15 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55C66)
@@ -12504,7 +12504,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB555)
-    (at -13.654999 108.273999 90)
+    (at 99.06 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55C6D)
@@ -12542,7 +12542,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB568)
-    (at -43.054999 79.173999 90)
+    (at 91.44 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55C46)
@@ -12580,7 +12580,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB57B)
-    (at -69.514999 50.073999 90)
+    (at 76.2 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55C4D)
@@ -12618,7 +12618,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB58E)
-    (at -45.994999 74.323999 90)
+    (at 30.48 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55C26)
@@ -12656,7 +12656,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB5A1)
-    (at -16.594999 103.423999 90)
+    (at 68.58 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55C2D)
@@ -12694,7 +12694,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB5B4)
-    (at -31.294999 88.873999 90)
+    (at 80.01 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55C06)
@@ -12732,7 +12732,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB5C7)
-    (at -25.414999 98.573999 90)
+    (at 80.01 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55C0D)
@@ -12770,7 +12770,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB5DA)
-    (at -22.474999 98.573999 90)
+    (at 72.39 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55BE6)
@@ -12808,7 +12808,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB5ED)
-    (at -7.774999 113.123999 90)
+    (at 80.01 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55BED)
@@ -12846,7 +12846,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB600)
-    (at -37.174999 84.023999 90)
+    (at 99.06 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55BD6)
@@ -12884,7 +12884,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB613)
-    (at -40.114999 88.873999 90)
+    (at 95.25 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55BCF)
@@ -12922,7 +12922,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB626)
-    (at -63.634999 54.923999 90)
+    (at 80.01 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/628A750B)
@@ -13036,7 +13036,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB65F)
-    (at -25.414999 93.723999 90)
+    (at 53.34 43.18 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55B81)
@@ -13074,7 +13074,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB672)
-    (at -54.814999 64.623999 90)
+    (at 38.1 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55B89)
@@ -13112,7 +13112,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB685)
-    (at -66.574999 50.073999 90)
+    (at 95.25 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55B61)
@@ -13150,7 +13150,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB698)
-    (at -57.754999 59.773999 90)
+    (at 80.01 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55B68)
@@ -13188,7 +13188,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB6AB)
-    (at -34.234999 84.023999 90)
+    (at 45.72 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55B41)
@@ -13226,7 +13226,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB6BE)
-    (at -13.654999 113.123999 90)
+    (at 49.53 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55B48)
@@ -13264,7 +13264,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB6D1)
-    (at -37.174999 93.723999 90)
+    (at 95.25 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55B21)
@@ -13302,7 +13302,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB6E4)
-    (at -60.694999 69.473999 90)
+    (at 68.58 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55B28)
@@ -13340,7 +13340,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB6F7)
-    (at -63.634999 64.623999 90)
+    (at 95.25 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55B01)
@@ -13378,7 +13378,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB70A)
-    (at -60.694999 59.773999 90)
+    (at 53.34 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55B08)
@@ -13416,7 +13416,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB71D)
-    (at -69.514999 40.373999 90)
+    (at 95.25 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55AE1)
@@ -13454,7 +13454,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB730)
-    (at -43.054999 74.323999 90)
+    (at 87.63 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55AE8)
@@ -13492,7 +13492,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB743)
-    (at -69.514999 45.223999 90)
+    (at 87.63 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55AC1)
@@ -13530,7 +13530,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB756)
-    (at -45.994999 69.473999 90)
+    (at 72.39 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55AC8)
@@ -13644,7 +13644,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB78F)
-    (at -51.874999 64.623999 90)
+    (at 60.96 43.18 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55A70)
@@ -13682,7 +13682,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB7A2)
-    (at -22.474999 93.723999 90)
+    (at 41.91 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55A77)
@@ -13720,7 +13720,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB7B5)
-    (at -7.774999 108.273999 90)
+    (at 99.06 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55A50)
@@ -13758,7 +13758,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB7C8)
-    (at -37.174999 79.173999 90)
+    (at 83.82 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55A57)
@@ -13796,7 +13796,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB7DB)
-    (at -60.694999 54.923999 90)
+    (at 49.53 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55A30)
@@ -13834,7 +13834,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB7EE)
-    (at -19.534999 98.573999 90)
+    (at 53.34 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55A37)
@@ -13872,7 +13872,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB801)
-    (at -40.114999 74.323999 90)
+    (at 22.86 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55A10)
@@ -13910,7 +13910,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB814)
-    (at -10.714999 103.423999 90)
+    (at 83.82 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55A17)
@@ -13948,7 +13948,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB827)
-    (at -54.814999 69.473999 90)
+    (at 57.15 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C559F0)
@@ -13986,7 +13986,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB83A)
-    (at -43.054999 69.473999 90)
+    (at 60.96 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C559F7)
@@ -14024,7 +14024,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB84D)
-    (at -13.654999 98.573999 90)
+    (at 99.06 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C559D0)
@@ -14062,7 +14062,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB860)
-    (at -28.354999 84.023999 90)
+    (at 99.06 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C559D7)
@@ -14100,7 +14100,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB873)
-    (at -48.934999 64.623999 90)
+    (at 91.44 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C559B4)
@@ -14138,7 +14138,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB886)
-    (at -19.534999 93.723999 90)
+    (at 83.82 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C559BC)
@@ -14252,7 +14252,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB8BF)
-    (at -66.574999 45.223999 90)
+    (at 68.58 43.18 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5596B)
@@ -14290,7 +14290,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB8D2)
-    (at -54.814999 59.773999 90)
+    (at 45.72 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55973)
@@ -14328,7 +14328,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB8E5)
-    (at -25.414999 88.873999 90)
+    (at 22.86 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5594B)
@@ -14366,7 +14366,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB8F8)
-    (at -34.234999 74.323999 90)
+    (at 95.25 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55952)
@@ -14404,7 +14404,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB90B)
-    (at -51.874999 59.773999 90)
+    (at 60.96 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5592B)
@@ -14442,7 +14442,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB91E)
-    (at -22.474999 88.873999 90)
+    (at 57.15 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55932)
@@ -14480,7 +14480,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB931)
-    (at -7.774999 103.423999 90)
+    (at 30.48 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5590B)
@@ -14518,7 +14518,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB944)
-    (at -37.174999 74.323999 90)
+    (at 53.34 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55912)
@@ -14556,7 +14556,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB957)
-    (at -60.694999 50.073999 90)
+    (at 60.96 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C558EB)
@@ -14594,7 +14594,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB96A)
-    (at -63.634999 45.223999 90)
+    (at 72.39 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C558F2)
@@ -14632,7 +14632,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB97D)
-    (at -40.114999 69.473999 90)
+    (at 57.15 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C558CB)
@@ -14670,7 +14670,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB990)
-    (at -10.714999 98.573999 90)
+    (at 57.15 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C558D2)
@@ -14708,7 +14708,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB9A3)
-    (at -25.414999 84.023999 90)
+    (at 53.34 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C558AD)
@@ -14746,7 +14746,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB9B6)
-    (at -54.814999 54.923999 90)
+    (at 99.06 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C558B4)
@@ -14860,7 +14860,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB9EF)
-    (at -28.354999 88.873999 90)
+    (at 57.15 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5586A)
@@ -14898,7 +14898,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBA02)
-    (at -19.534999 88.873999 90)
+    (at 64.77 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55871)
@@ -14936,7 +14936,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBA15)
-    (at -48.934999 59.773999 90)
+    (at 41.91 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5584A)
@@ -14974,7 +14974,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBA28)
-    (at -28.354999 79.173999 90)
+    (at 22.86 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55851)
@@ -15012,7 +15012,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBA3B)
-    (at -13.654999 93.723999 90)
+    (at 83.82 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5582A)
@@ -15050,7 +15050,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBA4E)
-    (at -43.054999 64.623999 90)
+    (at 64.77 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55831)
@@ -15088,7 +15088,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBA61)
-    (at -69.514999 35.523999 90)
+    (at 34.29 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5580A)
@@ -15126,7 +15126,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBA74)
-    (at -45.994999 59.773999 90)
+    (at 60.96 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55811)
@@ -15164,7 +15164,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBA87)
-    (at -16.594999 88.873999 90)
+    (at 72.39 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C557EA)
@@ -15202,7 +15202,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBA9A)
-    (at -31.294999 74.323999 90)
+    (at 95.25 77.47 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C557F1)
@@ -15240,7 +15240,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBAAD)
-    (at -51.874999 54.923999 90)
+    (at 60.96 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C557CA)
@@ -15278,7 +15278,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBAC0)
-    (at -22.474999 84.023999 90)
+    (at 60.96 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C557D1)
@@ -15316,7 +15316,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBAD3)
-    (at -63.634999 50.073999 90)
+    (at 57.15 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C557AE)
@@ -15430,7 +15430,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBB0C)
-    (at -34.234999 69.473999 90)
+    (at 60.96 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55765)
@@ -15468,7 +15468,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBB1F)
-    (at -19.534999 84.023999 90)
+    (at 68.58 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5576D)
@@ -15506,7 +15506,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBB32)
-    (at -48.934999 54.923999 90)
+    (at 57.15 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55745)
@@ -15544,7 +15544,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBB45)
-    (at -28.354999 74.323999 90)
+    (at 26.67 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5574C)
@@ -15582,7 +15582,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBB58)
-    (at -7.774999 98.573999 90)
+    (at 95.25 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55725)
@@ -15620,7 +15620,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBB6B)
-    (at -43.054999 59.773999 90)
+    (at 68.58 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5572C)
@@ -15658,7 +15658,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBB7E)
-    (at -69.514999 30.673999 90)
+    (at 41.91 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55705)
@@ -15696,7 +15696,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBB91)
-    (at -45.994999 54.923999 90)
+    (at 72.39 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5570C)
@@ -15734,7 +15734,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBBA4)
-    (at -16.594999 84.023999 90)
+    (at 76.2 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C556E5)
@@ -15772,7 +15772,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBBB7)
-    (at -31.294999 69.473999 90)
+    (at 53.34 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C556EC)
@@ -15810,7 +15810,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBBCA)
-    (at -51.874999 50.073999 90)
+    (at 64.77 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C556C5)
@@ -15848,7 +15848,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBBDD)
-    (at -22.474999 79.173999 90)
+    (at 64.77 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C556CC)
@@ -15886,7 +15886,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBBF0)
-    (at -45.994999 40.373999 90)
+    (at 64.77 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C556A7)
@@ -16000,7 +16000,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBC29)
-    (at -63.634999 35.523999 90)
+    (at 64.77 46.99 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55664)
@@ -16038,7 +16038,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBC3C)
-    (at -40.114999 59.773999 90)
+    (at 80.01 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5566B)
@@ -16076,7 +16076,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBC4F)
-    (at -10.714999 88.873999 90)
+    (at 60.96 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55644)
@@ -16114,7 +16114,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBC62)
-    (at -22.474999 74.323999 90)
+    (at 30.48 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5564B)
@@ -16152,7 +16152,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBC75)
-    (at -31.294999 59.773999 90)
+    (at 22.86 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55624)
@@ -16190,7 +16190,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBC88)
-    (at -16.594999 69.473999 90)
+    (at 72.39 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5562B)
@@ -16228,7 +16228,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBC9B)
-    (at -37.174999 50.073999 90)
+    (at 45.72 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55604)
@@ -16266,7 +16266,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBCAE)
-    (at -7.774999 79.173999 90)
+    (at 83.82 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5560B)
@@ -16304,7 +16304,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBCC1)
-    (at -22.474999 64.623999 90)
+    (at 83.82 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C555E4)
@@ -16342,7 +16342,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBCD4)
-    (at -51.874999 35.523999 90)
+    (at 57.15 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C555EB)
@@ -16380,7 +16380,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBCE7)
-    (at -7.774999 93.723999 90)
+    (at 72.39 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C555C4)
@@ -16418,7 +16418,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBCFA)
-    (at -16.594999 79.173999 90)
+    (at 72.39 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C555CB)
@@ -16456,7 +16456,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBD0D)
-    (at -31.294999 64.623999 90)
+    (at 72.39 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C555A8)
@@ -16570,7 +16570,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBD46)
-    (at -7.774999 88.873999 90)
+    (at 22.86 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5555F)
@@ -16608,7 +16608,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBD59)
-    (at -37.174999 59.773999 90)
+    (at 87.63 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55567)
@@ -16646,7 +16646,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBD6C)
-    (at -60.694999 35.523999 90)
+    (at 64.77 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5553F)
@@ -16684,7 +16684,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBD7F)
-    (at -63.634999 30.673999 90)
+    (at 34.29 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55546)
@@ -16722,7 +16722,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBD92)
-    (at -40.114999 54.923999 90)
+    (at 34.29 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5551F)
@@ -16760,7 +16760,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBDA5)
-    (at -10.714999 84.023999 90)
+    (at 80.01 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55526)
@@ -16798,7 +16798,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBDB8)
-    (at -25.414999 69.473999 90)
+    (at 57.15 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C554FF)
@@ -16836,7 +16836,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBDCB)
-    (at -54.814999 40.373999 90)
+    (at 87.63 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55506)
@@ -16874,7 +16874,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBDDE)
-    (at -57.754999 45.223999 90)
+    (at 87.63 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C554DF)
@@ -16912,7 +16912,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBDF1)
-    (at -34.234999 59.773999 90)
+    (at 68.58 81.28 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C554E6)
@@ -16950,7 +16950,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBE04)
-    (at -19.534999 74.323999 90)
+    (at 76.2 85.09 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C554BF)
@@ -16988,7 +16988,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBE17)
-    (at -48.934999 45.223999 90)
+    (at 76.2 88.9 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C554C6)
@@ -17026,7 +17026,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBE2A)
-    (at -13.654999 88.873999 90)
+    (at 83.82 92.71 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C554A1)
@@ -17140,7 +17140,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBE63)
-    (at -63.634999 40.373999 90)
+    (at 26.67 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5545E)
@@ -17178,7 +17178,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBE76)
-    (at -40.114999 64.623999 90)
+    (at 91.44 50.8 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55465)
@@ -17216,7 +17216,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBE89)
-    (at -10.714999 93.723999 90)
+    (at 76.2 54.61 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5543E)
@@ -17254,7 +17254,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBE9C)
-    (at -25.414999 79.173999 90)
+    (at 38.1 58.42 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55445)
@@ -17292,7 +17292,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBEAF)
-    (at -54.814999 50.073999 90)
+    (at 41.91 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C5541E)
@@ -17330,7 +17330,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBEC2)
-    (at -66.574999 35.523999 90)
+    (at 83.82 62.23 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55425)
@@ -17368,7 +17368,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBED5)
-    (at -13.654999 74.323999 90)
+    (at 64.77 66.04 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C553FE)
@@ -17406,7 +17406,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBEE8)
-    (at -13.654999 79.173999 90)
+    (at 91.44 69.85 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C55405)
@@ -17444,7 +17444,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBBEFB)
-    (at -43.054999 50.073999 90)
+    (at 95.25 73.66 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C553DE)
