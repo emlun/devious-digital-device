@@ -8228,8 +8228,6 @@ Wire Wire Line
 Connection ~ 6850 6800
 Wire Wire Line
 	6850 6800 6850 6900
-Wire Wire Line
-	6850 7900 6850 7950
 Connection ~ 6850 7950
 Wire Wire Line
 	6850 7950 6850 8050
@@ -9232,4 +9230,7 @@ Connection ~ 7150 800
 Connection ~ 7150 3200
 Connection ~ 7150 5500
 Connection ~ 7150 7850
+Wire Wire Line
+	6850 7850 6850 7950
+Connection ~ 6850 7850
 $EndSCHEMATC
