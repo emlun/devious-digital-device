@@ -14746,7 +14746,7 @@
   )
 
   (module LED_SMD:LED_0805_2012Metric_Castellated (layer F.Cu) (tedit 5B36C52C) (tstamp 5CBBB9B6)
-    (at -54.814999 54.923999 90)
+    (at 99.06 96.52 90)
     (descr "LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED castellated")
     (path /61AF721F/61C558B4)
