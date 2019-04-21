@@ -8582,7 +8582,6 @@ Connection ~ 2550 2000
 Connection ~ 2250 1400
 Connection ~ 2550 1400
 Connection ~ 2550 800 
-Connection ~ 1050 800 
 Wire Wire Line
 	950  800  1050 800 
 Wire Wire Line
@@ -8674,15 +8673,6 @@ Wire Wire Line
 Connection ~ 1050 1100
 Wire Wire Line
 	1050 1000 1050 1100
-Connection ~ 1050 1000
-Wire Wire Line
-	1050 900  1050 1000
-Connection ~ 1050 900 
-Wire Wire Line
-	1050 800  1050 900 
-Wire Wire Line
-	1350 800  1350 900 
-Connection ~ 1350 900 
 $Comp
 L Device:LED D?
 U 1 1 61C56D87
@@ -8694,19 +8684,6 @@ F 1 "LED" H 1193 736 50  0000 C CNN
 F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 900 50  0001 C CNN
 F 3 "~" H 1200 900 50  0001 C CNN
 	1    1200 900 
-	-1   0    0    1   
-$EndComp
-$Comp
-L Device:LED D?
-U 1 1 61C56D7B
-P 1200 800
-AR Path="/61C56D7B" Ref="D?"  Part="1" 
-AR Path="/61AF721F/61C56D7B" Ref="D201"  Part="1" 
-F 0 "D201" H 1193 545 50  0000 C CNN
-F 1 "LED" H 1193 636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 800 50  0001 C CNN
-F 3 "~" H 1200 800 50  0001 C CNN
-	1    1200 800 
 	-1   0    0    1   
 $EndComp
 Connection ~ 1350 1100
@@ -8725,22 +8702,6 @@ F 1 "LED" H 1193 936 50  0000 C CNN
 F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 1100 50  0001 C CNN
 F 3 "~" H 1200 1100 50  0001 C CNN
 	1    1200 1100
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	1350 900  1350 1000
-Connection ~ 1350 1000
-$Comp
-L Device:LED D?
-U 1 1 61C56D5A
-P 1200 1000
-AR Path="/61C56D5A" Ref="D?"  Part="1" 
-AR Path="/61AF721F/61C56D5A" Ref="D203"  Part="1" 
-F 0 "D203" H 1193 745 50  0000 C CNN
-F 1 "LED" H 1193 836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 1000 50  0001 C CNN
-F 3 "~" H 1200 1000 50  0001 C CNN
-	1    1200 1000
 	-1   0    0    1   
 $EndComp
 Connection ~ 1350 1300
@@ -9204,7 +9165,6 @@ F 3 "~" H 1200 4000 50  0001 C CNN
 	1    1200 4000
 	-1   0    0    1   
 $EndComp
-Connection ~ 1350 800 
 Connection ~ 1050 4350
 Connection ~ 1350 4350
 Connection ~ 1050 7900
@@ -9233,4 +9193,44 @@ Connection ~ 7450 800
 Connection ~ 7450 3200
 Connection ~ 7450 5500
 Connection ~ 7450 7850
+$Comp
+L Device:LED D?
+U 1 1 61C56D5A
+P 1200 1000
+AR Path="/61C56D5A" Ref="D?"  Part="1" 
+AR Path="/61AF721F/61C56D5A" Ref="D203"  Part="1" 
+F 0 "D203" H 1193 745 50  0000 C CNN
+F 1 "LED" H 1193 836 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 1000 50  0001 C CNN
+F 3 "~" H 1200 1000 50  0001 C CNN
+	1    1200 1000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 61C56D7B
+P 1200 800
+AR Path="/61C56D7B" Ref="D?"  Part="1" 
+AR Path="/61AF721F/61C56D7B" Ref="D201"  Part="1" 
+F 0 "D201" H 1193 545 50  0000 C CNN
+F 1 "LED" H 1193 636 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 800 50  0001 C CNN
+F 3 "~" H 1200 800 50  0001 C CNN
+	1    1200 800 
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1050 800  1050 900 
+Connection ~ 1050 800 
+Wire Wire Line
+	1050 900  1050 1000
+Connection ~ 1050 900 
+Connection ~ 1050 1000
+Wire Wire Line
+	1350 1000 1350 900 
+Connection ~ 1350 1000
+Wire Wire Line
+	1350 900  1350 800 
+Connection ~ 1350 900 
+Connection ~ 1350 800 
 $EndSCHEMATC
