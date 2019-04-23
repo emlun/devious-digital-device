@@ -8473,7 +8473,7 @@ AR Path="/61C56D87" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56D87" Ref="D22"  Part="1" 
 F 0 "D22" H 1193 645 50  0000 C CNN
 F 1 "LED" H 1193 736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 900 50  0001 C CNN
 F 3 "~" H 1200 900 50  0001 C CNN
 	1    1200 900 
 	-1   0    0    1   
@@ -8491,7 +8491,7 @@ AR Path="/61C56D62" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56D62" Ref="D24"  Part="1" 
 F 0 "D24" H 1193 845 50  0000 C CNN
 F 1 "LED" H 1193 936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 1100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 1100 50  0001 C CNN
 F 3 "~" H 1200 1100 50  0001 C CNN
 	1    1200 1100
 	-1   0    0    1   
@@ -8523,7 +8523,7 @@ AR Path="/61C56D3A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56D3A" Ref="D25"  Part="1" 
 F 0 "D25" H 1193 945 50  0000 C CNN
 F 1 "LED" H 1193 1036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 1200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 1200 50  0001 C CNN
 F 3 "~" H 1200 1200 50  0001 C CNN
 	1    1200 1200
 	-1   0    0    1   
@@ -8993,7 +8993,7 @@ AR Path="/61C56D5A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56D5A" Ref="D23"  Part="1" 
 F 0 "D23" H 1193 745 50  0000 C CNN
 F 1 "LED" H 1193 836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 1000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 1000 50  0001 C CNN
 F 3 "~" H 1200 1000 50  0001 C CNN
 	1    1200 1000
 	-1   0    0    1   
@@ -9006,7 +9006,7 @@ AR Path="/61C56D7B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56D7B" Ref="D21"  Part="1" 
 F 0 "D21" H 1193 545 50  0000 C CNN
 F 1 "LED" H 1193 636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 800 50  0001 C CNN
 F 3 "~" H 1200 800 50  0001 C CNN
 	1    1200 800 
 	-1   0    0    1   

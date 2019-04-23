@@ -24,7 +24,7 @@ AR Path="/61C553A2" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C553A2" Ref="D461"  Part="1" 
 F 0 "D461" H 7293 8995 50  0000 C CNN
 F 1 "LED" H 7293 9086 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 9250 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 9250 50  0001 C CNN
 F 3 "~" H 7300 9250 50  0001 C CNN
 	1    7300 9250
 	-1   0    0    1   
@@ -37,7 +37,7 @@ AR Path="/61C553BE" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C553BE" Ref="D459"  Part="1" 
 F 0 "D459" H 7293 8795 50  0000 C CNN
 F 1 "LED" H 7293 8886 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 9050 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 9050 50  0001 C CNN
 F 3 "~" H 7300 9050 50  0001 C CNN
 	1    7300 9050
 	-1   0    0    1   
@@ -51,7 +51,7 @@ AR Path="/61C553C5" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C553C5" Ref="D460"  Part="1" 
 F 0 "D460" H 7293 8895 50  0000 C CNN
 F 1 "LED" H 7293 8986 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 9150 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 9150 50  0001 C CNN
 F 3 "~" H 7300 9150 50  0001 C CNN
 	1    7300 9150
 	-1   0    0    1   
@@ -69,7 +69,7 @@ AR Path="/61C553DE" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C553DE" Ref="D457"  Part="1" 
 F 0 "D457" H 7293 8595 50  0000 C CNN
 F 1 "LED" H 7293 8686 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 8850 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 8850 50  0001 C CNN
 F 3 "~" H 7300 8850 50  0001 C CNN
 	1    7300 8850
 	-1   0    0    1   
@@ -83,7 +83,7 @@ AR Path="/61C553E5" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C553E5" Ref="D458"  Part="1" 
 F 0 "D458" H 7293 8695 50  0000 C CNN
 F 1 "LED" H 7293 8786 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 8950 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 8950 50  0001 C CNN
 F 3 "~" H 7300 8950 50  0001 C CNN
 	1    7300 8950
 	-1   0    0    1   
@@ -101,7 +101,7 @@ AR Path="/61C553FE" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C553FE" Ref="D455"  Part="1" 
 F 0 "D455" H 7293 8395 50  0000 C CNN
 F 1 "LED" H 7293 8486 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 8650 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 8650 50  0001 C CNN
 F 3 "~" H 7300 8650 50  0001 C CNN
 	1    7300 8650
 	-1   0    0    1   
@@ -115,7 +115,7 @@ AR Path="/61C55405" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55405" Ref="D456"  Part="1" 
 F 0 "D456" H 7293 8495 50  0000 C CNN
 F 1 "LED" H 7293 8586 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 8750 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 8750 50  0001 C CNN
 F 3 "~" H 7300 8750 50  0001 C CNN
 	1    7300 8750
 	-1   0    0    1   
@@ -133,7 +133,7 @@ AR Path="/61C5541E" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5541E" Ref="D453"  Part="1" 
 F 0 "D453" H 7293 8195 50  0000 C CNN
 F 1 "LED" H 7293 8286 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 8450 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 8450 50  0001 C CNN
 F 3 "~" H 7300 8450 50  0001 C CNN
 	1    7300 8450
 	-1   0    0    1   
@@ -147,7 +147,7 @@ AR Path="/61C55425" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55425" Ref="D454"  Part="1" 
 F 0 "D454" H 7293 8295 50  0000 C CNN
 F 1 "LED" H 7293 8386 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 8550 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 8550 50  0001 C CNN
 F 3 "~" H 7300 8550 50  0001 C CNN
 	1    7300 8550
 	-1   0    0    1   
@@ -165,7 +165,7 @@ AR Path="/61C5543E" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5543E" Ref="D451"  Part="1" 
 F 0 "D451" H 7293 7995 50  0000 C CNN
 F 1 "LED" H 7293 8086 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 8250 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 8250 50  0001 C CNN
 F 3 "~" H 7300 8250 50  0001 C CNN
 	1    7300 8250
 	-1   0    0    1   
@@ -179,7 +179,7 @@ AR Path="/61C55445" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55445" Ref="D452"  Part="1" 
 F 0 "D452" H 7293 8095 50  0000 C CNN
 F 1 "LED" H 7293 8186 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 8350 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 8350 50  0001 C CNN
 F 3 "~" H 7300 8350 50  0001 C CNN
 	1    7300 8350
 	-1   0    0    1   
@@ -197,7 +197,7 @@ AR Path="/61C5545E" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5545E" Ref="D449"  Part="1" 
 F 0 "D449" H 7293 7795 50  0000 C CNN
 F 1 "LED" H 7293 7886 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 8050 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 8050 50  0001 C CNN
 F 3 "~" H 7300 8050 50  0001 C CNN
 	1    7300 8050
 	-1   0    0    1   
@@ -211,7 +211,7 @@ AR Path="/61C55465" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55465" Ref="D450"  Part="1" 
 F 0 "D450" H 7293 7895 50  0000 C CNN
 F 1 "LED" H 7293 7986 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 8150 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 8150 50  0001 C CNN
 F 3 "~" H 7300 8150 50  0001 C CNN
 	1    7300 8150
 	-1   0    0    1   
@@ -229,7 +229,7 @@ AR Path="/61C5547E" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5547E" Ref="D447"  Part="1" 
 F 0 "D447" H 7293 7595 50  0000 C CNN
 F 1 "LED" H 7293 7686 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 7850 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 7850 50  0001 C CNN
 F 3 "~" H 7300 7850 50  0001 C CNN
 	1    7300 7850
 	-1   0    0    1   
@@ -242,7 +242,7 @@ AR Path="/61C55485" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55485" Ref="D448"  Part="1" 
 F 0 "D448" H 7293 7695 50  0000 C CNN
 F 1 "LED" H 7293 7786 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 7950 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 7950 50  0001 C CNN
 F 3 "~" H 7300 7950 50  0001 C CNN
 	1    7300 7950
 	-1   0    0    1   
@@ -275,7 +275,7 @@ AR Path="/61C554A1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C554A1" Ref="D446"  Part="1" 
 F 0 "D446" H 7293 6645 50  0000 C CNN
 F 1 "LED" H 7293 6736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 6900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 6900 50  0001 C CNN
 F 3 "~" H 7300 6900 50  0001 C CNN
 	1    7300 6900
 	-1   0    0    1   
@@ -288,7 +288,7 @@ AR Path="/61C554BF" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C554BF" Ref="D444"  Part="1" 
 F 0 "D444" H 7293 6445 50  0000 C CNN
 F 1 "LED" H 7293 6536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 6700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 6700 50  0001 C CNN
 F 3 "~" H 7300 6700 50  0001 C CNN
 	1    7300 6700
 	-1   0    0    1   
@@ -302,7 +302,7 @@ AR Path="/61C554C6" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C554C6" Ref="D445"  Part="1" 
 F 0 "D445" H 7293 6545 50  0000 C CNN
 F 1 "LED" H 7293 6636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 6800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 6800 50  0001 C CNN
 F 3 "~" H 7300 6800 50  0001 C CNN
 	1    7300 6800
 	-1   0    0    1   
@@ -320,7 +320,7 @@ AR Path="/61C554DF" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C554DF" Ref="D442"  Part="1" 
 F 0 "D442" H 7293 6245 50  0000 C CNN
 F 1 "LED" H 7293 6336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 6500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 6500 50  0001 C CNN
 F 3 "~" H 7300 6500 50  0001 C CNN
 	1    7300 6500
 	-1   0    0    1   
@@ -334,7 +334,7 @@ AR Path="/61C554E6" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C554E6" Ref="D443"  Part="1" 
 F 0 "D443" H 7293 6345 50  0000 C CNN
 F 1 "LED" H 7293 6436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 6600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 6600 50  0001 C CNN
 F 3 "~" H 7300 6600 50  0001 C CNN
 	1    7300 6600
 	-1   0    0    1   
@@ -352,7 +352,7 @@ AR Path="/61C554FF" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C554FF" Ref="D440"  Part="1" 
 F 0 "D440" H 7293 6045 50  0000 C CNN
 F 1 "LED" H 7293 6136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 6300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 6300 50  0001 C CNN
 F 3 "~" H 7300 6300 50  0001 C CNN
 	1    7300 6300
 	-1   0    0    1   
@@ -366,7 +366,7 @@ AR Path="/61C55506" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55506" Ref="D441"  Part="1" 
 F 0 "D441" H 7293 6145 50  0000 C CNN
 F 1 "LED" H 7293 6236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 6400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 6400 50  0001 C CNN
 F 3 "~" H 7300 6400 50  0001 C CNN
 	1    7300 6400
 	-1   0    0    1   
@@ -384,7 +384,7 @@ AR Path="/61C5551F" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5551F" Ref="D438"  Part="1" 
 F 0 "D438" H 7293 5845 50  0000 C CNN
 F 1 "LED" H 7293 5936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 6100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 6100 50  0001 C CNN
 F 3 "~" H 7300 6100 50  0001 C CNN
 	1    7300 6100
 	-1   0    0    1   
@@ -398,7 +398,7 @@ AR Path="/61C55526" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55526" Ref="D439"  Part="1" 
 F 0 "D439" H 7293 5945 50  0000 C CNN
 F 1 "LED" H 7293 6036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 6200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 6200 50  0001 C CNN
 F 3 "~" H 7300 6200 50  0001 C CNN
 	1    7300 6200
 	-1   0    0    1   
@@ -416,7 +416,7 @@ AR Path="/61C5553F" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5553F" Ref="D436"  Part="1" 
 F 0 "D436" H 7293 5645 50  0000 C CNN
 F 1 "LED" H 7293 5736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 5900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 5900 50  0001 C CNN
 F 3 "~" H 7300 5900 50  0001 C CNN
 	1    7300 5900
 	-1   0    0    1   
@@ -430,7 +430,7 @@ AR Path="/61C55546" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55546" Ref="D437"  Part="1" 
 F 0 "D437" H 7293 5745 50  0000 C CNN
 F 1 "LED" H 7293 5836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 6000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 6000 50  0001 C CNN
 F 3 "~" H 7300 6000 50  0001 C CNN
 	1    7300 6000
 	-1   0    0    1   
@@ -448,7 +448,7 @@ AR Path="/61C5555F" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5555F" Ref="D434"  Part="1" 
 F 0 "D434" H 7293 5445 50  0000 C CNN
 F 1 "LED" H 7293 5536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 5700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 5700 50  0001 C CNN
 F 3 "~" H 7300 5700 50  0001 C CNN
 	1    7300 5700
 	-1   0    0    1   
@@ -464,7 +464,7 @@ AR Path="/61C55567" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55567" Ref="D435"  Part="1" 
 F 0 "D435" H 7293 5545 50  0000 C CNN
 F 1 "LED" H 7293 5636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 5800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 5800 50  0001 C CNN
 F 3 "~" H 7300 5800 50  0001 C CNN
 	1    7300 5800
 	-1   0    0    1   
@@ -482,7 +482,7 @@ AR Path="/61C55580" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55580" Ref="D432"  Part="1" 
 F 0 "D432" H 7293 5245 50  0000 C CNN
 F 1 "LED" H 7293 5336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 5500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 5500 50  0001 C CNN
 F 3 "~" H 7300 5500 50  0001 C CNN
 	1    7300 5500
 	-1   0    0    1   
@@ -495,7 +495,7 @@ AR Path="/61C5558C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5558C" Ref="D433"  Part="1" 
 F 0 "D433" H 7293 5345 50  0000 C CNN
 F 1 "LED" H 7293 5436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 5600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 5600 50  0001 C CNN
 F 3 "~" H 7300 5600 50  0001 C CNN
 	1    7300 5600
 	-1   0    0    1   
@@ -526,7 +526,7 @@ AR Path="/61C555A8" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C555A8" Ref="D431"  Part="1" 
 F 0 "D431" H 7293 4345 50  0000 C CNN
 F 1 "LED" H 7293 4436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 4600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 4600 50  0001 C CNN
 F 3 "~" H 7300 4600 50  0001 C CNN
 	1    7300 4600
 	-1   0    0    1   
@@ -539,7 +539,7 @@ AR Path="/61C555C4" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C555C4" Ref="D429"  Part="1" 
 F 0 "D429" H 7293 4145 50  0000 C CNN
 F 1 "LED" H 7293 4236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 4400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 4400 50  0001 C CNN
 F 3 "~" H 7300 4400 50  0001 C CNN
 	1    7300 4400
 	-1   0    0    1   
@@ -553,7 +553,7 @@ AR Path="/61C555CB" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C555CB" Ref="D430"  Part="1" 
 F 0 "D430" H 7293 4245 50  0000 C CNN
 F 1 "LED" H 7293 4336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 4500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 4500 50  0001 C CNN
 F 3 "~" H 7300 4500 50  0001 C CNN
 	1    7300 4500
 	-1   0    0    1   
@@ -571,7 +571,7 @@ AR Path="/61C555E4" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C555E4" Ref="D427"  Part="1" 
 F 0 "D427" H 7293 3945 50  0000 C CNN
 F 1 "LED" H 7293 4036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 4200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 4200 50  0001 C CNN
 F 3 "~" H 7300 4200 50  0001 C CNN
 	1    7300 4200
 	-1   0    0    1   
@@ -585,7 +585,7 @@ AR Path="/61C555EB" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C555EB" Ref="D428"  Part="1" 
 F 0 "D428" H 7293 4045 50  0000 C CNN
 F 1 "LED" H 7293 4136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 4300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 4300 50  0001 C CNN
 F 3 "~" H 7300 4300 50  0001 C CNN
 	1    7300 4300
 	-1   0    0    1   
@@ -603,7 +603,7 @@ AR Path="/61C55604" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55604" Ref="D425"  Part="1" 
 F 0 "D425" H 7293 3745 50  0000 C CNN
 F 1 "LED" H 7293 3836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 4000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 4000 50  0001 C CNN
 F 3 "~" H 7300 4000 50  0001 C CNN
 	1    7300 4000
 	-1   0    0    1   
@@ -617,7 +617,7 @@ AR Path="/61C5560B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5560B" Ref="D426"  Part="1" 
 F 0 "D426" H 7293 3845 50  0000 C CNN
 F 1 "LED" H 7293 3936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 4100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 4100 50  0001 C CNN
 F 3 "~" H 7300 4100 50  0001 C CNN
 	1    7300 4100
 	-1   0    0    1   
@@ -635,7 +635,7 @@ AR Path="/61C55624" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55624" Ref="D423"  Part="1" 
 F 0 "D423" H 7293 3545 50  0000 C CNN
 F 1 "LED" H 7293 3636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 3800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 3800 50  0001 C CNN
 F 3 "~" H 7300 3800 50  0001 C CNN
 	1    7300 3800
 	-1   0    0    1   
@@ -649,7 +649,7 @@ AR Path="/61C5562B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5562B" Ref="D424"  Part="1" 
 F 0 "D424" H 7293 3645 50  0000 C CNN
 F 1 "LED" H 7293 3736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 3900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 3900 50  0001 C CNN
 F 3 "~" H 7300 3900 50  0001 C CNN
 	1    7300 3900
 	-1   0    0    1   
@@ -667,7 +667,7 @@ AR Path="/61C55644" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55644" Ref="D421"  Part="1" 
 F 0 "D421" H 7293 3345 50  0000 C CNN
 F 1 "LED" H 7293 3436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 3600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 3600 50  0001 C CNN
 F 3 "~" H 7300 3600 50  0001 C CNN
 	1    7300 3600
 	-1   0    0    1   
@@ -681,7 +681,7 @@ AR Path="/61C5564B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5564B" Ref="D422"  Part="1" 
 F 0 "D422" H 7293 3445 50  0000 C CNN
 F 1 "LED" H 7293 3536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 3700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 3700 50  0001 C CNN
 F 3 "~" H 7300 3700 50  0001 C CNN
 	1    7300 3700
 	-1   0    0    1   
@@ -699,7 +699,7 @@ AR Path="/61C55664" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55664" Ref="D419"  Part="1" 
 F 0 "D419" H 7293 3145 50  0000 C CNN
 F 1 "LED" H 7293 3236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 3400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 3400 50  0001 C CNN
 F 3 "~" H 7300 3400 50  0001 C CNN
 	1    7300 3400
 	-1   0    0    1   
@@ -713,7 +713,7 @@ AR Path="/61C5566B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5566B" Ref="D420"  Part="1" 
 F 0 "D420" H 7293 3245 50  0000 C CNN
 F 1 "LED" H 7293 3336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 3500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 3500 50  0001 C CNN
 F 3 "~" H 7300 3500 50  0001 C CNN
 	1    7300 3500
 	-1   0    0    1   
@@ -731,7 +731,7 @@ AR Path="/61C55684" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55684" Ref="D417"  Part="1" 
 F 0 "D417" H 7293 2945 50  0000 C CNN
 F 1 "LED" H 7293 3036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 3200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 3200 50  0001 C CNN
 F 3 "~" H 7300 3200 50  0001 C CNN
 	1    7300 3200
 	-1   0    0    1   
@@ -744,7 +744,7 @@ AR Path="/61C5568B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5568B" Ref="D418"  Part="1" 
 F 0 "D418" H 7293 3045 50  0000 C CNN
 F 1 "LED" H 7293 3136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 3300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 3300 50  0001 C CNN
 F 3 "~" H 7300 3300 50  0001 C CNN
 	1    7300 3300
 	-1   0    0    1   
@@ -777,7 +777,7 @@ AR Path="/61C556A7" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C556A7" Ref="D416"  Part="1" 
 F 0 "D416" H 7293 1945 50  0000 C CNN
 F 1 "LED" H 7293 2036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 2200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 2200 50  0001 C CNN
 F 3 "~" H 7300 2200 50  0001 C CNN
 	1    7300 2200
 	-1   0    0    1   
@@ -790,7 +790,7 @@ AR Path="/61C556C5" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C556C5" Ref="D414"  Part="1" 
 F 0 "D414" H 7293 1745 50  0000 C CNN
 F 1 "LED" H 7293 1836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 2000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 2000 50  0001 C CNN
 F 3 "~" H 7300 2000 50  0001 C CNN
 	1    7300 2000
 	-1   0    0    1   
@@ -804,7 +804,7 @@ AR Path="/61C556CC" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C556CC" Ref="D415"  Part="1" 
 F 0 "D415" H 7293 1845 50  0000 C CNN
 F 1 "LED" H 7293 1936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 2100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 2100 50  0001 C CNN
 F 3 "~" H 7300 2100 50  0001 C CNN
 	1    7300 2100
 	-1   0    0    1   
@@ -822,7 +822,7 @@ AR Path="/61C556E5" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C556E5" Ref="D412"  Part="1" 
 F 0 "D412" H 7293 1545 50  0000 C CNN
 F 1 "LED" H 7293 1636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 1800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 1800 50  0001 C CNN
 F 3 "~" H 7300 1800 50  0001 C CNN
 	1    7300 1800
 	-1   0    0    1   
@@ -836,7 +836,7 @@ AR Path="/61C556EC" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C556EC" Ref="D413"  Part="1" 
 F 0 "D413" H 7293 1645 50  0000 C CNN
 F 1 "LED" H 7293 1736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 1900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 1900 50  0001 C CNN
 F 3 "~" H 7300 1900 50  0001 C CNN
 	1    7300 1900
 	-1   0    0    1   
@@ -854,7 +854,7 @@ AR Path="/61C55705" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55705" Ref="D410"  Part="1" 
 F 0 "D410" H 7293 1345 50  0000 C CNN
 F 1 "LED" H 7293 1436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 1600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 1600 50  0001 C CNN
 F 3 "~" H 7300 1600 50  0001 C CNN
 	1    7300 1600
 	-1   0    0    1   
@@ -868,7 +868,7 @@ AR Path="/61C5570C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5570C" Ref="D411"  Part="1" 
 F 0 "D411" H 7293 1445 50  0000 C CNN
 F 1 "LED" H 7293 1536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 1700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 1700 50  0001 C CNN
 F 3 "~" H 7300 1700 50  0001 C CNN
 	1    7300 1700
 	-1   0    0    1   
@@ -886,7 +886,7 @@ AR Path="/61C55725" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55725" Ref="D408"  Part="1" 
 F 0 "D408" H 7293 1145 50  0000 C CNN
 F 1 "LED" H 7293 1236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 1400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 1400 50  0001 C CNN
 F 3 "~" H 7300 1400 50  0001 C CNN
 	1    7300 1400
 	-1   0    0    1   
@@ -900,7 +900,7 @@ AR Path="/61C5572C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5572C" Ref="D409"  Part="1" 
 F 0 "D409" H 7293 1245 50  0000 C CNN
 F 1 "LED" H 7293 1336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 1500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 1500 50  0001 C CNN
 F 3 "~" H 7300 1500 50  0001 C CNN
 	1    7300 1500
 	-1   0    0    1   
@@ -918,7 +918,7 @@ AR Path="/61C55745" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55745" Ref="D406"  Part="1" 
 F 0 "D406" H 7293 945 50  0000 C CNN
 F 1 "LED" H 7293 1036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 1200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 1200 50  0001 C CNN
 F 3 "~" H 7300 1200 50  0001 C CNN
 	1    7300 1200
 	-1   0    0    1   
@@ -932,7 +932,7 @@ AR Path="/61C5574C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5574C" Ref="D407"  Part="1" 
 F 0 "D407" H 7293 1045 50  0000 C CNN
 F 1 "LED" H 7293 1136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 1300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 1300 50  0001 C CNN
 F 3 "~" H 7300 1300 50  0001 C CNN
 	1    7300 1300
 	-1   0    0    1   
@@ -950,7 +950,7 @@ AR Path="/61C55765" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55765" Ref="D404"  Part="1" 
 F 0 "D404" H 7293 745 50  0000 C CNN
 F 1 "LED" H 7293 836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 1000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 1000 50  0001 C CNN
 F 3 "~" H 7300 1000 50  0001 C CNN
 	1    7300 1000
 	-1   0    0    1   
@@ -966,7 +966,7 @@ AR Path="/61C5576D" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5576D" Ref="D405"  Part="1" 
 F 0 "D405" H 7293 845 50  0000 C CNN
 F 1 "LED" H 7293 936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 1100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 1100 50  0001 C CNN
 F 3 "~" H 7300 1100 50  0001 C CNN
 	1    7300 1100
 	-1   0    0    1   
@@ -984,7 +984,7 @@ AR Path="/61C55786" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55786" Ref="D402"  Part="1" 
 F 0 "D402" H 7293 545 50  0000 C CNN
 F 1 "LED" H 7293 636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 800 50  0001 C CNN
 F 3 "~" H 7300 800 50  0001 C CNN
 	1    7300 800 
 	-1   0    0    1   
@@ -1010,7 +1010,7 @@ AR Path="/61C55792" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55792" Ref="D403"  Part="1" 
 F 0 "D403" H 7293 645 50  0000 C CNN
 F 1 "LED" H 7293 736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 7300 900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 7300 900 50  0001 C CNN
 F 3 "~" H 7300 900 50  0001 C CNN
 	1    7300 900 
 	-1   0    0    1   
@@ -1039,7 +1039,7 @@ AR Path="/61C557AE" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C557AE" Ref="D401"  Part="1" 
 F 0 "D401" H 6143 8995 50  0000 C CNN
 F 1 "LED" H 6143 9086 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 9250 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 9250 50  0001 C CNN
 F 3 "~" H 6150 9250 50  0001 C CNN
 	1    6150 9250
 	-1   0    0    1   
@@ -1052,7 +1052,7 @@ AR Path="/61C557CA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C557CA" Ref="D399"  Part="1" 
 F 0 "D399" H 6143 8795 50  0000 C CNN
 F 1 "LED" H 6143 8886 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 9050 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 9050 50  0001 C CNN
 F 3 "~" H 6150 9050 50  0001 C CNN
 	1    6150 9050
 	-1   0    0    1   
@@ -1066,7 +1066,7 @@ AR Path="/61C557D1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C557D1" Ref="D400"  Part="1" 
 F 0 "D400" H 6143 8895 50  0000 C CNN
 F 1 "LED" H 6143 8986 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 9150 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 9150 50  0001 C CNN
 F 3 "~" H 6150 9150 50  0001 C CNN
 	1    6150 9150
 	-1   0    0    1   
@@ -1084,7 +1084,7 @@ AR Path="/61C557EA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C557EA" Ref="D397"  Part="1" 
 F 0 "D397" H 6143 8595 50  0000 C CNN
 F 1 "LED" H 6143 8686 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 8850 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 8850 50  0001 C CNN
 F 3 "~" H 6150 8850 50  0001 C CNN
 	1    6150 8850
 	-1   0    0    1   
@@ -1098,7 +1098,7 @@ AR Path="/61C557F1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C557F1" Ref="D398"  Part="1" 
 F 0 "D398" H 6143 8695 50  0000 C CNN
 F 1 "LED" H 6143 8786 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 8950 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 8950 50  0001 C CNN
 F 3 "~" H 6150 8950 50  0001 C CNN
 	1    6150 8950
 	-1   0    0    1   
@@ -1116,7 +1116,7 @@ AR Path="/61C5580A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5580A" Ref="D395"  Part="1" 
 F 0 "D395" H 6143 8395 50  0000 C CNN
 F 1 "LED" H 6143 8486 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 8650 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 8650 50  0001 C CNN
 F 3 "~" H 6150 8650 50  0001 C CNN
 	1    6150 8650
 	-1   0    0    1   
@@ -1130,7 +1130,7 @@ AR Path="/61C55811" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55811" Ref="D396"  Part="1" 
 F 0 "D396" H 6143 8495 50  0000 C CNN
 F 1 "LED" H 6143 8586 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 8750 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 8750 50  0001 C CNN
 F 3 "~" H 6150 8750 50  0001 C CNN
 	1    6150 8750
 	-1   0    0    1   
@@ -1148,7 +1148,7 @@ AR Path="/61C5582A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5582A" Ref="D393"  Part="1" 
 F 0 "D393" H 6143 8195 50  0000 C CNN
 F 1 "LED" H 6143 8286 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 8450 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 8450 50  0001 C CNN
 F 3 "~" H 6150 8450 50  0001 C CNN
 	1    6150 8450
 	-1   0    0    1   
@@ -1162,7 +1162,7 @@ AR Path="/61C55831" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55831" Ref="D394"  Part="1" 
 F 0 "D394" H 6143 8295 50  0000 C CNN
 F 1 "LED" H 6143 8386 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 8550 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 8550 50  0001 C CNN
 F 3 "~" H 6150 8550 50  0001 C CNN
 	1    6150 8550
 	-1   0    0    1   
@@ -1180,7 +1180,7 @@ AR Path="/61C5584A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5584A" Ref="D391"  Part="1" 
 F 0 "D391" H 6143 7995 50  0000 C CNN
 F 1 "LED" H 6143 8086 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 8250 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 8250 50  0001 C CNN
 F 3 "~" H 6150 8250 50  0001 C CNN
 	1    6150 8250
 	-1   0    0    1   
@@ -1194,7 +1194,7 @@ AR Path="/61C55851" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55851" Ref="D392"  Part="1" 
 F 0 "D392" H 6143 8095 50  0000 C CNN
 F 1 "LED" H 6143 8186 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 8350 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 8350 50  0001 C CNN
 F 3 "~" H 6150 8350 50  0001 C CNN
 	1    6150 8350
 	-1   0    0    1   
@@ -1212,7 +1212,7 @@ AR Path="/61C5586A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5586A" Ref="D389"  Part="1" 
 F 0 "D389" H 6143 7795 50  0000 C CNN
 F 1 "LED" H 6143 7886 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 8050 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 8050 50  0001 C CNN
 F 3 "~" H 6150 8050 50  0001 C CNN
 	1    6150 8050
 	-1   0    0    1   
@@ -1226,7 +1226,7 @@ AR Path="/61C55871" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55871" Ref="D390"  Part="1" 
 F 0 "D390" H 6143 7895 50  0000 C CNN
 F 1 "LED" H 6143 7986 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 8150 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 8150 50  0001 C CNN
 F 3 "~" H 6150 8150 50  0001 C CNN
 	1    6150 8150
 	-1   0    0    1   
@@ -1244,7 +1244,7 @@ AR Path="/61C5588A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5588A" Ref="D387"  Part="1" 
 F 0 "D387" H 6143 7595 50  0000 C CNN
 F 1 "LED" H 6143 7686 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 7850 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 7850 50  0001 C CNN
 F 3 "~" H 6150 7850 50  0001 C CNN
 	1    6150 7850
 	-1   0    0    1   
@@ -1257,7 +1257,7 @@ AR Path="/61C55891" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55891" Ref="D388"  Part="1" 
 F 0 "D388" H 6143 7695 50  0000 C CNN
 F 1 "LED" H 6143 7786 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 7950 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 7950 50  0001 C CNN
 F 3 "~" H 6150 7950 50  0001 C CNN
 	1    6150 7950
 	-1   0    0    1   
@@ -1288,7 +1288,7 @@ AR Path="/61C558AD" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C558AD" Ref="D385"  Part="1" 
 F 0 "D385" H 6143 6645 50  0000 C CNN
 F 1 "LED" H 6143 6736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 6900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 6900 50  0001 C CNN
 F 3 "~" H 6150 6900 50  0001 C CNN
 	1    6150 6900
 	-1   0    0    1   
@@ -1302,7 +1302,7 @@ AR Path="/61C558B4" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C558B4" Ref="D386"  Part="1" 
 F 0 "D386" H 6143 6745 50  0000 C CNN
 F 1 "LED" H 6143 6836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 7000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 7000 50  0001 C CNN
 F 3 "~" H 6150 7000 50  0001 C CNN
 	1    6150 7000
 	-1   0    0    1   
@@ -1317,7 +1317,7 @@ AR Path="/61C558CB" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C558CB" Ref="D383"  Part="1" 
 F 0 "D383" H 6143 6445 50  0000 C CNN
 F 1 "LED" H 6143 6536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 6700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 6700 50  0001 C CNN
 F 3 "~" H 6150 6700 50  0001 C CNN
 	1    6150 6700
 	-1   0    0    1   
@@ -1331,7 +1331,7 @@ AR Path="/61C558D2" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C558D2" Ref="D384"  Part="1" 
 F 0 "D384" H 6143 6545 50  0000 C CNN
 F 1 "LED" H 6143 6636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 6800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 6800 50  0001 C CNN
 F 3 "~" H 6150 6800 50  0001 C CNN
 	1    6150 6800
 	-1   0    0    1   
@@ -1349,7 +1349,7 @@ AR Path="/61C558EB" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C558EB" Ref="D381"  Part="1" 
 F 0 "D381" H 6143 6245 50  0000 C CNN
 F 1 "LED" H 6143 6336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 6500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 6500 50  0001 C CNN
 F 3 "~" H 6150 6500 50  0001 C CNN
 	1    6150 6500
 	-1   0    0    1   
@@ -1363,7 +1363,7 @@ AR Path="/61C558F2" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C558F2" Ref="D382"  Part="1" 
 F 0 "D382" H 6143 6345 50  0000 C CNN
 F 1 "LED" H 6143 6436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 6600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 6600 50  0001 C CNN
 F 3 "~" H 6150 6600 50  0001 C CNN
 	1    6150 6600
 	-1   0    0    1   
@@ -1381,7 +1381,7 @@ AR Path="/61C5590B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5590B" Ref="D379"  Part="1" 
 F 0 "D379" H 6143 6045 50  0000 C CNN
 F 1 "LED" H 6143 6136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 6300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 6300 50  0001 C CNN
 F 3 "~" H 6150 6300 50  0001 C CNN
 	1    6150 6300
 	-1   0    0    1   
@@ -1395,7 +1395,7 @@ AR Path="/61C55912" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55912" Ref="D380"  Part="1" 
 F 0 "D380" H 6143 6145 50  0000 C CNN
 F 1 "LED" H 6143 6236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 6400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 6400 50  0001 C CNN
 F 3 "~" H 6150 6400 50  0001 C CNN
 	1    6150 6400
 	-1   0    0    1   
@@ -1413,7 +1413,7 @@ AR Path="/61C5592B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5592B" Ref="D377"  Part="1" 
 F 0 "D377" H 6143 5845 50  0000 C CNN
 F 1 "LED" H 6143 5936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 6100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 6100 50  0001 C CNN
 F 3 "~" H 6150 6100 50  0001 C CNN
 	1    6150 6100
 	-1   0    0    1   
@@ -1427,7 +1427,7 @@ AR Path="/61C55932" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55932" Ref="D378"  Part="1" 
 F 0 "D378" H 6143 5945 50  0000 C CNN
 F 1 "LED" H 6143 6036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 6200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 6200 50  0001 C CNN
 F 3 "~" H 6150 6200 50  0001 C CNN
 	1    6150 6200
 	-1   0    0    1   
@@ -1445,7 +1445,7 @@ AR Path="/61C5594B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5594B" Ref="D375"  Part="1" 
 F 0 "D375" H 6143 5645 50  0000 C CNN
 F 1 "LED" H 6143 5736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 5900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 5900 50  0001 C CNN
 F 3 "~" H 6150 5900 50  0001 C CNN
 	1    6150 5900
 	-1   0    0    1   
@@ -1459,7 +1459,7 @@ AR Path="/61C55952" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55952" Ref="D376"  Part="1" 
 F 0 "D376" H 6143 5745 50  0000 C CNN
 F 1 "LED" H 6143 5836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 6000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 6000 50  0001 C CNN
 F 3 "~" H 6150 6000 50  0001 C CNN
 	1    6150 6000
 	-1   0    0    1   
@@ -1477,7 +1477,7 @@ AR Path="/61C5596B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5596B" Ref="D373"  Part="1" 
 F 0 "D373" H 6143 5445 50  0000 C CNN
 F 1 "LED" H 6143 5536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 5700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 5700 50  0001 C CNN
 F 3 "~" H 6150 5700 50  0001 C CNN
 	1    6150 5700
 	-1   0    0    1   
@@ -1493,7 +1493,7 @@ AR Path="/61C55973" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55973" Ref="D374"  Part="1" 
 F 0 "D374" H 6143 5545 50  0000 C CNN
 F 1 "LED" H 6143 5636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 5800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 5800 50  0001 C CNN
 F 3 "~" H 6150 5800 50  0001 C CNN
 	1    6150 5800
 	-1   0    0    1   
@@ -1511,7 +1511,7 @@ AR Path="/61C5598C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5598C" Ref="D371"  Part="1" 
 F 0 "D371" H 6143 5245 50  0000 C CNN
 F 1 "LED" H 6143 5336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 5500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 5500 50  0001 C CNN
 F 3 "~" H 6150 5500 50  0001 C CNN
 	1    6150 5500
 	-1   0    0    1   
@@ -1524,7 +1524,7 @@ AR Path="/61C55998" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55998" Ref="D372"  Part="1" 
 F 0 "D372" H 6143 5345 50  0000 C CNN
 F 1 "LED" H 6143 5436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 5600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 5600 50  0001 C CNN
 F 3 "~" H 6150 5600 50  0001 C CNN
 	1    6150 5600
 	-1   0    0    1   
@@ -1555,7 +1555,7 @@ AR Path="/61C559B4" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C559B4" Ref="D369"  Part="1" 
 F 0 "D369" H 6143 4345 50  0000 C CNN
 F 1 "LED" H 6143 4436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 4600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 4600 50  0001 C CNN
 F 3 "~" H 6150 4600 50  0001 C CNN
 	1    6150 4600
 	-1   0    0    1   
@@ -1571,7 +1571,7 @@ AR Path="/61C559BC" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C559BC" Ref="D370"  Part="1" 
 F 0 "D370" H 6143 4445 50  0000 C CNN
 F 1 "LED" H 6143 4536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 4700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 4700 50  0001 C CNN
 F 3 "~" H 6150 4700 50  0001 C CNN
 	1    6150 4700
 	-1   0    0    1   
@@ -1584,7 +1584,7 @@ AR Path="/61C559D0" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C559D0" Ref="D367"  Part="1" 
 F 0 "D367" H 6143 4145 50  0000 C CNN
 F 1 "LED" H 6143 4236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 4400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 4400 50  0001 C CNN
 F 3 "~" H 6150 4400 50  0001 C CNN
 	1    6150 4400
 	-1   0    0    1   
@@ -1598,7 +1598,7 @@ AR Path="/61C559D7" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C559D7" Ref="D368"  Part="1" 
 F 0 "D368" H 6143 4245 50  0000 C CNN
 F 1 "LED" H 6143 4336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 4500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 4500 50  0001 C CNN
 F 3 "~" H 6150 4500 50  0001 C CNN
 	1    6150 4500
 	-1   0    0    1   
@@ -1616,7 +1616,7 @@ AR Path="/61C559F0" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C559F0" Ref="D365"  Part="1" 
 F 0 "D365" H 6143 3945 50  0000 C CNN
 F 1 "LED" H 6143 4036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 4200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 4200 50  0001 C CNN
 F 3 "~" H 6150 4200 50  0001 C CNN
 	1    6150 4200
 	-1   0    0    1   
@@ -1630,7 +1630,7 @@ AR Path="/61C559F7" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C559F7" Ref="D366"  Part="1" 
 F 0 "D366" H 6143 4045 50  0000 C CNN
 F 1 "LED" H 6143 4136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 4300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 4300 50  0001 C CNN
 F 3 "~" H 6150 4300 50  0001 C CNN
 	1    6150 4300
 	-1   0    0    1   
@@ -1648,7 +1648,7 @@ AR Path="/61C55A10" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55A10" Ref="D363"  Part="1" 
 F 0 "D363" H 6143 3745 50  0000 C CNN
 F 1 "LED" H 6143 3836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 4000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 4000 50  0001 C CNN
 F 3 "~" H 6150 4000 50  0001 C CNN
 	1    6150 4000
 	-1   0    0    1   
@@ -1662,7 +1662,7 @@ AR Path="/61C55A17" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55A17" Ref="D364"  Part="1" 
 F 0 "D364" H 6143 3845 50  0000 C CNN
 F 1 "LED" H 6143 3936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 4100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 4100 50  0001 C CNN
 F 3 "~" H 6150 4100 50  0001 C CNN
 	1    6150 4100
 	-1   0    0    1   
@@ -1680,7 +1680,7 @@ AR Path="/61C55A30" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55A30" Ref="D361"  Part="1" 
 F 0 "D361" H 6143 3545 50  0000 C CNN
 F 1 "LED" H 6143 3636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 3800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 3800 50  0001 C CNN
 F 3 "~" H 6150 3800 50  0001 C CNN
 	1    6150 3800
 	-1   0    0    1   
@@ -1694,7 +1694,7 @@ AR Path="/61C55A37" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55A37" Ref="D362"  Part="1" 
 F 0 "D362" H 6143 3645 50  0000 C CNN
 F 1 "LED" H 6143 3736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 3900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 3900 50  0001 C CNN
 F 3 "~" H 6150 3900 50  0001 C CNN
 	1    6150 3900
 	-1   0    0    1   
@@ -1712,7 +1712,7 @@ AR Path="/61C55A50" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55A50" Ref="D359"  Part="1" 
 F 0 "D359" H 6143 3345 50  0000 C CNN
 F 1 "LED" H 6143 3436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 3600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 3600 50  0001 C CNN
 F 3 "~" H 6150 3600 50  0001 C CNN
 	1    6150 3600
 	-1   0    0    1   
@@ -1726,7 +1726,7 @@ AR Path="/61C55A57" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55A57" Ref="D360"  Part="1" 
 F 0 "D360" H 6143 3445 50  0000 C CNN
 F 1 "LED" H 6143 3536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 3700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 3700 50  0001 C CNN
 F 3 "~" H 6150 3700 50  0001 C CNN
 	1    6150 3700
 	-1   0    0    1   
@@ -1744,7 +1744,7 @@ AR Path="/61C55A70" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55A70" Ref="D357"  Part="1" 
 F 0 "D357" H 6143 3145 50  0000 C CNN
 F 1 "LED" H 6143 3236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 3400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 3400 50  0001 C CNN
 F 3 "~" H 6150 3400 50  0001 C CNN
 	1    6150 3400
 	-1   0    0    1   
@@ -1758,7 +1758,7 @@ AR Path="/61C55A77" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55A77" Ref="D358"  Part="1" 
 F 0 "D358" H 6143 3245 50  0000 C CNN
 F 1 "LED" H 6143 3336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 3500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 3500 50  0001 C CNN
 F 3 "~" H 6150 3500 50  0001 C CNN
 	1    6150 3500
 	-1   0    0    1   
@@ -1776,7 +1776,7 @@ AR Path="/61C55A90" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55A90" Ref="D355"  Part="1" 
 F 0 "D355" H 6143 2945 50  0000 C CNN
 F 1 "LED" H 6143 3036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 3200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 3200 50  0001 C CNN
 F 3 "~" H 6150 3200 50  0001 C CNN
 	1    6150 3200
 	-1   0    0    1   
@@ -1789,7 +1789,7 @@ AR Path="/61C55A97" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55A97" Ref="D356"  Part="1" 
 F 0 "D356" H 6143 3045 50  0000 C CNN
 F 1 "LED" H 6143 3136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 3300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 3300 50  0001 C CNN
 F 3 "~" H 6150 3300 50  0001 C CNN
 	1    6150 3300
 	-1   0    0    1   
@@ -1822,7 +1822,7 @@ AR Path="/61C55AC1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55AC1" Ref="D353"  Part="1" 
 F 0 "D353" H 6143 1945 50  0000 C CNN
 F 1 "LED" H 6143 2036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 2200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 2200 50  0001 C CNN
 F 3 "~" H 6150 2200 50  0001 C CNN
 	1    6150 2200
 	-1   0    0    1   
@@ -1836,7 +1836,7 @@ AR Path="/61C55AC8" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55AC8" Ref="D354"  Part="1" 
 F 0 "D354" H 6143 2045 50  0000 C CNN
 F 1 "LED" H 6143 2136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 2300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 2300 50  0001 C CNN
 F 3 "~" H 6150 2300 50  0001 C CNN
 	1    6150 2300
 	-1   0    0    1   
@@ -1851,7 +1851,7 @@ AR Path="/61C55AE1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55AE1" Ref="D351"  Part="1" 
 F 0 "D351" H 6143 1745 50  0000 C CNN
 F 1 "LED" H 6143 1836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 2000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 2000 50  0001 C CNN
 F 3 "~" H 6150 2000 50  0001 C CNN
 	1    6150 2000
 	-1   0    0    1   
@@ -1865,7 +1865,7 @@ AR Path="/61C55AE8" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55AE8" Ref="D352"  Part="1" 
 F 0 "D352" H 6143 1845 50  0000 C CNN
 F 1 "LED" H 6143 1936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 2100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 2100 50  0001 C CNN
 F 3 "~" H 6150 2100 50  0001 C CNN
 	1    6150 2100
 	-1   0    0    1   
@@ -1883,7 +1883,7 @@ AR Path="/61C55B01" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55B01" Ref="D349"  Part="1" 
 F 0 "D349" H 6143 1545 50  0000 C CNN
 F 1 "LED" H 6143 1636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 1800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 1800 50  0001 C CNN
 F 3 "~" H 6150 1800 50  0001 C CNN
 	1    6150 1800
 	-1   0    0    1   
@@ -1897,7 +1897,7 @@ AR Path="/61C55B08" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55B08" Ref="D350"  Part="1" 
 F 0 "D350" H 6143 1645 50  0000 C CNN
 F 1 "LED" H 6143 1736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 1900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 1900 50  0001 C CNN
 F 3 "~" H 6150 1900 50  0001 C CNN
 	1    6150 1900
 	-1   0    0    1   
@@ -1915,7 +1915,7 @@ AR Path="/61C55B21" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55B21" Ref="D347"  Part="1" 
 F 0 "D347" H 6143 1345 50  0000 C CNN
 F 1 "LED" H 6143 1436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 1600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 1600 50  0001 C CNN
 F 3 "~" H 6150 1600 50  0001 C CNN
 	1    6150 1600
 	-1   0    0    1   
@@ -1929,7 +1929,7 @@ AR Path="/61C55B28" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55B28" Ref="D348"  Part="1" 
 F 0 "D348" H 6143 1445 50  0000 C CNN
 F 1 "LED" H 6143 1536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 1700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 1700 50  0001 C CNN
 F 3 "~" H 6150 1700 50  0001 C CNN
 	1    6150 1700
 	-1   0    0    1   
@@ -1947,7 +1947,7 @@ AR Path="/61C55B41" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55B41" Ref="D345"  Part="1" 
 F 0 "D345" H 6143 1145 50  0000 C CNN
 F 1 "LED" H 6143 1236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 1400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 1400 50  0001 C CNN
 F 3 "~" H 6150 1400 50  0001 C CNN
 	1    6150 1400
 	-1   0    0    1   
@@ -1961,7 +1961,7 @@ AR Path="/61C55B48" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55B48" Ref="D346"  Part="1" 
 F 0 "D346" H 6143 1245 50  0000 C CNN
 F 1 "LED" H 6143 1336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 1500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 1500 50  0001 C CNN
 F 3 "~" H 6150 1500 50  0001 C CNN
 	1    6150 1500
 	-1   0    0    1   
@@ -1979,7 +1979,7 @@ AR Path="/61C55B61" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55B61" Ref="D343"  Part="1" 
 F 0 "D343" H 6143 945 50  0000 C CNN
 F 1 "LED" H 6143 1036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 1200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 1200 50  0001 C CNN
 F 3 "~" H 6150 1200 50  0001 C CNN
 	1    6150 1200
 	-1   0    0    1   
@@ -1993,7 +1993,7 @@ AR Path="/61C55B68" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55B68" Ref="D344"  Part="1" 
 F 0 "D344" H 6143 1045 50  0000 C CNN
 F 1 "LED" H 6143 1136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 1300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 1300 50  0001 C CNN
 F 3 "~" H 6150 1300 50  0001 C CNN
 	1    6150 1300
 	-1   0    0    1   
@@ -2011,7 +2011,7 @@ AR Path="/61C55B81" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55B81" Ref="D341"  Part="1" 
 F 0 "D341" H 6143 745 50  0000 C CNN
 F 1 "LED" H 6143 836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 1000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 1000 50  0001 C CNN
 F 3 "~" H 6150 1000 50  0001 C CNN
 	1    6150 1000
 	-1   0    0    1   
@@ -2027,7 +2027,7 @@ AR Path="/61C55B89" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55B89" Ref="D342"  Part="1" 
 F 0 "D342" H 6143 845 50  0000 C CNN
 F 1 "LED" H 6143 936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 1100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 1100 50  0001 C CNN
 F 3 "~" H 6150 1100 50  0001 C CNN
 	1    6150 1100
 	-1   0    0    1   
@@ -2045,7 +2045,7 @@ AR Path="/61C55BA2" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55BA2" Ref="D339"  Part="1" 
 F 0 "D339" H 6143 545 50  0000 C CNN
 F 1 "LED" H 6143 636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 800 50  0001 C CNN
 F 3 "~" H 6150 800 50  0001 C CNN
 	1    6150 800 
 	-1   0    0    1   
@@ -2071,7 +2071,7 @@ AR Path="/61C55BAE" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55BAE" Ref="D340"  Part="1" 
 F 0 "D340" H 6143 645 50  0000 C CNN
 F 1 "LED" H 6143 736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 6150 900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 6150 900 50  0001 C CNN
 F 3 "~" H 6150 900 50  0001 C CNN
 	1    6150 900 
 	-1   0    0    1   
@@ -2100,7 +2100,7 @@ AR Path="/61C55BCF" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55BCF" Ref="D337"  Part="1" 
 F 0 "D337" H 4793 9445 50  0000 C CNN
 F 1 "LED" H 4793 9536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 9700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 9700 50  0001 C CNN
 F 3 "~" H 4800 9700 50  0001 C CNN
 	1    4800 9700
 	-1   0    0    1   
@@ -2115,7 +2115,7 @@ AR Path="/61C55BD6" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55BD6" Ref="D336"  Part="1" 
 F 0 "D336" H 4793 9345 50  0000 C CNN
 F 1 "LED" H 4793 9436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 9600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 9600 50  0001 C CNN
 F 3 "~" H 4800 9600 50  0001 C CNN
 	1    4800 9600
 	-1   0    0    1   
@@ -2131,7 +2131,7 @@ AR Path="/61C55BE6" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55BE6" Ref="D334"  Part="1" 
 F 0 "D334" H 4793 9145 50  0000 C CNN
 F 1 "LED" H 4793 9236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 9400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 9400 50  0001 C CNN
 F 3 "~" H 4800 9400 50  0001 C CNN
 	1    4800 9400
 	-1   0    0    1   
@@ -2145,7 +2145,7 @@ AR Path="/61C55BED" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55BED" Ref="D335"  Part="1" 
 F 0 "D335" H 4793 9245 50  0000 C CNN
 F 1 "LED" H 4793 9336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 9500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 9500 50  0001 C CNN
 F 3 "~" H 4800 9500 50  0001 C CNN
 	1    4800 9500
 	-1   0    0    1   
@@ -2163,7 +2163,7 @@ AR Path="/61C55C06" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55C06" Ref="D332"  Part="1" 
 F 0 "D332" H 4793 8945 50  0000 C CNN
 F 1 "LED" H 4793 9036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 9200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 9200 50  0001 C CNN
 F 3 "~" H 4800 9200 50  0001 C CNN
 	1    4800 9200
 	-1   0    0    1   
@@ -2177,7 +2177,7 @@ AR Path="/61C55C0D" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55C0D" Ref="D333"  Part="1" 
 F 0 "D333" H 4793 9045 50  0000 C CNN
 F 1 "LED" H 4793 9136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 9300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 9300 50  0001 C CNN
 F 3 "~" H 4800 9300 50  0001 C CNN
 	1    4800 9300
 	-1   0    0    1   
@@ -2195,7 +2195,7 @@ AR Path="/61C55C26" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55C26" Ref="D330"  Part="1" 
 F 0 "D330" H 4793 8745 50  0000 C CNN
 F 1 "LED" H 4793 8836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 9000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 9000 50  0001 C CNN
 F 3 "~" H 4800 9000 50  0001 C CNN
 	1    4800 9000
 	-1   0    0    1   
@@ -2209,7 +2209,7 @@ AR Path="/61C55C2D" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55C2D" Ref="D331"  Part="1" 
 F 0 "D331" H 4793 8845 50  0000 C CNN
 F 1 "LED" H 4793 8936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 9100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 9100 50  0001 C CNN
 F 3 "~" H 4800 9100 50  0001 C CNN
 	1    4800 9100
 	-1   0    0    1   
@@ -2227,7 +2227,7 @@ AR Path="/61C55C46" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55C46" Ref="D328"  Part="1" 
 F 0 "D328" H 4793 8545 50  0000 C CNN
 F 1 "LED" H 4793 8636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 8800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 8800 50  0001 C CNN
 F 3 "~" H 4800 8800 50  0001 C CNN
 	1    4800 8800
 	-1   0    0    1   
@@ -2241,7 +2241,7 @@ AR Path="/61C55C4D" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55C4D" Ref="D329"  Part="1" 
 F 0 "D329" H 4793 8645 50  0000 C CNN
 F 1 "LED" H 4793 8736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 8900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 8900 50  0001 C CNN
 F 3 "~" H 4800 8900 50  0001 C CNN
 	1    4800 8900
 	-1   0    0    1   
@@ -2259,7 +2259,7 @@ AR Path="/61C55C66" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55C66" Ref="D326"  Part="1" 
 F 0 "D326" H 4793 8345 50  0000 C CNN
 F 1 "LED" H 4793 8436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 8600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 8600 50  0001 C CNN
 F 3 "~" H 4800 8600 50  0001 C CNN
 	1    4800 8600
 	-1   0    0    1   
@@ -2273,7 +2273,7 @@ AR Path="/61C55C6D" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55C6D" Ref="D327"  Part="1" 
 F 0 "D327" H 4793 8445 50  0000 C CNN
 F 1 "LED" H 4793 8536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 8700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 8700 50  0001 C CNN
 F 3 "~" H 4800 8700 50  0001 C CNN
 	1    4800 8700
 	-1   0    0    1   
@@ -2291,7 +2291,7 @@ AR Path="/61C55C86" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55C86" Ref="D324"  Part="1" 
 F 0 "D324" H 4793 8145 50  0000 C CNN
 F 1 "LED" H 4793 8236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 8400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 8400 50  0001 C CNN
 F 3 "~" H 4800 8400 50  0001 C CNN
 	1    4800 8400
 	-1   0    0    1   
@@ -2305,7 +2305,7 @@ AR Path="/61C55C8D" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55C8D" Ref="D325"  Part="1" 
 F 0 "D325" H 4793 8245 50  0000 C CNN
 F 1 "LED" H 4793 8336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 8500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 8500 50  0001 C CNN
 F 3 "~" H 4800 8500 50  0001 C CNN
 	1    4800 8500
 	-1   0    0    1   
@@ -2323,7 +2323,7 @@ AR Path="/61C55CA6" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55CA6" Ref="D322"  Part="1" 
 F 0 "D322" H 4793 7945 50  0000 C CNN
 F 1 "LED" H 4793 8036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 8200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 8200 50  0001 C CNN
 F 3 "~" H 4800 8200 50  0001 C CNN
 	1    4800 8200
 	-1   0    0    1   
@@ -2337,7 +2337,7 @@ AR Path="/61C55CAD" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55CAD" Ref="D323"  Part="1" 
 F 0 "D323" H 4793 8045 50  0000 C CNN
 F 1 "LED" H 4793 8136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 8300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 8300 50  0001 C CNN
 F 3 "~" H 4800 8300 50  0001 C CNN
 	1    4800 8300
 	-1   0    0    1   
@@ -2355,7 +2355,7 @@ AR Path="/61C55CC6" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55CC6" Ref="D320"  Part="1" 
 F 0 "D320" H 4793 7745 50  0000 C CNN
 F 1 "LED" H 4793 7836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 8000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 8000 50  0001 C CNN
 F 3 "~" H 4800 8000 50  0001 C CNN
 	1    4800 8000
 	-1   0    0    1   
@@ -2369,7 +2369,7 @@ AR Path="/61C55CCD" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55CCD" Ref="D321"  Part="1" 
 F 0 "D321" H 4793 7845 50  0000 C CNN
 F 1 "LED" H 4793 7936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 8100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 8100 50  0001 C CNN
 F 3 "~" H 4800 8100 50  0001 C CNN
 	1    4800 8100
 	-1   0    0    1   
@@ -2387,7 +2387,7 @@ AR Path="/61C55CE6" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55CE6" Ref="D318"  Part="1" 
 F 0 "D318" H 4793 7545 50  0000 C CNN
 F 1 "LED" H 4793 7636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 7800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 7800 50  0001 C CNN
 F 3 "~" H 4800 7800 50  0001 C CNN
 	1    4800 7800
 	-1   0    0    1   
@@ -2400,7 +2400,7 @@ AR Path="/61C55CED" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55CED" Ref="D319"  Part="1" 
 F 0 "D319" H 4793 7645 50  0000 C CNN
 F 1 "LED" H 4793 7736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 7900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 7900 50  0001 C CNN
 F 3 "~" H 4800 7900 50  0001 C CNN
 	1    4800 7900
 	-1   0    0    1   
@@ -2431,7 +2431,7 @@ AR Path="/61C55D0E" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55D0E" Ref="D316"  Part="1" 
 F 0 "D316" H 4793 7145 50  0000 C CNN
 F 1 "LED" H 4793 7236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 7400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 7400 50  0001 C CNN
 F 3 "~" H 4800 7400 50  0001 C CNN
 	1    4800 7400
 	-1   0    0    1   
@@ -2444,7 +2444,7 @@ AR Path="/61C55D17" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55D17" Ref="D315"  Part="1" 
 F 0 "D315" H 4793 7045 50  0000 C CNN
 F 1 "LED" H 4793 7136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 7300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 7300 50  0001 C CNN
 F 3 "~" H 4800 7300 50  0001 C CNN
 	1    4800 7300
 	-1   0    0    1   
@@ -2457,7 +2457,7 @@ AR Path="/61C55D27" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55D27" Ref="D313"  Part="1" 
 F 0 "D313" H 4793 6845 50  0000 C CNN
 F 1 "LED" H 4793 6936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 7100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 7100 50  0001 C CNN
 F 3 "~" H 4800 7100 50  0001 C CNN
 	1    4800 7100
 	-1   0    0    1   
@@ -2470,7 +2470,7 @@ AR Path="/61C55D2E" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55D2E" Ref="D314"  Part="1" 
 F 0 "D314" H 4793 6945 50  0000 C CNN
 F 1 "LED" H 4793 7036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 7200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 7200 50  0001 C CNN
 F 3 "~" H 4800 7200 50  0001 C CNN
 	1    4800 7200
 	-1   0    0    1   
@@ -2490,7 +2490,7 @@ AR Path="/61C55F4B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55F4B" Ref="D278"  Part="1" 
 F 0 "D278" H 4793 3145 50  0000 C CNN
 F 1 "LED" H 4793 3236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 3400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 3400 50  0001 C CNN
 F 3 "~" H 4800 3400 50  0001 C CNN
 	1    4800 3400
 	-1   0    0    1   
@@ -2504,7 +2504,7 @@ AR Path="/61C55F52" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55F52" Ref="D279"  Part="1" 
 F 0 "D279" H 4793 3245 50  0000 C CNN
 F 1 "LED" H 4793 3336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 3500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 3500 50  0001 C CNN
 F 3 "~" H 4800 3500 50  0001 C CNN
 	1    4800 3500
 	-1   0    0    1   
@@ -2520,7 +2520,7 @@ AR Path="/61C55F6B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55F6B" Ref="D276"  Part="1" 
 F 0 "D276" H 4793 2945 50  0000 C CNN
 F 1 "LED" H 4793 3036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 3200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 3200 50  0001 C CNN
 F 3 "~" H 4800 3200 50  0001 C CNN
 	1    4800 3200
 	-1   0    0    1   
@@ -2533,7 +2533,7 @@ AR Path="/61C55F72" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55F72" Ref="D277"  Part="1" 
 F 0 "D277" H 4793 3045 50  0000 C CNN
 F 1 "LED" H 4793 3136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 3300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 3300 50  0001 C CNN
 F 3 "~" H 4800 3300 50  0001 C CNN
 	1    4800 3300
 	-1   0    0    1   
@@ -2564,7 +2564,7 @@ AR Path="/61C55F93" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55F93" Ref="D274"  Part="1" 
 F 0 "D274" H 4793 2445 50  0000 C CNN
 F 1 "LED" H 4793 2536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 2700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 2700 50  0001 C CNN
 F 3 "~" H 4800 2700 50  0001 C CNN
 	1    4800 2700
 	-1   0    0    1   
@@ -2577,7 +2577,7 @@ AR Path="/61C55F9C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55F9C" Ref="D273"  Part="1" 
 F 0 "D273" H 4793 2345 50  0000 C CNN
 F 1 "LED" H 4793 2436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 2600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 2600 50  0001 C CNN
 F 3 "~" H 4800 2600 50  0001 C CNN
 	1    4800 2600
 	-1   0    0    1   
@@ -2593,7 +2593,7 @@ AR Path="/61C55FAC" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55FAC" Ref="D271"  Part="1" 
 F 0 "D271" H 4793 2145 50  0000 C CNN
 F 1 "LED" H 4793 2236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 2400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 2400 50  0001 C CNN
 F 3 "~" H 4800 2400 50  0001 C CNN
 	1    4800 2400
 	-1   0    0    1   
@@ -2606,7 +2606,7 @@ AR Path="/61C55FB3" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55FB3" Ref="D272"  Part="1" 
 F 0 "D272" H 4793 2245 50  0000 C CNN
 F 1 "LED" H 4793 2336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 2500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 2500 50  0001 C CNN
 F 3 "~" H 4800 2500 50  0001 C CNN
 	1    4800 2500
 	-1   0    0    1   
@@ -2624,7 +2624,7 @@ AR Path="/61C560D3" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C560D3" Ref="D253"  Part="1" 
 F 0 "D253" H 3593 9445 50  0000 C CNN
 F 1 "LED" H 3593 9536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 9700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 9700 50  0001 C CNN
 F 3 "~" H 3600 9700 50  0001 C CNN
 	1    3600 9700
 	-1   0    0    1   
@@ -2639,7 +2639,7 @@ AR Path="/61C560DA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C560DA" Ref="D252"  Part="1" 
 F 0 "D252" H 3593 9345 50  0000 C CNN
 F 1 "LED" H 3593 9436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 9600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 9600 50  0001 C CNN
 F 3 "~" H 3600 9600 50  0001 C CNN
 	1    3600 9600
 	-1   0    0    1   
@@ -2655,7 +2655,7 @@ AR Path="/61C560EA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C560EA" Ref="D250"  Part="1" 
 F 0 "D250" H 3593 9145 50  0000 C CNN
 F 1 "LED" H 3593 9236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 9400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 9400 50  0001 C CNN
 F 3 "~" H 3600 9400 50  0001 C CNN
 	1    3600 9400
 	-1   0    0    1   
@@ -2669,7 +2669,7 @@ AR Path="/61C560F1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C560F1" Ref="D251"  Part="1" 
 F 0 "D251" H 3593 9245 50  0000 C CNN
 F 1 "LED" H 3593 9336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 9500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 9500 50  0001 C CNN
 F 3 "~" H 3600 9500 50  0001 C CNN
 	1    3600 9500
 	-1   0    0    1   
@@ -2687,7 +2687,7 @@ AR Path="/61C5610A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5610A" Ref="D248"  Part="1" 
 F 0 "D248" H 3593 8945 50  0000 C CNN
 F 1 "LED" H 3593 9036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 9200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 9200 50  0001 C CNN
 F 3 "~" H 3600 9200 50  0001 C CNN
 	1    3600 9200
 	-1   0    0    1   
@@ -2701,7 +2701,7 @@ AR Path="/61C56111" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56111" Ref="D249"  Part="1" 
 F 0 "D249" H 3593 9045 50  0000 C CNN
 F 1 "LED" H 3593 9136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 9300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 9300 50  0001 C CNN
 F 3 "~" H 3600 9300 50  0001 C CNN
 	1    3600 9300
 	-1   0    0    1   
@@ -2719,7 +2719,7 @@ AR Path="/61C5612A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5612A" Ref="D246"  Part="1" 
 F 0 "D246" H 3593 8745 50  0000 C CNN
 F 1 "LED" H 3593 8836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 9000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 9000 50  0001 C CNN
 F 3 "~" H 3600 9000 50  0001 C CNN
 	1    3600 9000
 	-1   0    0    1   
@@ -2733,7 +2733,7 @@ AR Path="/61C56131" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56131" Ref="D247"  Part="1" 
 F 0 "D247" H 3593 8845 50  0000 C CNN
 F 1 "LED" H 3593 8936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 9100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 9100 50  0001 C CNN
 F 3 "~" H 3600 9100 50  0001 C CNN
 	1    3600 9100
 	-1   0    0    1   
@@ -2751,7 +2751,7 @@ AR Path="/61C5614A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5614A" Ref="D244"  Part="1" 
 F 0 "D244" H 3593 8545 50  0000 C CNN
 F 1 "LED" H 3593 8636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 8800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 8800 50  0001 C CNN
 F 3 "~" H 3600 8800 50  0001 C CNN
 	1    3600 8800
 	-1   0    0    1   
@@ -2765,7 +2765,7 @@ AR Path="/61C56151" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56151" Ref="D245"  Part="1" 
 F 0 "D245" H 3593 8645 50  0000 C CNN
 F 1 "LED" H 3593 8736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 8900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 8900 50  0001 C CNN
 F 3 "~" H 3600 8900 50  0001 C CNN
 	1    3600 8900
 	-1   0    0    1   
@@ -2783,7 +2783,7 @@ AR Path="/61C5616A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5616A" Ref="D242"  Part="1" 
 F 0 "D242" H 3593 8345 50  0000 C CNN
 F 1 "LED" H 3593 8436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 8600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 8600 50  0001 C CNN
 F 3 "~" H 3600 8600 50  0001 C CNN
 	1    3600 8600
 	-1   0    0    1   
@@ -2797,7 +2797,7 @@ AR Path="/61C56171" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56171" Ref="D243"  Part="1" 
 F 0 "D243" H 3593 8445 50  0000 C CNN
 F 1 "LED" H 3593 8536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 8700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 8700 50  0001 C CNN
 F 3 "~" H 3600 8700 50  0001 C CNN
 	1    3600 8700
 	-1   0    0    1   
@@ -2815,7 +2815,7 @@ AR Path="/61C5618A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5618A" Ref="D240"  Part="1" 
 F 0 "D240" H 3593 8145 50  0000 C CNN
 F 1 "LED" H 3593 8236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 8400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 8400 50  0001 C CNN
 F 3 "~" H 3600 8400 50  0001 C CNN
 	1    3600 8400
 	-1   0    0    1   
@@ -2829,7 +2829,7 @@ AR Path="/61C56191" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56191" Ref="D241"  Part="1" 
 F 0 "D241" H 3593 8245 50  0000 C CNN
 F 1 "LED" H 3593 8336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 8500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 8500 50  0001 C CNN
 F 3 "~" H 3600 8500 50  0001 C CNN
 	1    3600 8500
 	-1   0    0    1   
@@ -2847,7 +2847,7 @@ AR Path="/61C561AA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C561AA" Ref="D238"  Part="1" 
 F 0 "D238" H 3593 7945 50  0000 C CNN
 F 1 "LED" H 3593 8036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 8200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 8200 50  0001 C CNN
 F 3 "~" H 3600 8200 50  0001 C CNN
 	1    3600 8200
 	-1   0    0    1   
@@ -2861,7 +2861,7 @@ AR Path="/61C561B1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C561B1" Ref="D239"  Part="1" 
 F 0 "D239" H 3593 8045 50  0000 C CNN
 F 1 "LED" H 3593 8136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 8300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 8300 50  0001 C CNN
 F 3 "~" H 3600 8300 50  0001 C CNN
 	1    3600 8300
 	-1   0    0    1   
@@ -2879,7 +2879,7 @@ AR Path="/61C561CA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C561CA" Ref="D236"  Part="1" 
 F 0 "D236" H 3593 7745 50  0000 C CNN
 F 1 "LED" H 3593 7836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 8000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 8000 50  0001 C CNN
 F 3 "~" H 3600 8000 50  0001 C CNN
 	1    3600 8000
 	-1   0    0    1   
@@ -2893,7 +2893,7 @@ AR Path="/61C561D1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C561D1" Ref="D237"  Part="1" 
 F 0 "D237" H 3593 7845 50  0000 C CNN
 F 1 "LED" H 3593 7936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 8100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 8100 50  0001 C CNN
 F 3 "~" H 3600 8100 50  0001 C CNN
 	1    3600 8100
 	-1   0    0    1   
@@ -2911,7 +2911,7 @@ AR Path="/61C561EA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C561EA" Ref="D234"  Part="1" 
 F 0 "D234" H 3593 7545 50  0000 C CNN
 F 1 "LED" H 3593 7636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 7800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 7800 50  0001 C CNN
 F 3 "~" H 3600 7800 50  0001 C CNN
 	1    3600 7800
 	-1   0    0    1   
@@ -2924,7 +2924,7 @@ AR Path="/61C561F1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C561F1" Ref="D235"  Part="1" 
 F 0 "D235" H 3593 7645 50  0000 C CNN
 F 1 "LED" H 3593 7736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 7900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 7900 50  0001 C CNN
 F 3 "~" H 3600 7900 50  0001 C CNN
 	1    3600 7900
 	-1   0    0    1   
@@ -2955,7 +2955,7 @@ AR Path="/61C56212" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56212" Ref="D231"  Part="1" 
 F 0 "D231" H 3593 7145 50  0000 C CNN
 F 1 "LED" H 3593 7236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 7400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 7400 50  0001 C CNN
 F 3 "~" H 3600 7400 50  0001 C CNN
 	1    3600 7400
 	-1   0    0    1   
@@ -2970,7 +2970,7 @@ AR Path="/61C5621B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5621B" Ref="D230"  Part="1" 
 F 0 "D230" H 3593 7045 50  0000 C CNN
 F 1 "LED" H 3593 7136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 7300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 7300 50  0001 C CNN
 F 3 "~" H 3600 7300 50  0001 C CNN
 	1    3600 7300
 	-1   0    0    1   
@@ -2983,7 +2983,7 @@ AR Path="/61C5622B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5622B" Ref="D228"  Part="1" 
 F 0 "D228" H 3593 6845 50  0000 C CNN
 F 1 "LED" H 3593 6936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 7100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 7100 50  0001 C CNN
 F 3 "~" H 3600 7100 50  0001 C CNN
 	1    3600 7100
 	-1   0    0    1   
@@ -2997,7 +2997,7 @@ AR Path="/61C56232" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56232" Ref="D229"  Part="1" 
 F 0 "D229" H 3593 6945 50  0000 C CNN
 F 1 "LED" H 3593 7036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 7200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 7200 50  0001 C CNN
 F 3 "~" H 3600 7200 50  0001 C CNN
 	1    3600 7200
 	-1   0    0    1   
@@ -3015,7 +3015,7 @@ AR Path="/61C5624B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5624B" Ref="D226"  Part="1" 
 F 0 "D226" H 3593 6645 50  0000 C CNN
 F 1 "LED" H 3593 6736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 6900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 6900 50  0001 C CNN
 F 3 "~" H 3600 6900 50  0001 C CNN
 	1    3600 6900
 	-1   0    0    1   
@@ -3029,7 +3029,7 @@ AR Path="/61C56252" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56252" Ref="D227"  Part="1" 
 F 0 "D227" H 3593 6745 50  0000 C CNN
 F 1 "LED" H 3593 6836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 7000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 7000 50  0001 C CNN
 F 3 "~" H 3600 7000 50  0001 C CNN
 	1    3600 7000
 	-1   0    0    1   
@@ -3047,7 +3047,7 @@ AR Path="/61C5626B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5626B" Ref="D224"  Part="1" 
 F 0 "D224" H 3593 6445 50  0000 C CNN
 F 1 "LED" H 3593 6536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 6700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 6700 50  0001 C CNN
 F 3 "~" H 3600 6700 50  0001 C CNN
 	1    3600 6700
 	-1   0    0    1   
@@ -3061,7 +3061,7 @@ AR Path="/61C56272" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56272" Ref="D225"  Part="1" 
 F 0 "D225" H 3593 6545 50  0000 C CNN
 F 1 "LED" H 3593 6636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 6800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 6800 50  0001 C CNN
 F 3 "~" H 3600 6800 50  0001 C CNN
 	1    3600 6800
 	-1   0    0    1   
@@ -3079,7 +3079,7 @@ AR Path="/61C5628B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5628B" Ref="D222"  Part="1" 
 F 0 "D222" H 3593 6245 50  0000 C CNN
 F 1 "LED" H 3593 6336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 6500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 6500 50  0001 C CNN
 F 3 "~" H 3600 6500 50  0001 C CNN
 	1    3600 6500
 	-1   0    0    1   
@@ -3093,7 +3093,7 @@ AR Path="/61C56292" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56292" Ref="D223"  Part="1" 
 F 0 "D223" H 3593 6345 50  0000 C CNN
 F 1 "LED" H 3593 6436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 6600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 6600 50  0001 C CNN
 F 3 "~" H 3600 6600 50  0001 C CNN
 	1    3600 6600
 	-1   0    0    1   
@@ -3111,7 +3111,7 @@ AR Path="/61C562AB" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C562AB" Ref="D220"  Part="1" 
 F 0 "D220" H 3593 6045 50  0000 C CNN
 F 1 "LED" H 3593 6136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 6300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 6300 50  0001 C CNN
 F 3 "~" H 3600 6300 50  0001 C CNN
 	1    3600 6300
 	-1   0    0    1   
@@ -3125,7 +3125,7 @@ AR Path="/61C562B2" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C562B2" Ref="D221"  Part="1" 
 F 0 "D221" H 3593 6145 50  0000 C CNN
 F 1 "LED" H 3593 6236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 6400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 6400 50  0001 C CNN
 F 3 "~" H 3600 6400 50  0001 C CNN
 	1    3600 6400
 	-1   0    0    1   
@@ -3143,7 +3143,7 @@ AR Path="/61C562CB" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C562CB" Ref="D218"  Part="1" 
 F 0 "D218" H 3593 5845 50  0000 C CNN
 F 1 "LED" H 3593 5936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 6100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 6100 50  0001 C CNN
 F 3 "~" H 3600 6100 50  0001 C CNN
 	1    3600 6100
 	-1   0    0    1   
@@ -3157,7 +3157,7 @@ AR Path="/61C562D2" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C562D2" Ref="D219"  Part="1" 
 F 0 "D219" H 3593 5945 50  0000 C CNN
 F 1 "LED" H 3593 6036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 6200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 6200 50  0001 C CNN
 F 3 "~" H 3600 6200 50  0001 C CNN
 	1    3600 6200
 	-1   0    0    1   
@@ -3175,7 +3175,7 @@ AR Path="/61C562EB" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C562EB" Ref="D216"  Part="1" 
 F 0 "D216" H 3593 5645 50  0000 C CNN
 F 1 "LED" H 3593 5736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 5900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 5900 50  0001 C CNN
 F 3 "~" H 3600 5900 50  0001 C CNN
 	1    3600 5900
 	-1   0    0    1   
@@ -3189,7 +3189,7 @@ AR Path="/61C562F2" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C562F2" Ref="D217"  Part="1" 
 F 0 "D217" H 3593 5745 50  0000 C CNN
 F 1 "LED" H 3593 5836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 6000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 6000 50  0001 C CNN
 F 3 "~" H 3600 6000 50  0001 C CNN
 	1    3600 6000
 	-1   0    0    1   
@@ -3207,7 +3207,7 @@ AR Path="/61C5630B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5630B" Ref="D214"  Part="1" 
 F 0 "D214" H 3593 5445 50  0000 C CNN
 F 1 "LED" H 3593 5536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 5700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 5700 50  0001 C CNN
 F 3 "~" H 3600 5700 50  0001 C CNN
 	1    3600 5700
 	-1   0    0    1   
@@ -3223,7 +3223,7 @@ AR Path="/61C56313" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56313" Ref="D215"  Part="1" 
 F 0 "D215" H 3593 5545 50  0000 C CNN
 F 1 "LED" H 3593 5636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 5800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 5800 50  0001 C CNN
 F 3 "~" H 3600 5800 50  0001 C CNN
 	1    3600 5800
 	-1   0    0    1   
@@ -3241,7 +3241,7 @@ AR Path="/61C5632C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5632C" Ref="D212"  Part="1" 
 F 0 "D212" H 3593 5245 50  0000 C CNN
 F 1 "LED" H 3593 5336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 5500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 5500 50  0001 C CNN
 F 3 "~" H 3600 5500 50  0001 C CNN
 	1    3600 5500
 	-1   0    0    1   
@@ -3254,7 +3254,7 @@ AR Path="/61C56332" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56332" Ref="D213"  Part="1" 
 F 0 "D213" H 3593 5345 50  0000 C CNN
 F 1 "LED" H 3593 5436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 5600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 5600 50  0001 C CNN
 F 3 "~" H 3600 5600 50  0001 C CNN
 	1    3600 5600
 	-1   0    0    1   
@@ -3283,7 +3283,7 @@ AR Path="/61C56353" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56353" Ref="D209"  Part="1" 
 F 0 "D209" H 3593 4845 50  0000 C CNN
 F 1 "LED" H 3593 4936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 5100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 5100 50  0001 C CNN
 F 3 "~" H 3600 5100 50  0001 C CNN
 	1    3600 5100
 	-1   0    0    1   
@@ -3298,7 +3298,7 @@ AR Path="/61C5635A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5635A" Ref="D208"  Part="1" 
 F 0 "D208" H 3593 4745 50  0000 C CNN
 F 1 "LED" H 3593 4836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 5000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 5000 50  0001 C CNN
 F 3 "~" H 3600 5000 50  0001 C CNN
 	1    3600 5000
 	-1   0    0    1   
@@ -3314,7 +3314,7 @@ AR Path="/61C5636A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5636A" Ref="D206"  Part="1" 
 F 0 "D206" H 3593 4545 50  0000 C CNN
 F 1 "LED" H 3593 4636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 4800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 4800 50  0001 C CNN
 F 3 "~" H 3600 4800 50  0001 C CNN
 	1    3600 4800
 	-1   0    0    1   
@@ -3328,7 +3328,7 @@ AR Path="/61C56371" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56371" Ref="D207"  Part="1" 
 F 0 "D207" H 3593 4645 50  0000 C CNN
 F 1 "LED" H 3593 4736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 4900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 4900 50  0001 C CNN
 F 3 "~" H 3600 4900 50  0001 C CNN
 	1    3600 4900
 	-1   0    0    1   
@@ -3346,7 +3346,7 @@ AR Path="/61C5638A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5638A" Ref="D204"  Part="1" 
 F 0 "D204" H 3593 4345 50  0000 C CNN
 F 1 "LED" H 3593 4436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 4600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 4600 50  0001 C CNN
 F 3 "~" H 3600 4600 50  0001 C CNN
 	1    3600 4600
 	-1   0    0    1   
@@ -3360,7 +3360,7 @@ AR Path="/61C56391" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56391" Ref="D205"  Part="1" 
 F 0 "D205" H 3593 4445 50  0000 C CNN
 F 1 "LED" H 3593 4536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 4700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 4700 50  0001 C CNN
 F 3 "~" H 3600 4700 50  0001 C CNN
 	1    3600 4700
 	-1   0    0    1   
@@ -3378,7 +3378,7 @@ AR Path="/61C563AA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C563AA" Ref="D202"  Part="1" 
 F 0 "D202" H 3593 4145 50  0000 C CNN
 F 1 "LED" H 3593 4236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 4400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 4400 50  0001 C CNN
 F 3 "~" H 3600 4400 50  0001 C CNN
 	1    3600 4400
 	-1   0    0    1   
@@ -3392,7 +3392,7 @@ AR Path="/61C563B1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C563B1" Ref="D203"  Part="1" 
 F 0 "D203" H 3593 4245 50  0000 C CNN
 F 1 "LED" H 3593 4336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 4500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 4500 50  0001 C CNN
 F 3 "~" H 3600 4500 50  0001 C CNN
 	1    3600 4500
 	-1   0    0    1   
@@ -3410,7 +3410,7 @@ AR Path="/61C563CA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C563CA" Ref="D200"  Part="1" 
 F 0 "D200" H 3593 3945 50  0000 C CNN
 F 1 "LED" H 3593 4036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 4200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 4200 50  0001 C CNN
 F 3 "~" H 3600 4200 50  0001 C CNN
 	1    3600 4200
 	-1   0    0    1   
@@ -3424,7 +3424,7 @@ AR Path="/61C563D1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C563D1" Ref="D201"  Part="1" 
 F 0 "D201" H 3593 4045 50  0000 C CNN
 F 1 "LED" H 3593 4136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 4300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 4300 50  0001 C CNN
 F 3 "~" H 3600 4300 50  0001 C CNN
 	1    3600 4300
 	-1   0    0    1   
@@ -3442,7 +3442,7 @@ AR Path="/61C563EA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C563EA" Ref="D198"  Part="1" 
 F 0 "D198" H 3593 3745 50  0000 C CNN
 F 1 "LED" H 3593 3836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 4000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 4000 50  0001 C CNN
 F 3 "~" H 3600 4000 50  0001 C CNN
 	1    3600 4000
 	-1   0    0    1   
@@ -3456,7 +3456,7 @@ AR Path="/61C563F1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C563F1" Ref="D199"  Part="1" 
 F 0 "D199" H 3593 3845 50  0000 C CNN
 F 1 "LED" H 3593 3936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 4100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 4100 50  0001 C CNN
 F 3 "~" H 3600 4100 50  0001 C CNN
 	1    3600 4100
 	-1   0    0    1   
@@ -3474,7 +3474,7 @@ AR Path="/61C5640A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5640A" Ref="D196"  Part="1" 
 F 0 "D196" H 3593 3545 50  0000 C CNN
 F 1 "LED" H 3593 3636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 3800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 3800 50  0001 C CNN
 F 3 "~" H 3600 3800 50  0001 C CNN
 	1    3600 3800
 	-1   0    0    1   
@@ -3488,7 +3488,7 @@ AR Path="/61C56411" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56411" Ref="D197"  Part="1" 
 F 0 "D197" H 3593 3645 50  0000 C CNN
 F 1 "LED" H 3593 3736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 3900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 3900 50  0001 C CNN
 F 3 "~" H 3600 3900 50  0001 C CNN
 	1    3600 3900
 	-1   0    0    1   
@@ -3506,7 +3506,7 @@ AR Path="/61C5642A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5642A" Ref="D194"  Part="1" 
 F 0 "D194" H 3593 3345 50  0000 C CNN
 F 1 "LED" H 3593 3436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 3600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 3600 50  0001 C CNN
 F 3 "~" H 3600 3600 50  0001 C CNN
 	1    3600 3600
 	-1   0    0    1   
@@ -3520,7 +3520,7 @@ AR Path="/61C56431" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56431" Ref="D195"  Part="1" 
 F 0 "D195" H 3593 3445 50  0000 C CNN
 F 1 "LED" H 3593 3536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 3700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 3700 50  0001 C CNN
 F 3 "~" H 3600 3700 50  0001 C CNN
 	1    3600 3700
 	-1   0    0    1   
@@ -3538,7 +3538,7 @@ AR Path="/61C5644A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5644A" Ref="D192"  Part="1" 
 F 0 "D192" H 3593 3145 50  0000 C CNN
 F 1 "LED" H 3593 3236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 3400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 3400 50  0001 C CNN
 F 3 "~" H 3600 3400 50  0001 C CNN
 	1    3600 3400
 	-1   0    0    1   
@@ -3552,7 +3552,7 @@ AR Path="/61C56451" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56451" Ref="D193"  Part="1" 
 F 0 "D193" H 3593 3245 50  0000 C CNN
 F 1 "LED" H 3593 3336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 3500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 3500 50  0001 C CNN
 F 3 "~" H 3600 3500 50  0001 C CNN
 	1    3600 3500
 	-1   0    0    1   
@@ -3570,7 +3570,7 @@ AR Path="/61C5646A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5646A" Ref="D190"  Part="1" 
 F 0 "D190" H 3593 2945 50  0000 C CNN
 F 1 "LED" H 3593 3036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 3200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 3200 50  0001 C CNN
 F 3 "~" H 3600 3200 50  0001 C CNN
 	1    3600 3200
 	-1   0    0    1   
@@ -3583,7 +3583,7 @@ AR Path="/61C56471" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56471" Ref="D191"  Part="1" 
 F 0 "D191" H 3593 3045 50  0000 C CNN
 F 1 "LED" H 3593 3136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 3300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 3300 50  0001 C CNN
 F 3 "~" H 3600 3300 50  0001 C CNN
 	1    3600 3300
 	-1   0    0    1   
@@ -3614,7 +3614,7 @@ AR Path="/61C56491" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56491" Ref="D188"  Part="1" 
 F 0 "D188" H 3593 2545 50  0000 C CNN
 F 1 "LED" H 3593 2636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 2800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 2800 50  0001 C CNN
 F 3 "~" H 3600 2800 50  0001 C CNN
 	1    3600 2800
 	-1   0    0    1   
@@ -3627,7 +3627,7 @@ AR Path="/61C564A1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C564A1" Ref="D187"  Part="1" 
 F 0 "D187" H 3593 2445 50  0000 C CNN
 F 1 "LED" H 3593 2536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 2700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 2700 50  0001 C CNN
 F 3 "~" H 3600 2700 50  0001 C CNN
 	1    3600 2700
 	-1   0    0    1   
@@ -3642,7 +3642,7 @@ AR Path="/61C564AA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C564AA" Ref="D186"  Part="1" 
 F 0 "D186" H 3593 2345 50  0000 C CNN
 F 1 "LED" H 3593 2436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 2600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 2600 50  0001 C CNN
 F 3 "~" H 3600 2600 50  0001 C CNN
 	1    3600 2600
 	-1   0    0    1   
@@ -3658,7 +3658,7 @@ AR Path="/61C564BA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C564BA" Ref="D184"  Part="1" 
 F 0 "D184" H 3593 2145 50  0000 C CNN
 F 1 "LED" H 3593 2236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 2400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 2400 50  0001 C CNN
 F 3 "~" H 3600 2400 50  0001 C CNN
 	1    3600 2400
 	-1   0    0    1   
@@ -3672,7 +3672,7 @@ AR Path="/61C564C1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C564C1" Ref="D185"  Part="1" 
 F 0 "D185" H 3593 2245 50  0000 C CNN
 F 1 "LED" H 3593 2336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 2500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 2500 50  0001 C CNN
 F 3 "~" H 3600 2500 50  0001 C CNN
 	1    3600 2500
 	-1   0    0    1   
@@ -3690,7 +3690,7 @@ AR Path="/61C564DA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C564DA" Ref="D182"  Part="1" 
 F 0 "D182" H 3593 1945 50  0000 C CNN
 F 1 "LED" H 3593 2036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 2200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 2200 50  0001 C CNN
 F 3 "~" H 3600 2200 50  0001 C CNN
 	1    3600 2200
 	-1   0    0    1   
@@ -3704,7 +3704,7 @@ AR Path="/61C564E1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C564E1" Ref="D183"  Part="1" 
 F 0 "D183" H 3593 2045 50  0000 C CNN
 F 1 "LED" H 3593 2136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 2300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 2300 50  0001 C CNN
 F 3 "~" H 3600 2300 50  0001 C CNN
 	1    3600 2300
 	-1   0    0    1   
@@ -3722,7 +3722,7 @@ AR Path="/61C564FA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C564FA" Ref="D180"  Part="1" 
 F 0 "D180" H 3593 1745 50  0000 C CNN
 F 1 "LED" H 3593 1836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 2000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 2000 50  0001 C CNN
 F 3 "~" H 3600 2000 50  0001 C CNN
 	1    3600 2000
 	-1   0    0    1   
@@ -3736,7 +3736,7 @@ AR Path="/61C56501" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56501" Ref="D181"  Part="1" 
 F 0 "D181" H 3593 1845 50  0000 C CNN
 F 1 "LED" H 3593 1936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 2100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 2100 50  0001 C CNN
 F 3 "~" H 3600 2100 50  0001 C CNN
 	1    3600 2100
 	-1   0    0    1   
@@ -3754,7 +3754,7 @@ AR Path="/61C5651A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5651A" Ref="D178"  Part="1" 
 F 0 "D178" H 3593 1545 50  0000 C CNN
 F 1 "LED" H 3593 1636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 1800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 1800 50  0001 C CNN
 F 3 "~" H 3600 1800 50  0001 C CNN
 	1    3600 1800
 	-1   0    0    1   
@@ -3768,7 +3768,7 @@ AR Path="/61C56521" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56521" Ref="D179"  Part="1" 
 F 0 "D179" H 3593 1645 50  0000 C CNN
 F 1 "LED" H 3593 1736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 1900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 1900 50  0001 C CNN
 F 3 "~" H 3600 1900 50  0001 C CNN
 	1    3600 1900
 	-1   0    0    1   
@@ -3786,7 +3786,7 @@ AR Path="/61C5653A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5653A" Ref="D176"  Part="1" 
 F 0 "D176" H 3593 1345 50  0000 C CNN
 F 1 "LED" H 3593 1436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 1600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 1600 50  0001 C CNN
 F 3 "~" H 3600 1600 50  0001 C CNN
 	1    3600 1600
 	-1   0    0    1   
@@ -3800,7 +3800,7 @@ AR Path="/61C56541" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56541" Ref="D177"  Part="1" 
 F 0 "D177" H 3593 1445 50  0000 C CNN
 F 1 "LED" H 3593 1536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 1700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 1700 50  0001 C CNN
 F 3 "~" H 3600 1700 50  0001 C CNN
 	1    3600 1700
 	-1   0    0    1   
@@ -3818,7 +3818,7 @@ AR Path="/61C5655A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5655A" Ref="D174"  Part="1" 
 F 0 "D174" H 3593 1145 50  0000 C CNN
 F 1 "LED" H 3593 1236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 1400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 1400 50  0001 C CNN
 F 3 "~" H 3600 1400 50  0001 C CNN
 	1    3600 1400
 	-1   0    0    1   
@@ -3832,7 +3832,7 @@ AR Path="/61C56561" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56561" Ref="D175"  Part="1" 
 F 0 "D175" H 3593 1245 50  0000 C CNN
 F 1 "LED" H 3593 1336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 1500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 1500 50  0001 C CNN
 F 3 "~" H 3600 1500 50  0001 C CNN
 	1    3600 1500
 	-1   0    0    1   
@@ -3850,7 +3850,7 @@ AR Path="/61C5657A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5657A" Ref="D172"  Part="1" 
 F 0 "D172" H 3593 945 50  0000 C CNN
 F 1 "LED" H 3593 1036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 1200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 1200 50  0001 C CNN
 F 3 "~" H 3600 1200 50  0001 C CNN
 	1    3600 1200
 	-1   0    0    1   
@@ -3864,7 +3864,7 @@ AR Path="/61C56581" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56581" Ref="D173"  Part="1" 
 F 0 "D173" H 3593 1045 50  0000 C CNN
 F 1 "LED" H 3593 1136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 1300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 1300 50  0001 C CNN
 F 3 "~" H 3600 1300 50  0001 C CNN
 	1    3600 1300
 	-1   0    0    1   
@@ -3882,7 +3882,7 @@ AR Path="/61C5659A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5659A" Ref="D170"  Part="1" 
 F 0 "D170" H 3593 745 50  0000 C CNN
 F 1 "LED" H 3593 836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 1000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 1000 50  0001 C CNN
 F 3 "~" H 3600 1000 50  0001 C CNN
 	1    3600 1000
 	-1   0    0    1   
@@ -3898,7 +3898,7 @@ AR Path="/61C565A2" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C565A2" Ref="D171"  Part="1" 
 F 0 "D171" H 3593 845 50  0000 C CNN
 F 1 "LED" H 3593 936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 1100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 1100 50  0001 C CNN
 F 3 "~" H 3600 1100 50  0001 C CNN
 	1    3600 1100
 	-1   0    0    1   
@@ -3916,7 +3916,7 @@ AR Path="/61C565BB" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C565BB" Ref="D168"  Part="1" 
 F 0 "D168" H 3593 545 50  0000 C CNN
 F 1 "LED" H 3593 636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 800 50  0001 C CNN
 F 3 "~" H 3600 800 50  0001 C CNN
 	1    3600 800 
 	-1   0    0    1   
@@ -3929,7 +3929,7 @@ AR Path="/61C565C1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C565C1" Ref="D169"  Part="1" 
 F 0 "D169" H 3593 645 50  0000 C CNN
 F 1 "LED" H 3593 736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 900 50  0001 C CNN
 F 3 "~" H 3600 900 50  0001 C CNN
 	1    3600 900 
 	-1   0    0    1   
@@ -3958,7 +3958,7 @@ AR Path="/61C565EB" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C565EB" Ref="D133"  Part="1" 
 F 0 "D133" H 2393 3045 50  0000 C CNN
 F 1 "LED" H 2393 3136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 3300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 3300 50  0001 C CNN
 F 3 "~" H 2400 3300 50  0001 C CNN
 	1    2400 3300
 	-1   0    0    1   
@@ -3974,7 +3974,7 @@ AR Path="/61C565F3" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C565F3" Ref="D132"  Part="1" 
 F 0 "D132" H 2393 2945 50  0000 C CNN
 F 1 "LED" H 2393 3036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 3200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 3200 50  0001 C CNN
 F 3 "~" H 2400 3200 50  0001 C CNN
 	1    2400 3200
 	-1   0    0    1   
@@ -3987,7 +3987,7 @@ AR Path="/61C565FF" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C565FF" Ref="D134"  Part="1" 
 F 0 "D134" H 2393 3145 50  0000 C CNN
 F 1 "LED" H 2393 3236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 3400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 3400 50  0001 C CNN
 F 3 "~" H 2400 3400 50  0001 C CNN
 	1    2400 3400
 	-1   0    0    1   
@@ -4002,7 +4002,7 @@ AR Path="/61C5661A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5661A" Ref="D136"  Part="1" 
 F 0 "D136" H 2393 3645 50  0000 C CNN
 F 1 "LED" H 2393 3736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 3900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 3900 50  0001 C CNN
 F 3 "~" H 2400 3900 50  0001 C CNN
 	1    2400 3900
 	-1   0    0    1   
@@ -4016,7 +4016,7 @@ AR Path="/61C56621" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56621" Ref="D135"  Part="1" 
 F 0 "D135" H 2393 3545 50  0000 C CNN
 F 1 "LED" H 2393 3636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 3800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 3800 50  0001 C CNN
 F 3 "~" H 2400 3800 50  0001 C CNN
 	1    2400 3800
 	-1   0    0    1   
@@ -4031,7 +4031,7 @@ AR Path="/61C56630" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56630" Ref="D137"  Part="1" 
 F 0 "D137" H 2393 3745 50  0000 C CNN
 F 1 "LED" H 2393 3836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 4000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 4000 50  0001 C CNN
 F 3 "~" H 2400 4000 50  0001 C CNN
 	1    2400 4000
 	-1   0    0    1   
@@ -4048,7 +4048,7 @@ AR Path="/61C5664B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5664B" Ref="D139"  Part="1" 
 F 0 "D139" H 2393 4245 50  0000 C CNN
 F 1 "LED" H 2393 4336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 4500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 4500 50  0001 C CNN
 F 3 "~" H 2400 4500 50  0001 C CNN
 	1    2400 4500
 	-1   0    0    1   
@@ -4062,7 +4062,7 @@ AR Path="/61C56652" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56652" Ref="D138"  Part="1" 
 F 0 "D138" H 2393 4145 50  0000 C CNN
 F 1 "LED" H 2393 4236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 4400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 4400 50  0001 C CNN
 F 3 "~" H 2400 4400 50  0001 C CNN
 	1    2400 4400
 	-1   0    0    1   
@@ -4078,7 +4078,7 @@ AR Path="/61C56661" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56661" Ref="D140"  Part="1" 
 F 0 "D140" H 2393 4345 50  0000 C CNN
 F 1 "LED" H 2393 4436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 4600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 4600 50  0001 C CNN
 F 3 "~" H 2400 4600 50  0001 C CNN
 	1    2400 4600
 	-1   0    0    1   
@@ -4095,7 +4095,7 @@ AR Path="/61C5667C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5667C" Ref="D142"  Part="1" 
 F 0 "D142" H 2393 4845 50  0000 C CNN
 F 1 "LED" H 2393 4936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 5100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 5100 50  0001 C CNN
 F 3 "~" H 2400 5100 50  0001 C CNN
 	1    2400 5100
 	-1   0    0    1   
@@ -4111,7 +4111,7 @@ AR Path="/61C56684" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56684" Ref="D141"  Part="1" 
 F 0 "D141" H 2393 4745 50  0000 C CNN
 F 1 "LED" H 2393 4836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 5000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 5000 50  0001 C CNN
 F 3 "~" H 2400 5000 50  0001 C CNN
 	1    2400 5000
 	-1   0    0    1   
@@ -4127,7 +4127,7 @@ AR Path="/61C56693" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56693" Ref="D143"  Part="1" 
 F 0 "D143" H 2393 4945 50  0000 C CNN
 F 1 "LED" H 2393 5036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 5200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 5200 50  0001 C CNN
 F 3 "~" H 2400 5200 50  0001 C CNN
 	1    2400 5200
 	-1   0    0    1   
@@ -4142,7 +4142,7 @@ AR Path="/61C566AC" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C566AC" Ref="D121"  Part="1" 
 F 0 "D121" H 2393 645 50  0000 C CNN
 F 1 "LED" H 2393 736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 900 50  0001 C CNN
 F 3 "~" H 2400 900 50  0001 C CNN
 	1    2400 900 
 	-1   0    0    1   
@@ -4171,7 +4171,7 @@ AR Path="/61C566BB" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C566BB" Ref="D120"  Part="1" 
 F 0 "D120" H 2393 545 50  0000 C CNN
 F 1 "LED" H 2393 636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 800 50  0001 C CNN
 F 3 "~" H 2400 800 50  0001 C CNN
 	1    2400 800 
 	-1   0    0    1   
@@ -4184,7 +4184,7 @@ AR Path="/61C566C7" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C566C7" Ref="D122"  Part="1" 
 F 0 "D122" H 2393 745 50  0000 C CNN
 F 1 "LED" H 2393 836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 1000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 1000 50  0001 C CNN
 F 3 "~" H 2400 1000 50  0001 C CNN
 	1    2400 1000
 	-1   0    0    1   
@@ -4201,7 +4201,7 @@ AR Path="/61C566E2" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C566E2" Ref="D124"  Part="1" 
 F 0 "D124" H 2393 1245 50  0000 C CNN
 F 1 "LED" H 2393 1336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 1500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 1500 50  0001 C CNN
 F 3 "~" H 2400 1500 50  0001 C CNN
 	1    2400 1500
 	-1   0    0    1   
@@ -4215,7 +4215,7 @@ AR Path="/61C566E9" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C566E9" Ref="D123"  Part="1" 
 F 0 "D123" H 2393 1145 50  0000 C CNN
 F 1 "LED" H 2393 1236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 1400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 1400 50  0001 C CNN
 F 3 "~" H 2400 1400 50  0001 C CNN
 	1    2400 1400
 	-1   0    0    1   
@@ -4230,7 +4230,7 @@ AR Path="/61C566F8" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C566F8" Ref="D125"  Part="1" 
 F 0 "D125" H 2393 1345 50  0000 C CNN
 F 1 "LED" H 2393 1436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 1600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 1600 50  0001 C CNN
 F 3 "~" H 2400 1600 50  0001 C CNN
 	1    2400 1600
 	-1   0    0    1   
@@ -4247,7 +4247,7 @@ AR Path="/61C56713" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56713" Ref="D127"  Part="1" 
 F 0 "D127" H 2393 1845 50  0000 C CNN
 F 1 "LED" H 2393 1936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 2100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 2100 50  0001 C CNN
 F 3 "~" H 2400 2100 50  0001 C CNN
 	1    2400 2100
 	-1   0    0    1   
@@ -4261,7 +4261,7 @@ AR Path="/61C5671A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5671A" Ref="D126"  Part="1" 
 F 0 "D126" H 2393 1745 50  0000 C CNN
 F 1 "LED" H 2393 1836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 2000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 2000 50  0001 C CNN
 F 3 "~" H 2400 2000 50  0001 C CNN
 	1    2400 2000
 	-1   0    0    1   
@@ -4276,7 +4276,7 @@ AR Path="/61C56729" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56729" Ref="D128"  Part="1" 
 F 0 "D128" H 2393 1945 50  0000 C CNN
 F 1 "LED" H 2393 2036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 2200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 2200 50  0001 C CNN
 F 3 "~" H 2400 2200 50  0001 C CNN
 	1    2400 2200
 	-1   0    0    1   
@@ -4293,7 +4293,7 @@ AR Path="/61C56744" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56744" Ref="D130"  Part="1" 
 F 0 "D130" H 2393 2445 50  0000 C CNN
 F 1 "LED" H 2393 2536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 2700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 2700 50  0001 C CNN
 F 3 "~" H 2400 2700 50  0001 C CNN
 	1    2400 2700
 	-1   0    0    1   
@@ -4309,7 +4309,7 @@ AR Path="/61C5674C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5674C" Ref="D129"  Part="1" 
 F 0 "D129" H 2393 2345 50  0000 C CNN
 F 1 "LED" H 2393 2436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 2600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 2600 50  0001 C CNN
 F 3 "~" H 2400 2600 50  0001 C CNN
 	1    2400 2600
 	-1   0    0    1   
@@ -4324,7 +4324,7 @@ AR Path="/61C5675B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5675B" Ref="D131"  Part="1" 
 F 0 "D131" H 2393 2545 50  0000 C CNN
 F 1 "LED" H 2393 2636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 2800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 2800 50  0001 C CNN
 F 3 "~" H 2400 2800 50  0001 C CNN
 	1    2400 2800
 	-1   0    0    1   
@@ -4341,7 +4341,7 @@ AR Path="/61C568F0" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C568F0" Ref="D93"  Part="1" 
 F 0 "D93" H 1193 8245 50  0000 C CNN
 F 1 "LED" H 1193 8336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 8500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 8500 50  0001 C CNN
 F 3 "~" H 1200 8500 50  0001 C CNN
 	1    1200 8500
 	-1   0    0    1   
@@ -4354,7 +4354,7 @@ AR Path="/61C56910" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56910" Ref="D91"  Part="1" 
 F 0 "D91" H 1193 8045 50  0000 C CNN
 F 1 "LED" H 1193 8136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 8300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 8300 50  0001 C CNN
 F 3 "~" H 1200 8300 50  0001 C CNN
 	1    1200 8300
 	-1   0    0    1   
@@ -4368,7 +4368,7 @@ AR Path="/61C56917" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56917" Ref="D92"  Part="1" 
 F 0 "D92" H 1193 8145 50  0000 C CNN
 F 1 "LED" H 1193 8236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 8400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 8400 50  0001 C CNN
 F 3 "~" H 1200 8400 50  0001 C CNN
 	1    1200 8400
 	-1   0    0    1   
@@ -4386,7 +4386,7 @@ AR Path="/61C56930" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56930" Ref="D89"  Part="1" 
 F 0 "D89" H 1193 7845 50  0000 C CNN
 F 1 "LED" H 1193 7936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 8100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 8100 50  0001 C CNN
 F 3 "~" H 1200 8100 50  0001 C CNN
 	1    1200 8100
 	-1   0    0    1   
@@ -4402,7 +4402,7 @@ AR Path="/61C56938" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56938" Ref="D90"  Part="1" 
 F 0 "D90" H 1193 7945 50  0000 C CNN
 F 1 "LED" H 1193 8036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 8200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 8200 50  0001 C CNN
 F 3 "~" H 1200 8200 50  0001 C CNN
 	1    1200 8200
 	-1   0    0    1   
@@ -4420,7 +4420,7 @@ AR Path="/61C56951" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56951" Ref="D87"  Part="1" 
 F 0 "D87" H 1193 7645 50  0000 C CNN
 F 1 "LED" H 1193 7736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 7900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 7900 50  0001 C CNN
 F 3 "~" H 1200 7900 50  0001 C CNN
 	1    1200 7900
 	-1   0    0    1   
@@ -4446,7 +4446,7 @@ AR Path="/61C5695D" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5695D" Ref="D88"  Part="1" 
 F 0 "D88" H 1193 7745 50  0000 C CNN
 F 1 "LED" H 1193 7836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 8000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 8000 50  0001 C CNN
 F 3 "~" H 1200 8000 50  0001 C CNN
 	1    1200 8000
 	-1   0    0    1   
@@ -4475,7 +4475,7 @@ AR Path="/61C56978" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56978" Ref="D86"  Part="1" 
 F 0 "D86" H 1193 7295 50  0000 C CNN
 F 1 "LED" H 1193 7386 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 7550 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 7550 50  0001 C CNN
 F 3 "~" H 1200 7550 50  0001 C CNN
 	1    1200 7550
 	-1   0    0    1   
@@ -4490,7 +4490,7 @@ AR Path="/61C56985" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56985" Ref="D84"  Part="1" 
 F 0 "D84" H 1193 7095 50  0000 C CNN
 F 1 "LED" H 1193 7186 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 7350 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 7350 50  0001 C CNN
 F 3 "~" H 1200 7350 50  0001 C CNN
 	1    1200 7350
 	-1   0    0    1   
@@ -4506,7 +4506,7 @@ AR Path="/61C5698D" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5698D" Ref="D85"  Part="1" 
 F 0 "D85" H 1193 7195 50  0000 C CNN
 F 1 "LED" H 1193 7286 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 7450 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 7450 50  0001 C CNN
 F 3 "~" H 1200 7450 50  0001 C CNN
 	1    1200 7450
 	-1   0    0    1   
@@ -4522,7 +4522,7 @@ AR Path="/61C569A5" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C569A5" Ref="D82"  Part="1" 
 F 0 "D82" H 1193 6895 50  0000 C CNN
 F 1 "LED" H 1193 6986 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 7150 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 7150 50  0001 C CNN
 F 3 "~" H 1200 7150 50  0001 C CNN
 	1    1200 7150
 	-1   0    0    1   
@@ -4536,7 +4536,7 @@ AR Path="/61C569AC" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C569AC" Ref="D83"  Part="1" 
 F 0 "D83" H 1193 6995 50  0000 C CNN
 F 1 "LED" H 1193 7086 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 7250 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 7250 50  0001 C CNN
 F 3 "~" H 1200 7250 50  0001 C CNN
 	1    1200 7250
 	-1   0    0    1   
@@ -4554,7 +4554,7 @@ AR Path="/61C569C5" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C569C5" Ref="D80"  Part="1" 
 F 0 "D80" H 1193 6695 50  0000 C CNN
 F 1 "LED" H 1193 6786 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 6950 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 6950 50  0001 C CNN
 F 3 "~" H 1200 6950 50  0001 C CNN
 	1    1200 6950
 	-1   0    0    1   
@@ -4568,7 +4568,7 @@ AR Path="/61C569CC" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C569CC" Ref="D81"  Part="1" 
 F 0 "D81" H 1193 6795 50  0000 C CNN
 F 1 "LED" H 1193 6886 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 7050 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 7050 50  0001 C CNN
 F 3 "~" H 1200 7050 50  0001 C CNN
 	1    1200 7050
 	-1   0    0    1   
@@ -4586,7 +4586,7 @@ AR Path="/61C569E5" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C569E5" Ref="D78"  Part="1" 
 F 0 "D78" H 1193 6495 50  0000 C CNN
 F 1 "LED" H 1193 6586 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 6750 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 6750 50  0001 C CNN
 F 3 "~" H 1200 6750 50  0001 C CNN
 	1    1200 6750
 	-1   0    0    1   
@@ -4600,7 +4600,7 @@ AR Path="/61C569EC" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C569EC" Ref="D79"  Part="1" 
 F 0 "D79" H 1193 6595 50  0000 C CNN
 F 1 "LED" H 1193 6686 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 6850 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 6850 50  0001 C CNN
 F 3 "~" H 1200 6850 50  0001 C CNN
 	1    1200 6850
 	-1   0    0    1   
@@ -4618,7 +4618,7 @@ AR Path="/61C56A05" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56A05" Ref="D76"  Part="1" 
 F 0 "D76" H 1193 6295 50  0000 C CNN
 F 1 "LED" H 1193 6386 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 6550 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 6550 50  0001 C CNN
 F 3 "~" H 1200 6550 50  0001 C CNN
 	1    1200 6550
 	-1   0    0    1   
@@ -4632,7 +4632,7 @@ AR Path="/61C56A0C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56A0C" Ref="D77"  Part="1" 
 F 0 "D77" H 1193 6395 50  0000 C CNN
 F 1 "LED" H 1193 6486 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 6650 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 6650 50  0001 C CNN
 F 3 "~" H 1200 6650 50  0001 C CNN
 	1    1200 6650
 	-1   0    0    1   
@@ -4650,7 +4650,7 @@ AR Path="/61C56A25" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56A25" Ref="D74"  Part="1" 
 F 0 "D74" H 1193 6095 50  0000 C CNN
 F 1 "LED" H 1193 6186 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 6350 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 6350 50  0001 C CNN
 F 3 "~" H 1200 6350 50  0001 C CNN
 	1    1200 6350
 	-1   0    0    1   
@@ -4664,7 +4664,7 @@ AR Path="/61C56A2C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56A2C" Ref="D75"  Part="1" 
 F 0 "D75" H 1193 6195 50  0000 C CNN
 F 1 "LED" H 1193 6286 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 6450 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 6450 50  0001 C CNN
 F 3 "~" H 1200 6450 50  0001 C CNN
 	1    1200 6450
 	-1   0    0    1   
@@ -4682,7 +4682,7 @@ AR Path="/61C56A45" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56A45" Ref="D72"  Part="1" 
 F 0 "D72" H 1193 5895 50  0000 C CNN
 F 1 "LED" H 1193 5986 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 6150 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 6150 50  0001 C CNN
 F 3 "~" H 1200 6150 50  0001 C CNN
 	1    1200 6150
 	-1   0    0    1   
@@ -4696,7 +4696,7 @@ AR Path="/61C56A4C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56A4C" Ref="D73"  Part="1" 
 F 0 "D73" H 1193 5995 50  0000 C CNN
 F 1 "LED" H 1193 6086 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 6250 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 6250 50  0001 C CNN
 F 3 "~" H 1200 6250 50  0001 C CNN
 	1    1200 6250
 	-1   0    0    1   
@@ -4714,7 +4714,7 @@ AR Path="/61C56A65" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56A65" Ref="D70"  Part="1" 
 F 0 "D70" H 1193 5695 50  0000 C CNN
 F 1 "LED" H 1193 5786 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 5950 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 5950 50  0001 C CNN
 F 3 "~" H 1200 5950 50  0001 C CNN
 	1    1200 5950
 	-1   0    0    1   
@@ -4728,7 +4728,7 @@ AR Path="/61C56A6C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56A6C" Ref="D71"  Part="1" 
 F 0 "D71" H 1193 5795 50  0000 C CNN
 F 1 "LED" H 1193 5886 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 6050 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 6050 50  0001 C CNN
 F 3 "~" H 1200 6050 50  0001 C CNN
 	1    1200 6050
 	-1   0    0    1   
@@ -4746,7 +4746,7 @@ AR Path="/61C56A85" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56A85" Ref="D68"  Part="1" 
 F 0 "D68" H 1193 5495 50  0000 C CNN
 F 1 "LED" H 1193 5586 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 5750 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 5750 50  0001 C CNN
 F 3 "~" H 1200 5750 50  0001 C CNN
 	1    1200 5750
 	-1   0    0    1   
@@ -4760,7 +4760,7 @@ AR Path="/61C56A8C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56A8C" Ref="D69"  Part="1" 
 F 0 "D69" H 1193 5595 50  0000 C CNN
 F 1 "LED" H 1193 5686 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 5850 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 5850 50  0001 C CNN
 F 3 "~" H 1200 5850 50  0001 C CNN
 	1    1200 5850
 	-1   0    0    1   
@@ -4778,7 +4778,7 @@ AR Path="/61C56AA5" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56AA5" Ref="D66"  Part="1" 
 F 0 "D66" H 1193 5295 50  0000 C CNN
 F 1 "LED" H 1193 5386 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 5550 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 5550 50  0001 C CNN
 F 3 "~" H 1200 5550 50  0001 C CNN
 	1    1200 5550
 	-1   0    0    1   
@@ -4792,7 +4792,7 @@ AR Path="/61C56AAC" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56AAC" Ref="D67"  Part="1" 
 F 0 "D67" H 1193 5395 50  0000 C CNN
 F 1 "LED" H 1193 5486 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 5650 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 5650 50  0001 C CNN
 F 3 "~" H 1200 5650 50  0001 C CNN
 	1    1200 5650
 	-1   0    0    1   
@@ -4810,7 +4810,7 @@ AR Path="/61C56AC5" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56AC5" Ref="D64"  Part="1" 
 F 0 "D64" H 1193 5095 50  0000 C CNN
 F 1 "LED" H 1193 5186 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 5350 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 5350 50  0001 C CNN
 F 3 "~" H 1200 5350 50  0001 C CNN
 	1    1200 5350
 	-1   0    0    1   
@@ -4824,7 +4824,7 @@ AR Path="/61C56ACC" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56ACC" Ref="D65"  Part="1" 
 F 0 "D65" H 1193 5195 50  0000 C CNN
 F 1 "LED" H 1193 5286 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 5450 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 5450 50  0001 C CNN
 F 3 "~" H 1200 5450 50  0001 C CNN
 	1    1200 5450
 	-1   0    0    1   
@@ -4842,7 +4842,7 @@ AR Path="/61C56AE5" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56AE5" Ref="D62"  Part="1" 
 F 0 "D62" H 1193 4895 50  0000 C CNN
 F 1 "LED" H 1193 4986 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 5150 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 5150 50  0001 C CNN
 F 3 "~" H 1200 5150 50  0001 C CNN
 	1    1200 5150
 	-1   0    0    1   
@@ -4856,7 +4856,7 @@ AR Path="/61C56AEC" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56AEC" Ref="D63"  Part="1" 
 F 0 "D63" H 1193 4995 50  0000 C CNN
 F 1 "LED" H 1193 5086 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 5250 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 5250 50  0001 C CNN
 F 3 "~" H 1200 5250 50  0001 C CNN
 	1    1200 5250
 	-1   0    0    1   
@@ -4874,7 +4874,7 @@ AR Path="/61C56B05" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56B05" Ref="D60"  Part="1" 
 F 0 "D60" H 1193 4695 50  0000 C CNN
 F 1 "LED" H 1193 4786 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 4950 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 4950 50  0001 C CNN
 F 3 "~" H 1200 4950 50  0001 C CNN
 	1    1200 4950
 	-1   0    0    1   
@@ -4888,7 +4888,7 @@ AR Path="/61C56B0C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56B0C" Ref="D61"  Part="1" 
 F 0 "D61" H 1193 4795 50  0000 C CNN
 F 1 "LED" H 1193 4886 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 5050 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 5050 50  0001 C CNN
 F 3 "~" H 1200 5050 50  0001 C CNN
 	1    1200 5050
 	-1   0    0    1   
@@ -4906,7 +4906,7 @@ AR Path="/61C56B25" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56B25" Ref="D58"  Part="1" 
 F 0 "D58" H 1193 4495 50  0000 C CNN
 F 1 "LED" H 1193 4586 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 4750 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 4750 50  0001 C CNN
 F 3 "~" H 1200 4750 50  0001 C CNN
 	1    1200 4750
 	-1   0    0    1   
@@ -4920,7 +4920,7 @@ AR Path="/61C56B2C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56B2C" Ref="D59"  Part="1" 
 F 0 "D59" H 1193 4595 50  0000 C CNN
 F 1 "LED" H 1193 4686 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 4850 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 4850 50  0001 C CNN
 F 3 "~" H 1200 4850 50  0001 C CNN
 	1    1200 4850
 	-1   0    0    1   
@@ -4938,7 +4938,7 @@ AR Path="/61C56B45" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56B45" Ref="D56"  Part="1" 
 F 0 "D56" H 1193 4295 50  0000 C CNN
 F 1 "LED" H 1193 4386 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 4550 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 4550 50  0001 C CNN
 F 3 "~" H 1200 4550 50  0001 C CNN
 	1    1200 4550
 	-1   0    0    1   
@@ -4954,7 +4954,7 @@ AR Path="/61C56B4D" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56B4D" Ref="D57"  Part="1" 
 F 0 "D57" H 1193 4395 50  0000 C CNN
 F 1 "LED" H 1193 4486 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 4650 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 4650 50  0001 C CNN
 F 3 "~" H 1200 4650 50  0001 C CNN
 	1    1200 4650
 	-1   0    0    1   
@@ -4972,7 +4972,7 @@ AR Path="/61C56B66" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56B66" Ref="D54"  Part="1" 
 F 0 "D54" H 1193 4095 50  0000 C CNN
 F 1 "LED" H 1193 4186 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 4350 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 4350 50  0001 C CNN
 F 3 "~" H 1200 4350 50  0001 C CNN
 	1    1200 4350
 	-1   0    0    1   
@@ -4998,7 +4998,7 @@ AR Path="/61C56B72" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56B72" Ref="D55"  Part="1" 
 F 0 "D55" H 1193 4195 50  0000 C CNN
 F 1 "LED" H 1193 4286 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 4450 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 4450 50  0001 C CNN
 F 3 "~" H 1200 4450 50  0001 C CNN
 	1    1200 4450
 	-1   0    0    1   
@@ -5132,7 +5132,7 @@ AR Path="/61C560B3" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C560B3" Ref="D256"  Part="1" 
 F 0 "D256" H 4793 645 50  0000 C CNN
 F 1 "LED" H 4793 736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 900 50  0001 C CNN
 F 3 "~" H 4800 900 50  0001 C CNN
 	1    4800 900 
 	-1   0    0    1   
@@ -5145,7 +5145,7 @@ AR Path="/61C560AD" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C560AD" Ref="D255"  Part="1" 
 F 0 "D255" H 4793 545 50  0000 C CNN
 F 1 "LED" H 4793 636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 800 50  0001 C CNN
 F 3 "~" H 4800 800 50  0001 C CNN
 	1    4800 800 
 	-1   0    0    1   
@@ -5159,7 +5159,7 @@ AR Path="/61C56094" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56094" Ref="D258"  Part="1" 
 F 0 "D258" H 4793 845 50  0000 C CNN
 F 1 "LED" H 4793 936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 1100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 1100 50  0001 C CNN
 F 3 "~" H 4800 1100 50  0001 C CNN
 	1    4800 1100
 	-1   0    0    1   
@@ -5177,7 +5177,7 @@ AR Path="/61C5608C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5608C" Ref="D257"  Part="1" 
 F 0 "D257" H 4793 745 50  0000 C CNN
 F 1 "LED" H 4793 836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 1000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 1000 50  0001 C CNN
 F 3 "~" H 4800 1000 50  0001 C CNN
 	1    4800 1000
 	-1   0    0    1   
@@ -5191,7 +5191,7 @@ AR Path="/61C56073" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56073" Ref="D260"  Part="1" 
 F 0 "D260" H 4793 1045 50  0000 C CNN
 F 1 "LED" H 4793 1136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 1300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 1300 50  0001 C CNN
 F 3 "~" H 4800 1300 50  0001 C CNN
 	1    4800 1300
 	-1   0    0    1   
@@ -5209,7 +5209,7 @@ AR Path="/61C5606C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5606C" Ref="D259"  Part="1" 
 F 0 "D259" H 4793 945 50  0000 C CNN
 F 1 "LED" H 4793 1036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 1200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 1200 50  0001 C CNN
 F 3 "~" H 4800 1200 50  0001 C CNN
 	1    4800 1200
 	-1   0    0    1   
@@ -5223,7 +5223,7 @@ AR Path="/61C56053" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56053" Ref="D262"  Part="1" 
 F 0 "D262" H 4793 1245 50  0000 C CNN
 F 1 "LED" H 4793 1336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 1500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 1500 50  0001 C CNN
 F 3 "~" H 4800 1500 50  0001 C CNN
 	1    4800 1500
 	-1   0    0    1   
@@ -5241,7 +5241,7 @@ AR Path="/61C5604C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5604C" Ref="D261"  Part="1" 
 F 0 "D261" H 4793 1145 50  0000 C CNN
 F 1 "LED" H 4793 1236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 1400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 1400 50  0001 C CNN
 F 3 "~" H 4800 1400 50  0001 C CNN
 	1    4800 1400
 	-1   0    0    1   
@@ -5255,7 +5255,7 @@ AR Path="/61C56033" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56033" Ref="D264"  Part="1" 
 F 0 "D264" H 4793 1445 50  0000 C CNN
 F 1 "LED" H 4793 1536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 1700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 1700 50  0001 C CNN
 F 3 "~" H 4800 1700 50  0001 C CNN
 	1    4800 1700
 	-1   0    0    1   
@@ -5273,7 +5273,7 @@ AR Path="/61C5602C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5602C" Ref="D263"  Part="1" 
 F 0 "D263" H 4793 1345 50  0000 C CNN
 F 1 "LED" H 4793 1436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 1600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 1600 50  0001 C CNN
 F 3 "~" H 4800 1600 50  0001 C CNN
 	1    4800 1600
 	-1   0    0    1   
@@ -5287,7 +5287,7 @@ AR Path="/61C56013" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56013" Ref="D266"  Part="1" 
 F 0 "D266" H 4793 1645 50  0000 C CNN
 F 1 "LED" H 4793 1736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 1900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 1900 50  0001 C CNN
 F 3 "~" H 4800 1900 50  0001 C CNN
 	1    4800 1900
 	-1   0    0    1   
@@ -5305,7 +5305,7 @@ AR Path="/61C5600C" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C5600C" Ref="D265"  Part="1" 
 F 0 "D265" H 4793 1545 50  0000 C CNN
 F 1 "LED" H 4793 1636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 1800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 1800 50  0001 C CNN
 F 3 "~" H 4800 1800 50  0001 C CNN
 	1    4800 1800
 	-1   0    0    1   
@@ -5319,7 +5319,7 @@ AR Path="/61C55FF3" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55FF3" Ref="D268"  Part="1" 
 F 0 "D268" H 4793 1845 50  0000 C CNN
 F 1 "LED" H 4793 1936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 2100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 2100 50  0001 C CNN
 F 3 "~" H 4800 2100 50  0001 C CNN
 	1    4800 2100
 	-1   0    0    1   
@@ -5337,7 +5337,7 @@ AR Path="/61C55FEC" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55FEC" Ref="D267"  Part="1" 
 F 0 "D267" H 4793 1745 50  0000 C CNN
 F 1 "LED" H 4793 1836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 2000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 2000 50  0001 C CNN
 F 3 "~" H 4800 2000 50  0001 C CNN
 	1    4800 2000
 	-1   0    0    1   
@@ -5353,7 +5353,7 @@ AR Path="/61C55FD3" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55FD3" Ref="D270"  Part="1" 
 F 0 "D270" H 4793 2045 50  0000 C CNN
 F 1 "LED" H 4793 2136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 2300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 2300 50  0001 C CNN
 F 3 "~" H 4800 2300 50  0001 C CNN
 	1    4800 2300
 	-1   0    0    1   
@@ -5371,7 +5371,7 @@ AR Path="/61C55FCC" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55FCC" Ref="D269"  Part="1" 
 F 0 "D269" H 4793 1945 50  0000 C CNN
 F 1 "LED" H 4793 2036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 2200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 2200 50  0001 C CNN
 F 3 "~" H 4800 2200 50  0001 C CNN
 	1    4800 2200
 	-1   0    0    1   
@@ -5402,7 +5402,7 @@ AR Path="/61C55E34" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55E34" Ref="D298"  Part="1" 
 F 0 "D298" H 4793 5345 50  0000 C CNN
 F 1 "LED" H 4793 5436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 5600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 5600 50  0001 C CNN
 F 3 "~" H 4800 5600 50  0001 C CNN
 	1    4800 5600
 	-1   0    0    1   
@@ -5415,7 +5415,7 @@ AR Path="/61C55E28" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55E28" Ref="D297"  Part="1" 
 F 0 "D297" H 4793 5245 50  0000 C CNN
 F 1 "LED" H 4793 5336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 5500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 5500 50  0001 C CNN
 F 3 "~" H 4800 5500 50  0001 C CNN
 	1    4800 5500
 	-1   0    0    1   
@@ -5429,7 +5429,7 @@ AR Path="/61C55E0F" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55E0F" Ref="D300"  Part="1" 
 F 0 "D300" H 4793 5545 50  0000 C CNN
 F 1 "LED" H 4793 5636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 5800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 5800 50  0001 C CNN
 F 3 "~" H 4800 5800 50  0001 C CNN
 	1    4800 5800
 	-1   0    0    1   
@@ -5447,7 +5447,7 @@ AR Path="/61C55E07" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55E07" Ref="D299"  Part="1" 
 F 0 "D299" H 4793 5445 50  0000 C CNN
 F 1 "LED" H 4793 5536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 5700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 5700 50  0001 C CNN
 F 3 "~" H 4800 5700 50  0001 C CNN
 	1    4800 5700
 	-1   0    0    1   
@@ -5461,7 +5461,7 @@ AR Path="/61C55DEE" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55DEE" Ref="D302"  Part="1" 
 F 0 "D302" H 4793 5745 50  0000 C CNN
 F 1 "LED" H 4793 5836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 6000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 6000 50  0001 C CNN
 F 3 "~" H 4800 6000 50  0001 C CNN
 	1    4800 6000
 	-1   0    0    1   
@@ -5479,7 +5479,7 @@ AR Path="/61C55DE7" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55DE7" Ref="D301"  Part="1" 
 F 0 "D301" H 4793 5645 50  0000 C CNN
 F 1 "LED" H 4793 5736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 5900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 5900 50  0001 C CNN
 F 3 "~" H 4800 5900 50  0001 C CNN
 	1    4800 5900
 	-1   0    0    1   
@@ -5493,7 +5493,7 @@ AR Path="/61C55DCE" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55DCE" Ref="D304"  Part="1" 
 F 0 "D304" H 4793 5945 50  0000 C CNN
 F 1 "LED" H 4793 6036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 6200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 6200 50  0001 C CNN
 F 3 "~" H 4800 6200 50  0001 C CNN
 	1    4800 6200
 	-1   0    0    1   
@@ -5511,7 +5511,7 @@ AR Path="/61C55DC7" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55DC7" Ref="D303"  Part="1" 
 F 0 "D303" H 4793 5845 50  0000 C CNN
 F 1 "LED" H 4793 5936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 6100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 6100 50  0001 C CNN
 F 3 "~" H 4800 6100 50  0001 C CNN
 	1    4800 6100
 	-1   0    0    1   
@@ -5525,7 +5525,7 @@ AR Path="/61C55DAE" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55DAE" Ref="D306"  Part="1" 
 F 0 "D306" H 4793 6145 50  0000 C CNN
 F 1 "LED" H 4793 6236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 6400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 6400 50  0001 C CNN
 F 3 "~" H 4800 6400 50  0001 C CNN
 	1    4800 6400
 	-1   0    0    1   
@@ -5543,7 +5543,7 @@ AR Path="/61C55DA7" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55DA7" Ref="D305"  Part="1" 
 F 0 "D305" H 4793 6045 50  0000 C CNN
 F 1 "LED" H 4793 6136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 6300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 6300 50  0001 C CNN
 F 3 "~" H 4800 6300 50  0001 C CNN
 	1    4800 6300
 	-1   0    0    1   
@@ -5557,7 +5557,7 @@ AR Path="/61C55D8E" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55D8E" Ref="D308"  Part="1" 
 F 0 "D308" H 4793 6345 50  0000 C CNN
 F 1 "LED" H 4793 6436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 6600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 6600 50  0001 C CNN
 F 3 "~" H 4800 6600 50  0001 C CNN
 	1    4800 6600
 	-1   0    0    1   
@@ -5575,7 +5575,7 @@ AR Path="/61C55D87" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55D87" Ref="D307"  Part="1" 
 F 0 "D307" H 4793 6245 50  0000 C CNN
 F 1 "LED" H 4793 6336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 6500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 6500 50  0001 C CNN
 F 3 "~" H 4800 6500 50  0001 C CNN
 	1    4800 6500
 	-1   0    0    1   
@@ -5589,7 +5589,7 @@ AR Path="/61C55D6E" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55D6E" Ref="D310"  Part="1" 
 F 0 "D310" H 4793 6545 50  0000 C CNN
 F 1 "LED" H 4793 6636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 6800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 6800 50  0001 C CNN
 F 3 "~" H 4800 6800 50  0001 C CNN
 	1    4800 6800
 	-1   0    0    1   
@@ -5607,7 +5607,7 @@ AR Path="/61C55D67" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55D67" Ref="D309"  Part="1" 
 F 0 "D309" H 4793 6445 50  0000 C CNN
 F 1 "LED" H 4793 6536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 6700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 6700 50  0001 C CNN
 F 3 "~" H 4800 6700 50  0001 C CNN
 	1    4800 6700
 	-1   0    0    1   
@@ -5623,7 +5623,7 @@ AR Path="/61C55D4E" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55D4E" Ref="D312"  Part="1" 
 F 0 "D312" H 4793 6745 50  0000 C CNN
 F 1 "LED" H 4793 6836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 7000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 7000 50  0001 C CNN
 F 3 "~" H 4800 7000 50  0001 C CNN
 	1    4800 7000
 	-1   0    0    1   
@@ -5641,7 +5641,7 @@ AR Path="/61C55D47" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55D47" Ref="D311"  Part="1" 
 F 0 "D311" H 4793 6645 50  0000 C CNN
 F 1 "LED" H 4793 6736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 6900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 6900 50  0001 C CNN
 F 3 "~" H 4800 6900 50  0001 C CNN
 	1    4800 6900
 	-1   0    0    1   
@@ -5861,7 +5861,7 @@ AR Path="/61C568F7" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C568F7" Ref="D94"  Part="1" 
 F 0 "D94" H 1193 8345 50  0000 C CNN
 F 1 "LED" H 1193 8436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 8600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 8600 50  0001 C CNN
 F 3 "~" H 1200 8600 50  0001 C CNN
 	1    1200 8600
 	-1   0    0    1   
@@ -5875,7 +5875,7 @@ AR Path="/61C568D7" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C568D7" Ref="D96"  Part="1" 
 F 0 "D96" H 1193 8545 50  0000 C CNN
 F 1 "LED" H 1193 8636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 8800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 8800 50  0001 C CNN
 F 3 "~" H 1200 8800 50  0001 C CNN
 	1    1200 8800
 	-1   0    0    1   
@@ -5893,7 +5893,7 @@ AR Path="/61C568D0" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C568D0" Ref="D95"  Part="1" 
 F 0 "D95" H 1193 8445 50  0000 C CNN
 F 1 "LED" H 1193 8536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 8700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 8700 50  0001 C CNN
 F 3 "~" H 1200 8700 50  0001 C CNN
 	1    1200 8700
 	-1   0    0    1   
@@ -5907,7 +5907,7 @@ AR Path="/61C568B7" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C568B7" Ref="D98"  Part="1" 
 F 0 "D98" H 1193 8745 50  0000 C CNN
 F 1 "LED" H 1193 8836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 9000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 9000 50  0001 C CNN
 F 3 "~" H 1200 9000 50  0001 C CNN
 	1    1200 9000
 	-1   0    0    1   
@@ -5925,7 +5925,7 @@ AR Path="/61C568B0" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C568B0" Ref="D97"  Part="1" 
 F 0 "D97" H 1193 8645 50  0000 C CNN
 F 1 "LED" H 1193 8736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 8900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 8900 50  0001 C CNN
 F 3 "~" H 1200 8900 50  0001 C CNN
 	1    1200 8900
 	-1   0    0    1   
@@ -5939,7 +5939,7 @@ AR Path="/61C56897" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56897" Ref="D100"  Part="1" 
 F 0 "D100" H 1193 8945 50  0000 C CNN
 F 1 "LED" H 1193 9036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 9200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 9200 50  0001 C CNN
 F 3 "~" H 1200 9200 50  0001 C CNN
 	1    1200 9200
 	-1   0    0    1   
@@ -5957,7 +5957,7 @@ AR Path="/61C56890" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56890" Ref="D99"  Part="1" 
 F 0 "D99" H 1193 8845 50  0000 C CNN
 F 1 "LED" H 1193 8936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 9100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 9100 50  0001 C CNN
 F 3 "~" H 1200 9100 50  0001 C CNN
 	1    1200 9100
 	-1   0    0    1   
@@ -5971,7 +5971,7 @@ AR Path="/61C56877" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56877" Ref="D102"  Part="1" 
 F 0 "D102" H 1193 9145 50  0000 C CNN
 F 1 "LED" H 1193 9236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 9400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 9400 50  0001 C CNN
 F 3 "~" H 1200 9400 50  0001 C CNN
 	1    1200 9400
 	-1   0    0    1   
@@ -5989,7 +5989,7 @@ AR Path="/61C56870" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56870" Ref="D101"  Part="1" 
 F 0 "D101" H 1193 9045 50  0000 C CNN
 F 1 "LED" H 1193 9136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 9300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 9300 50  0001 C CNN
 F 3 "~" H 1200 9300 50  0001 C CNN
 	1    1200 9300
 	-1   0    0    1   
@@ -6003,7 +6003,7 @@ AR Path="/61C56857" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56857" Ref="D104"  Part="1" 
 F 0 "D104" H 1193 9345 50  0000 C CNN
 F 1 "LED" H 1193 9436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 9600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 9600 50  0001 C CNN
 F 3 "~" H 1200 9600 50  0001 C CNN
 	1    1200 9600
 	-1   0    0    1   
@@ -6021,7 +6021,7 @@ AR Path="/61C56850" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56850" Ref="D103"  Part="1" 
 F 0 "D103" H 1193 9245 50  0000 C CNN
 F 1 "LED" H 1193 9336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 9500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 9500 50  0001 C CNN
 F 3 "~" H 1200 9500 50  0001 C CNN
 	1    1200 9500
 	-1   0    0    1   
@@ -6035,7 +6035,7 @@ AR Path="/61C56837" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56837" Ref="D106"  Part="1" 
 F 0 "D106" H 1193 9545 50  0000 C CNN
 F 1 "LED" H 1193 9636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 9800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 9800 50  0001 C CNN
 F 3 "~" H 1200 9800 50  0001 C CNN
 	1    1200 9800
 	-1   0    0    1   
@@ -6053,7 +6053,7 @@ AR Path="/61C56830" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56830" Ref="D105"  Part="1" 
 F 0 "D105" H 1193 9445 50  0000 C CNN
 F 1 "LED" H 1193 9536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 9700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 9700 50  0001 C CNN
 F 3 "~" H 1200 9700 50  0001 C CNN
 	1    1200 9700
 	-1   0    0    1   
@@ -6067,7 +6067,7 @@ AR Path="/61C56817" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56817" Ref="D108"  Part="1" 
 F 0 "D108" H 1193 9745 50  0000 C CNN
 F 1 "LED" H 1193 9836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 10000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 10000 50  0001 C CNN
 F 3 "~" H 1200 10000 50  0001 C CNN
 	1    1200 10000
 	-1   0    0    1   
@@ -6085,7 +6085,7 @@ AR Path="/61C56810" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56810" Ref="D107"  Part="1" 
 F 0 "D107" H 1193 9645 50  0000 C CNN
 F 1 "LED" H 1193 9736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 9900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 9900 50  0001 C CNN
 F 3 "~" H 1200 9900 50  0001 C CNN
 	1    1200 9900
 	-1   0    0    1   
@@ -6099,7 +6099,7 @@ AR Path="/61C567F7" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C567F7" Ref="D110"  Part="1" 
 F 0 "D110" H 1193 9945 50  0000 C CNN
 F 1 "LED" H 1193 10036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 10200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 10200 50  0001 C CNN
 F 3 "~" H 1200 10200 50  0001 C CNN
 	1    1200 10200
 	-1   0    0    1   
@@ -6117,7 +6117,7 @@ AR Path="/61C567F0" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C567F0" Ref="D109"  Part="1" 
 F 0 "D109" H 1193 9845 50  0000 C CNN
 F 1 "LED" H 1193 9936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 10100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 10100 50  0001 C CNN
 F 3 "~" H 1200 10100 50  0001 C CNN
 	1    1200 10100
 	-1   0    0    1   
@@ -6131,7 +6131,7 @@ AR Path="/61C567D7" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C567D7" Ref="D112"  Part="1" 
 F 0 "D112" H 1193 10145 50  0000 C CNN
 F 1 "LED" H 1193 10236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 10400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 10400 50  0001 C CNN
 F 3 "~" H 1200 10400 50  0001 C CNN
 	1    1200 10400
 	-1   0    0    1   
@@ -6149,7 +6149,7 @@ AR Path="/61C567D0" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C567D0" Ref="D111"  Part="1" 
 F 0 "D111" H 1193 10045 50  0000 C CNN
 F 1 "LED" H 1193 10136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 10300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 10300 50  0001 C CNN
 F 3 "~" H 1200 10300 50  0001 C CNN
 	1    1200 10300
 	-1   0    0    1   
@@ -6163,7 +6163,7 @@ AR Path="/61C567B7" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C567B7" Ref="D114"  Part="1" 
 F 0 "D114" H 1193 10345 50  0000 C CNN
 F 1 "LED" H 1193 10436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 10600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 10600 50  0001 C CNN
 F 3 "~" H 1200 10600 50  0001 C CNN
 	1    1200 10600
 	-1   0    0    1   
@@ -6181,7 +6181,7 @@ AR Path="/61C567B0" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C567B0" Ref="D113"  Part="1" 
 F 0 "D113" H 1193 10245 50  0000 C CNN
 F 1 "LED" H 1193 10336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 10500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 10500 50  0001 C CNN
 F 3 "~" H 1200 10500 50  0001 C CNN
 	1    1200 10500
 	-1   0    0    1   
@@ -6195,7 +6195,7 @@ AR Path="/61C56797" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56797" Ref="D116"  Part="1" 
 F 0 "D116" H 1193 10545 50  0000 C CNN
 F 1 "LED" H 1193 10636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 10800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 10800 50  0001 C CNN
 F 3 "~" H 1200 10800 50  0001 C CNN
 	1    1200 10800
 	-1   0    0    1   
@@ -6213,7 +6213,7 @@ AR Path="/61C56790" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56790" Ref="D115"  Part="1" 
 F 0 "D115" H 1193 10445 50  0000 C CNN
 F 1 "LED" H 1193 10536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 10700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 10700 50  0001 C CNN
 F 3 "~" H 1200 10700 50  0001 C CNN
 	1    1200 10700
 	-1   0    0    1   
@@ -6229,7 +6229,7 @@ AR Path="/61C56778" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56778" Ref="D118"  Part="1" 
 F 0 "D118" H 1193 10745 50  0000 C CNN
 F 1 "LED" H 1193 10836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 11000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 11000 50  0001 C CNN
 F 3 "~" H 1200 11000 50  0001 C CNN
 	1    1200 11000
 	-1   0    0    1   
@@ -6247,7 +6247,7 @@ AR Path="/61C56770" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56770" Ref="D117"  Part="1" 
 F 0 "D117" H 1193 10645 50  0000 C CNN
 F 1 "LED" H 1193 10736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 10900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 10900 50  0001 C CNN
 F 3 "~" H 1200 10900 50  0001 C CNN
 	1    1200 10900
 	-1   0    0    1   
@@ -6260,7 +6260,7 @@ AR Path="/61C56763" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56763" Ref="D119"  Part="1" 
 F 0 "D119" H 1193 10845 50  0000 C CNN
 F 1 "LED" H 1193 10936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 11100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 11100 50  0001 C CNN
 F 3 "~" H 1200 11100 50  0001 C CNN
 	1    1200 11100
 	-1   0    0    1   
@@ -6731,7 +6731,7 @@ AR Path="/61C55F32" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55F32" Ref="D281"  Part="1" 
 F 0 "D281" H 4793 3445 50  0000 C CNN
 F 1 "LED" H 4793 3536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 3700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 3700 50  0001 C CNN
 F 3 "~" H 4800 3700 50  0001 C CNN
 	1    4800 3700
 	-1   0    0    1   
@@ -6749,7 +6749,7 @@ AR Path="/61C55F2B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55F2B" Ref="D280"  Part="1" 
 F 0 "D280" H 4793 3345 50  0000 C CNN
 F 1 "LED" H 4793 3436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 3600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 3600 50  0001 C CNN
 F 3 "~" H 4800 3600 50  0001 C CNN
 	1    4800 3600
 	-1   0    0    1   
@@ -6763,7 +6763,7 @@ AR Path="/61C55F12" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55F12" Ref="D283"  Part="1" 
 F 0 "D283" H 4793 3645 50  0000 C CNN
 F 1 "LED" H 4793 3736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 3900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 3900 50  0001 C CNN
 F 3 "~" H 4800 3900 50  0001 C CNN
 	1    4800 3900
 	-1   0    0    1   
@@ -6781,7 +6781,7 @@ AR Path="/61C55F0B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55F0B" Ref="D282"  Part="1" 
 F 0 "D282" H 4793 3545 50  0000 C CNN
 F 1 "LED" H 4793 3636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 3800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 3800 50  0001 C CNN
 F 3 "~" H 4800 3800 50  0001 C CNN
 	1    4800 3800
 	-1   0    0    1   
@@ -6795,7 +6795,7 @@ AR Path="/61C55EF2" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55EF2" Ref="D285"  Part="1" 
 F 0 "D285" H 4793 3845 50  0000 C CNN
 F 1 "LED" H 4793 3936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 4100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 4100 50  0001 C CNN
 F 3 "~" H 4800 4100 50  0001 C CNN
 	1    4800 4100
 	-1   0    0    1   
@@ -6813,7 +6813,7 @@ AR Path="/61C55EEB" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55EEB" Ref="D284"  Part="1" 
 F 0 "D284" H 4793 3745 50  0000 C CNN
 F 1 "LED" H 4793 3836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 4000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 4000 50  0001 C CNN
 F 3 "~" H 4800 4000 50  0001 C CNN
 	1    4800 4000
 	-1   0    0    1   
@@ -6827,7 +6827,7 @@ AR Path="/61C55ED2" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55ED2" Ref="D287"  Part="1" 
 F 0 "D287" H 4793 4045 50  0000 C CNN
 F 1 "LED" H 4793 4136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 4300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 4300 50  0001 C CNN
 F 3 "~" H 4800 4300 50  0001 C CNN
 	1    4800 4300
 	-1   0    0    1   
@@ -6845,7 +6845,7 @@ AR Path="/61C55ECB" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55ECB" Ref="D286"  Part="1" 
 F 0 "D286" H 4793 3945 50  0000 C CNN
 F 1 "LED" H 4793 4036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 4200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 4200 50  0001 C CNN
 F 3 "~" H 4800 4200 50  0001 C CNN
 	1    4800 4200
 	-1   0    0    1   
@@ -6859,7 +6859,7 @@ AR Path="/61C55EB2" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55EB2" Ref="D289"  Part="1" 
 F 0 "D289" H 4793 4245 50  0000 C CNN
 F 1 "LED" H 4793 4336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 4500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 4500 50  0001 C CNN
 F 3 "~" H 4800 4500 50  0001 C CNN
 	1    4800 4500
 	-1   0    0    1   
@@ -6877,7 +6877,7 @@ AR Path="/61C55EAB" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55EAB" Ref="D288"  Part="1" 
 F 0 "D288" H 4793 4145 50  0000 C CNN
 F 1 "LED" H 4793 4236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 4400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 4400 50  0001 C CNN
 F 3 "~" H 4800 4400 50  0001 C CNN
 	1    4800 4400
 	-1   0    0    1   
@@ -6891,7 +6891,7 @@ AR Path="/61C55E92" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55E92" Ref="D291"  Part="1" 
 F 0 "D291" H 4793 4445 50  0000 C CNN
 F 1 "LED" H 4793 4536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 4700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 4700 50  0001 C CNN
 F 3 "~" H 4800 4700 50  0001 C CNN
 	1    4800 4700
 	-1   0    0    1   
@@ -6909,7 +6909,7 @@ AR Path="/61C55E8B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55E8B" Ref="D290"  Part="1" 
 F 0 "D290" H 4793 4345 50  0000 C CNN
 F 1 "LED" H 4793 4436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 4600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 4600 50  0001 C CNN
 F 3 "~" H 4800 4600 50  0001 C CNN
 	1    4800 4600
 	-1   0    0    1   
@@ -6923,7 +6923,7 @@ AR Path="/61C55E72" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55E72" Ref="D293"  Part="1" 
 F 0 "D293" H 4793 4645 50  0000 C CNN
 F 1 "LED" H 4793 4736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 4900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 4900 50  0001 C CNN
 F 3 "~" H 4800 4900 50  0001 C CNN
 	1    4800 4900
 	-1   0    0    1   
@@ -6941,7 +6941,7 @@ AR Path="/61C55E6B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55E6B" Ref="D292"  Part="1" 
 F 0 "D292" H 4793 4545 50  0000 C CNN
 F 1 "LED" H 4793 4636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 4800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 4800 50  0001 C CNN
 F 3 "~" H 4800 4800 50  0001 C CNN
 	1    4800 4800
 	-1   0    0    1   
@@ -6959,7 +6959,7 @@ AR Path="/61C55E5B" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55E5B" Ref="D294"  Part="1" 
 F 0 "D294" H 4793 4745 50  0000 C CNN
 F 1 "LED" H 4793 4836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 5000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 5000 50  0001 C CNN
 F 3 "~" H 4800 5000 50  0001 C CNN
 	1    4800 5000
 	-1   0    0    1   
@@ -6972,7 +6972,7 @@ AR Path="/61C55E54" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C55E54" Ref="D295"  Part="1" 
 F 0 "D295" H 4793 4845 50  0000 C CNN
 F 1 "LED" H 4793 4936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 5100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 5100 50  0001 C CNN
 F 3 "~" H 4800 5100 50  0001 C CNN
 	1    4800 5100
 	-1   0    0    1   
@@ -7544,7 +7544,7 @@ AR Path="/5EABD1E6" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD1E6" Ref="D157"  Part="1" 
 F 0 "D157" H 2393 7845 50  0000 C CNN
 F 1 "LED" H 2393 7936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 8100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 8100 50  0001 C CNN
 F 3 "~" H 2400 8100 50  0001 C CNN
 	1    2400 8100
 	-1   0    0    1   
@@ -7560,7 +7560,7 @@ AR Path="/5EABD1EE" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD1EE" Ref="D156"  Part="1" 
 F 0 "D156" H 2393 7745 50  0000 C CNN
 F 1 "LED" H 2393 7836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 8000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 8000 50  0001 C CNN
 F 3 "~" H 2400 8000 50  0001 C CNN
 	1    2400 8000
 	-1   0    0    1   
@@ -7573,7 +7573,7 @@ AR Path="/5EABD1F4" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD1F4" Ref="D158"  Part="1" 
 F 0 "D158" H 2393 7945 50  0000 C CNN
 F 1 "LED" H 2393 8036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 8200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 8200 50  0001 C CNN
 F 3 "~" H 2400 8200 50  0001 C CNN
 	1    2400 8200
 	-1   0    0    1   
@@ -7588,7 +7588,7 @@ AR Path="/5EABD202" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD202" Ref="D160"  Part="1" 
 F 0 "D160" H 2393 8445 50  0000 C CNN
 F 1 "LED" H 2393 8536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 8700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 8700 50  0001 C CNN
 F 3 "~" H 2400 8700 50  0001 C CNN
 	1    2400 8700
 	-1   0    0    1   
@@ -7602,7 +7602,7 @@ AR Path="/5EABD209" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD209" Ref="D159"  Part="1" 
 F 0 "D159" H 2393 8345 50  0000 C CNN
 F 1 "LED" H 2393 8436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 8600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 8600 50  0001 C CNN
 F 3 "~" H 2400 8600 50  0001 C CNN
 	1    2400 8600
 	-1   0    0    1   
@@ -7617,7 +7617,7 @@ AR Path="/5EABD212" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD212" Ref="D161"  Part="1" 
 F 0 "D161" H 2393 8545 50  0000 C CNN
 F 1 "LED" H 2393 8636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 8800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 8800 50  0001 C CNN
 F 3 "~" H 2400 8800 50  0001 C CNN
 	1    2400 8800
 	-1   0    0    1   
@@ -7632,7 +7632,7 @@ AR Path="/5EABD220" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD220" Ref="D163"  Part="1" 
 F 0 "D163" H 2393 9045 50  0000 C CNN
 F 1 "LED" H 2393 9136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 9300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 9300 50  0001 C CNN
 F 3 "~" H 2400 9300 50  0001 C CNN
 	1    2400 9300
 	-1   0    0    1   
@@ -7646,7 +7646,7 @@ AR Path="/5EABD227" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD227" Ref="D162"  Part="1" 
 F 0 "D162" H 2393 8945 50  0000 C CNN
 F 1 "LED" H 2393 9036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 9200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 9200 50  0001 C CNN
 F 3 "~" H 2400 9200 50  0001 C CNN
 	1    2400 9200
 	-1   0    0    1   
@@ -7661,7 +7661,7 @@ AR Path="/5EABD230" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD230" Ref="D164"  Part="1" 
 F 0 "D164" H 2393 9145 50  0000 C CNN
 F 1 "LED" H 2393 9236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 9400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 9400 50  0001 C CNN
 F 3 "~" H 2400 9400 50  0001 C CNN
 	1    2400 9400
 	-1   0    0    1   
@@ -7676,7 +7676,7 @@ AR Path="/5EABD23E" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD23E" Ref="D166"  Part="1" 
 F 0 "D166" H 2393 9645 50  0000 C CNN
 F 1 "LED" H 2393 9736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 9900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 9900 50  0001 C CNN
 F 3 "~" H 2400 9900 50  0001 C CNN
 	1    2400 9900
 	-1   0    0    1   
@@ -7692,7 +7692,7 @@ AR Path="/5EABD246" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD246" Ref="D165"  Part="1" 
 F 0 "D165" H 2393 9545 50  0000 C CNN
 F 1 "LED" H 2393 9636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 9800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 9800 50  0001 C CNN
 F 3 "~" H 2400 9800 50  0001 C CNN
 	1    2400 9800
 	-1   0    0    1   
@@ -7707,7 +7707,7 @@ AR Path="/5EABD24F" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD24F" Ref="D167"  Part="1" 
 F 0 "D167" H 2393 9745 50  0000 C CNN
 F 1 "LED" H 2393 9836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 10000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 10000 50  0001 C CNN
 F 3 "~" H 2400 10000 50  0001 C CNN
 	1    2400 10000
 	-1   0    0    1   
@@ -7720,7 +7720,7 @@ AR Path="/5EABD25B" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD25B" Ref="D145"  Part="1" 
 F 0 "D145" H 2393 5445 50  0000 C CNN
 F 1 "LED" H 2393 5536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 5700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 5700 50  0001 C CNN
 F 3 "~" H 2400 5700 50  0001 C CNN
 	1    2400 5700
 	-1   0    0    1   
@@ -7749,7 +7749,7 @@ AR Path="/5EABD26A" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD26A" Ref="D144"  Part="1" 
 F 0 "D144" H 2393 5345 50  0000 C CNN
 F 1 "LED" H 2393 5436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 5600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 5600 50  0001 C CNN
 F 3 "~" H 2400 5600 50  0001 C CNN
 	1    2400 5600
 	-1   0    0    1   
@@ -7762,7 +7762,7 @@ AR Path="/5EABD270" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD270" Ref="D146"  Part="1" 
 F 0 "D146" H 2393 5545 50  0000 C CNN
 F 1 "LED" H 2393 5636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 5800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 5800 50  0001 C CNN
 F 3 "~" H 2400 5800 50  0001 C CNN
 	1    2400 5800
 	-1   0    0    1   
@@ -7777,7 +7777,7 @@ AR Path="/5EABD27E" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD27E" Ref="D148"  Part="1" 
 F 0 "D148" H 2393 6045 50  0000 C CNN
 F 1 "LED" H 2393 6136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 6300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 6300 50  0001 C CNN
 F 3 "~" H 2400 6300 50  0001 C CNN
 	1    2400 6300
 	-1   0    0    1   
@@ -7791,7 +7791,7 @@ AR Path="/5EABD285" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD285" Ref="D147"  Part="1" 
 F 0 "D147" H 2393 5945 50  0000 C CNN
 F 1 "LED" H 2393 6036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 6200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 6200 50  0001 C CNN
 F 3 "~" H 2400 6200 50  0001 C CNN
 	1    2400 6200
 	-1   0    0    1   
@@ -7806,7 +7806,7 @@ AR Path="/5EABD28E" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD28E" Ref="D149"  Part="1" 
 F 0 "D149" H 2393 6145 50  0000 C CNN
 F 1 "LED" H 2393 6236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 6400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 6400 50  0001 C CNN
 F 3 "~" H 2400 6400 50  0001 C CNN
 	1    2400 6400
 	-1   0    0    1   
@@ -7821,7 +7821,7 @@ AR Path="/5EABD29C" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD29C" Ref="D151"  Part="1" 
 F 0 "D151" H 2393 6645 50  0000 C CNN
 F 1 "LED" H 2393 6736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 6900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 6900 50  0001 C CNN
 F 3 "~" H 2400 6900 50  0001 C CNN
 	1    2400 6900
 	-1   0    0    1   
@@ -7835,7 +7835,7 @@ AR Path="/5EABD2A3" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD2A3" Ref="D150"  Part="1" 
 F 0 "D150" H 2393 6545 50  0000 C CNN
 F 1 "LED" H 2393 6636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 6800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 6800 50  0001 C CNN
 F 3 "~" H 2400 6800 50  0001 C CNN
 	1    2400 6800
 	-1   0    0    1   
@@ -7850,7 +7850,7 @@ AR Path="/5EABD2AC" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD2AC" Ref="D152"  Part="1" 
 F 0 "D152" H 2393 6745 50  0000 C CNN
 F 1 "LED" H 2393 6836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 7000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 7000 50  0001 C CNN
 F 3 "~" H 2400 7000 50  0001 C CNN
 	1    2400 7000
 	-1   0    0    1   
@@ -7865,7 +7865,7 @@ AR Path="/5EABD2BA" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD2BA" Ref="D154"  Part="1" 
 F 0 "D154" H 2393 7245 50  0000 C CNN
 F 1 "LED" H 2393 7336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 7500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 7500 50  0001 C CNN
 F 3 "~" H 2400 7500 50  0001 C CNN
 	1    2400 7500
 	-1   0    0    1   
@@ -7881,7 +7881,7 @@ AR Path="/5EABD2C2" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD2C2" Ref="D153"  Part="1" 
 F 0 "D153" H 2393 7145 50  0000 C CNN
 F 1 "LED" H 2393 7236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 7400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 7400 50  0001 C CNN
 F 3 "~" H 2400 7400 50  0001 C CNN
 	1    2400 7400
 	-1   0    0    1   
@@ -7896,7 +7896,7 @@ AR Path="/5EABD2CB" Ref="D?"  Part="1"
 AR Path="/61AF721F/5EABD2CB" Ref="D155"  Part="1" 
 F 0 "D155" H 2393 7345 50  0000 C CNN
 F 1 "LED" H 2393 7436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 2400 7600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 2400 7600 50  0001 C CNN
 F 3 "~" H 2400 7600 50  0001 C CNN
 	1    2400 7600
 	-1   0    0    1   
@@ -7994,7 +7994,7 @@ AR Path="/60A83BC0" Ref="D?"  Part="1"
 AR Path="/61AF721F/60A83BC0" Ref="D189"  Part="1" 
 F 0 "D189" H 3593 2645 50  0000 C CNN
 F 1 "LED" H 3593 2736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 2900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 2900 50  0001 C CNN
 F 3 "~" H 3600 2900 50  0001 C CNN
 	1    3600 2900
 	-1   0    0    1   
@@ -8013,7 +8013,7 @@ AR Path="/60EEE0C7" Ref="D?"  Part="1"
 AR Path="/61AF721F/60EEE0C7" Ref="D210"  Part="1" 
 F 0 "D210" H 3593 4945 50  0000 C CNN
 F 1 "LED" H 3593 5036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 5200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 5200 50  0001 C CNN
 F 3 "~" H 3600 5200 50  0001 C CNN
 	1    3600 5200
 	-1   0    0    1   
@@ -8032,7 +8032,7 @@ AR Path="/611E4D6E" Ref="D?"  Part="1"
 AR Path="/61AF721F/611E4D6E" Ref="D232"  Part="1" 
 F 0 "D232" H 3593 7245 50  0000 C CNN
 F 1 "LED" H 3593 7336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 7500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 7500 50  0001 C CNN
 F 3 "~" H 3600 7500 50  0001 C CNN
 	1    3600 7500
 	-1   0    0    1   
@@ -8051,7 +8051,7 @@ AR Path="/614E4333" Ref="D?"  Part="1"
 AR Path="/61AF721F/614E4333" Ref="D254"  Part="1" 
 F 0 "D254" H 3593 9545 50  0000 C CNN
 F 1 "LED" H 3593 9636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 9800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 9800 50  0001 C CNN
 F 3 "~" H 3600 9800 50  0001 C CNN
 	1    3600 9800
 	-1   0    0    1   
@@ -8070,7 +8070,7 @@ AR Path="/617F31ED" Ref="D?"  Part="1"
 AR Path="/61AF721F/617F31ED" Ref="D275"  Part="1" 
 F 0 "D275" H 4793 2545 50  0000 C CNN
 F 1 "LED" H 4793 2636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 2800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 2800 50  0001 C CNN
 F 3 "~" H 4800 2800 50  0001 C CNN
 	1    4800 2800
 	-1   0    0    1   
@@ -8089,7 +8089,7 @@ AR Path="/61C76022" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C76022" Ref="D211"  Part="1" 
 F 0 "D211" H 3593 5045 50  0000 C CNN
 F 1 "LED" H 3593 5136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 5300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 5300 50  0001 C CNN
 F 3 "~" H 3600 5300 50  0001 C CNN
 	1    3600 5300
 	-1   0    0    1   
@@ -8108,7 +8108,7 @@ AR Path="/61F7E60F" Ref="D?"  Part="1"
 AR Path="/61AF721F/61F7E60F" Ref="D233"  Part="1" 
 F 0 "D233" H 3593 7345 50  0000 C CNN
 F 1 "LED" H 3593 7436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 3600 7600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 3600 7600 50  0001 C CNN
 F 3 "~" H 3600 7600 50  0001 C CNN
 	1    3600 7600
 	-1   0    0    1   
@@ -8127,7 +8127,7 @@ AR Path="/62287B1C" Ref="D?"  Part="1"
 AR Path="/61AF721F/62287B1C" Ref="D296"  Part="1" 
 F 0 "D296" H 4793 4945 50  0000 C CNN
 F 1 "LED" H 4793 5036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 5200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 5200 50  0001 C CNN
 F 3 "~" H 4800 5200 50  0001 C CNN
 	1    4800 5200
 	-1   0    0    1   
@@ -8146,7 +8146,7 @@ AR Path="/625946B2" Ref="D?"  Part="1"
 AR Path="/61AF721F/625946B2" Ref="D317"  Part="1" 
 F 0 "D317" H 4793 7245 50  0000 C CNN
 F 1 "LED" H 4793 7336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 7500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 7500 50  0001 C CNN
 F 3 "~" H 4800 7500 50  0001 C CNN
 	1    4800 7500
 	-1   0    0    1   
@@ -8165,7 +8165,7 @@ AR Path="/628A750B" Ref="D?"  Part="1"
 AR Path="/61AF721F/628A750B" Ref="D338"  Part="1" 
 F 0 "D338" H 4793 9545 50  0000 C CNN
 F 1 "LED" H 4793 9636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 4800 9800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 4800 9800 50  0001 C CNN
 F 3 "~" H 4800 9800 50  0001 C CNN
 	1    4800 9800
 	-1   0    0    1   
@@ -8509,7 +8509,7 @@ AR Path="/61C56D41" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56D41" Ref="D26"  Part="1" 
 F 0 "D26" H 1193 1045 50  0000 C CNN
 F 1 "LED" H 1193 1136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 1300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 1300 50  0001 C CNN
 F 3 "~" H 1200 1300 50  0001 C CNN
 	1    1200 1300
 	-1   0    0    1   
@@ -8541,7 +8541,7 @@ AR Path="/61C56D21" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56D21" Ref="D28"  Part="1" 
 F 0 "D28" H 1193 1245 50  0000 C CNN
 F 1 "LED" H 1193 1336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 1500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 1500 50  0001 C CNN
 F 3 "~" H 1200 1500 50  0001 C CNN
 	1    1200 1500
 	-1   0    0    1   
@@ -8555,7 +8555,7 @@ AR Path="/61C56D1A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56D1A" Ref="D27"  Part="1" 
 F 0 "D27" H 1193 1145 50  0000 C CNN
 F 1 "LED" H 1193 1236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 1400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 1400 50  0001 C CNN
 F 3 "~" H 1200 1400 50  0001 C CNN
 	1    1200 1400
 	-1   0    0    1   
@@ -8573,7 +8573,7 @@ AR Path="/61C56D01" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56D01" Ref="D30"  Part="1" 
 F 0 "D30" H 1193 1445 50  0000 C CNN
 F 1 "LED" H 1193 1536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 1700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 1700 50  0001 C CNN
 F 3 "~" H 1200 1700 50  0001 C CNN
 	1    1200 1700
 	-1   0    0    1   
@@ -8587,7 +8587,7 @@ AR Path="/61C56CFA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56CFA" Ref="D29"  Part="1" 
 F 0 "D29" H 1193 1345 50  0000 C CNN
 F 1 "LED" H 1193 1436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 1600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 1600 50  0001 C CNN
 F 3 "~" H 1200 1600 50  0001 C CNN
 	1    1200 1600
 	-1   0    0    1   
@@ -8605,7 +8605,7 @@ AR Path="/61C56CE1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56CE1" Ref="D32"  Part="1" 
 F 0 "D32" H 1193 1645 50  0000 C CNN
 F 1 "LED" H 1193 1736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 1900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 1900 50  0001 C CNN
 F 3 "~" H 1200 1900 50  0001 C CNN
 	1    1200 1900
 	-1   0    0    1   
@@ -8619,7 +8619,7 @@ AR Path="/61C56CDA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56CDA" Ref="D31"  Part="1" 
 F 0 "D31" H 1193 1545 50  0000 C CNN
 F 1 "LED" H 1193 1636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 1800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 1800 50  0001 C CNN
 F 3 "~" H 1200 1800 50  0001 C CNN
 	1    1200 1800
 	-1   0    0    1   
@@ -8637,7 +8637,7 @@ AR Path="/61C56CC1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56CC1" Ref="D34"  Part="1" 
 F 0 "D34" H 1193 1845 50  0000 C CNN
 F 1 "LED" H 1193 1936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 2100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 2100 50  0001 C CNN
 F 3 "~" H 1200 2100 50  0001 C CNN
 	1    1200 2100
 	-1   0    0    1   
@@ -8651,7 +8651,7 @@ AR Path="/61C56CBA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56CBA" Ref="D33"  Part="1" 
 F 0 "D33" H 1193 1745 50  0000 C CNN
 F 1 "LED" H 1193 1836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 2000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 2000 50  0001 C CNN
 F 3 "~" H 1200 2000 50  0001 C CNN
 	1    1200 2000
 	-1   0    0    1   
@@ -8669,7 +8669,7 @@ AR Path="/61C56CA1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56CA1" Ref="D36"  Part="1" 
 F 0 "D36" H 1193 2045 50  0000 C CNN
 F 1 "LED" H 1193 2136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 2300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 2300 50  0001 C CNN
 F 3 "~" H 1200 2300 50  0001 C CNN
 	1    1200 2300
 	-1   0    0    1   
@@ -8683,7 +8683,7 @@ AR Path="/61C56C9A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56C9A" Ref="D35"  Part="1" 
 F 0 "D35" H 1193 1945 50  0000 C CNN
 F 1 "LED" H 1193 2036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 2200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 2200 50  0001 C CNN
 F 3 "~" H 1200 2200 50  0001 C CNN
 	1    1200 2200
 	-1   0    0    1   
@@ -8701,7 +8701,7 @@ AR Path="/61C56C81" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56C81" Ref="D38"  Part="1" 
 F 0 "D38" H 1193 2245 50  0000 C CNN
 F 1 "LED" H 1193 2336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 2500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 2500 50  0001 C CNN
 F 3 "~" H 1200 2500 50  0001 C CNN
 	1    1200 2500
 	-1   0    0    1   
@@ -8715,7 +8715,7 @@ AR Path="/61C56C7A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56C7A" Ref="D37"  Part="1" 
 F 0 "D37" H 1193 2145 50  0000 C CNN
 F 1 "LED" H 1193 2236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 2400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 2400 50  0001 C CNN
 F 3 "~" H 1200 2400 50  0001 C CNN
 	1    1200 2400
 	-1   0    0    1   
@@ -8733,7 +8733,7 @@ AR Path="/61C56C61" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56C61" Ref="D40"  Part="1" 
 F 0 "D40" H 1193 2445 50  0000 C CNN
 F 1 "LED" H 1193 2536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 2700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 2700 50  0001 C CNN
 F 3 "~" H 1200 2700 50  0001 C CNN
 	1    1200 2700
 	-1   0    0    1   
@@ -8747,7 +8747,7 @@ AR Path="/61C56C5A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56C5A" Ref="D39"  Part="1" 
 F 0 "D39" H 1193 2345 50  0000 C CNN
 F 1 "LED" H 1193 2436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 2600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 2600 50  0001 C CNN
 F 3 "~" H 1200 2600 50  0001 C CNN
 	1    1200 2600
 	-1   0    0    1   
@@ -8765,7 +8765,7 @@ AR Path="/61C56C41" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56C41" Ref="D42"  Part="1" 
 F 0 "D42" H 1193 2645 50  0000 C CNN
 F 1 "LED" H 1193 2736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 2900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 2900 50  0001 C CNN
 F 3 "~" H 1200 2900 50  0001 C CNN
 	1    1200 2900
 	-1   0    0    1   
@@ -8779,7 +8779,7 @@ AR Path="/61C56C3A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56C3A" Ref="D41"  Part="1" 
 F 0 "D41" H 1193 2545 50  0000 C CNN
 F 1 "LED" H 1193 2636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 2800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 2800 50  0001 C CNN
 F 3 "~" H 1200 2800 50  0001 C CNN
 	1    1200 2800
 	-1   0    0    1   
@@ -8797,7 +8797,7 @@ AR Path="/61C56C21" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56C21" Ref="D44"  Part="1" 
 F 0 "D44" H 1193 2845 50  0000 C CNN
 F 1 "LED" H 1193 2936 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 3100 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 3100 50  0001 C CNN
 F 3 "~" H 1200 3100 50  0001 C CNN
 	1    1200 3100
 	-1   0    0    1   
@@ -8811,7 +8811,7 @@ AR Path="/61C56C1A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56C1A" Ref="D43"  Part="1" 
 F 0 "D43" H 1193 2745 50  0000 C CNN
 F 1 "LED" H 1193 2836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 3000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 3000 50  0001 C CNN
 F 3 "~" H 1200 3000 50  0001 C CNN
 	1    1200 3000
 	-1   0    0    1   
@@ -8829,7 +8829,7 @@ AR Path="/61C56C01" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56C01" Ref="D46"  Part="1" 
 F 0 "D46" H 1193 3045 50  0000 C CNN
 F 1 "LED" H 1193 3136 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 3300 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 3300 50  0001 C CNN
 F 3 "~" H 1200 3300 50  0001 C CNN
 	1    1200 3300
 	-1   0    0    1   
@@ -8843,7 +8843,7 @@ AR Path="/61C56BFA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56BFA" Ref="D45"  Part="1" 
 F 0 "D45" H 1193 2945 50  0000 C CNN
 F 1 "LED" H 1193 3036 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 3200 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 3200 50  0001 C CNN
 F 3 "~" H 1200 3200 50  0001 C CNN
 	1    1200 3200
 	-1   0    0    1   
@@ -8861,7 +8861,7 @@ AR Path="/61C56BE1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56BE1" Ref="D48"  Part="1" 
 F 0 "D48" H 1193 3245 50  0000 C CNN
 F 1 "LED" H 1193 3336 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 3500 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 3500 50  0001 C CNN
 F 3 "~" H 1200 3500 50  0001 C CNN
 	1    1200 3500
 	-1   0    0    1   
@@ -8875,7 +8875,7 @@ AR Path="/61C56BDA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56BDA" Ref="D47"  Part="1" 
 F 0 "D47" H 1193 3145 50  0000 C CNN
 F 1 "LED" H 1193 3236 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 3400 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 3400 50  0001 C CNN
 F 3 "~" H 1200 3400 50  0001 C CNN
 	1    1200 3400
 	-1   0    0    1   
@@ -8893,7 +8893,7 @@ AR Path="/61C56BC1" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56BC1" Ref="D50"  Part="1" 
 F 0 "D50" H 1193 3445 50  0000 C CNN
 F 1 "LED" H 1193 3536 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 3700 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 3700 50  0001 C CNN
 F 3 "~" H 1200 3700 50  0001 C CNN
 	1    1200 3700
 	-1   0    0    1   
@@ -8907,7 +8907,7 @@ AR Path="/61C56BBA" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56BBA" Ref="D49"  Part="1" 
 F 0 "D49" H 1193 3345 50  0000 C CNN
 F 1 "LED" H 1193 3436 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 3600 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 3600 50  0001 C CNN
 F 3 "~" H 1200 3600 50  0001 C CNN
 	1    1200 3600
 	-1   0    0    1   
@@ -8923,7 +8923,7 @@ AR Path="/61C56BA2" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56BA2" Ref="D52"  Part="1" 
 F 0 "D52" H 1193 3645 50  0000 C CNN
 F 1 "LED" H 1193 3736 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 3900 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 3900 50  0001 C CNN
 F 3 "~" H 1200 3900 50  0001 C CNN
 	1    1200 3900
 	-1   0    0    1   
@@ -8939,7 +8939,7 @@ AR Path="/61C56B9A" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56B9A" Ref="D51"  Part="1" 
 F 0 "D51" H 1193 3545 50  0000 C CNN
 F 1 "LED" H 1193 3636 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 3800 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 3800 50  0001 C CNN
 F 3 "~" H 1200 3800 50  0001 C CNN
 	1    1200 3800
 	-1   0    0    1   
@@ -8952,7 +8952,7 @@ AR Path="/61C56B8D" Ref="D?"  Part="1"
 AR Path="/61AF721F/61C56B8D" Ref="D53"  Part="1" 
 F 0 "D53" H 1193 3745 50  0000 C CNN
 F 1 "LED" H 1193 3836 50  0000 C CNN
-F 2 "LED_SMD:LED_0805_2012Metric_Castellated" H 1200 4000 50  0001 C CNN
+F 2 "electrokit:LED_0805_2012Metric_Castellated_no_silkscreen" H 1200 4000 50  0001 C CNN
 F 3 "~" H 1200 4000 50  0001 C CNN
 	1    1200 4000
 	-1   0    0    1   
