@@ -194,8 +194,8 @@ function [fudger_internal, fudger_parouts, outputer_internal, outputer_parouts, 
   user_input_1 = state(49);
   user_input_2 = state(50);
 
-  fudger_input = xor(~fudger_parouts(1), fudger_parouts(7));
-  outputer_input = xor(user_input_1, fudger_parouts(8), fudger_internal(2));
+  fudger_input = ~xor(fudger_parouts(1), fudger_parouts(7));
+  outputer_input = xor(user_input_1, fudger_parouts(8), fudger_parouts(2));
 end
 
 function [new_state] = advance_state (state)
