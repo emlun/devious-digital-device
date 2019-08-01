@@ -154,7 +154,7 @@ function [] = show_output (x)
 end
 
 function [new_state] = initial_state ()
-  new_state = zeros(50, 1);
+  new_state = zeros(49, 1);
 end
 
 function [states] = simulate_output_sequence (T)
@@ -173,26 +173,24 @@ function [new_state] = toggle_user_input (state)
   new_state = [
     state(1:48);
     ~state(49);
-    state(50);
   ];
 end
 
 function [fudger_internal, fudger_parouts, outputer_internal, outputer_parouts, ...
-          user_input_1, user_input_2, fudger_input, outputer_input] = unpack_state (state)
+          user_input, fudger_input, outputer_input] = unpack_state (state)
   fudger_internal = state(1:8);
   fudger_parouts = state(9:16);
   outputer_internal = state(17:32);
   outputer_parouts = state(33:48);
-  user_input_1 = state(49);
-  user_input_2 = state(50);
+  user_input = state(49);
 
   fudger_input = ~xor(fudger_parouts(1), fudger_parouts(7));
-  outputer_input = xor(user_input_1, fudger_parouts(8), fudger_parouts(2));
+  outputer_input = xor(user_input, fudger_parouts(8), fudger_parouts(2));
 end
 
 function [new_state] = advance_state (state)
   [fudger_internal, fudger_parouts, outputer_internal, outputer_parouts, ...
-   user_input_1, user_input_2, fudger_input, outputer_input] = unpack_state(state);
+   user_input, fudger_input, outputer_input] = unpack_state(state);
 
   new_fudger_internal = [
     fudger_input;
@@ -211,14 +209,13 @@ function [new_state] = advance_state (state)
     new_fudger_parouts;
     new_outputer_internal;
     new_outputer_parouts;
-    user_input_1;
-    user_input_2;
+    user_input;
   ];
 end
 
 function [] = show_state (state)
   [fudger_internal, fudger_parouts, outputer_internal, outputer_parouts, ...
-   user_input_1, user_input_2, fudger_input, outputer_input] = unpack_state(state);
+   user_input, fudger_input, outputer_input] = unpack_state(state);
 
   clf;
   colormap default;
@@ -238,14 +235,14 @@ function [] = show_state (state)
   xticks([0 1]);
 
   subplot(1, 7, 3);
-  barh([outputer_input, zeros(1, 15)]);
+  barh(1, outputer_input);
   title("DS_O");
   axis([0 1 0 2])
   xticks([0 1]);
   yticks([1]);
 
   subplot(1, 7, 4);
-  barh([user_input_1, user_input_2]);
+  barh(1, user_input);
   title("u");
   axis([0 1 0 2])
   xticks([0 1]);
@@ -266,7 +263,7 @@ function [] = show_state (state)
   xticks([0 1]);
 
   subplot(1, 7, 7);
-  barh([fudger_input, zeros(1, 7)]);
+  barh(1, fudger_input);
   title("DS_F");
   axis([0 1 0 2])
   xticks([0 1]);
