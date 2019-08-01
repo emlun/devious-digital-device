@@ -233,13 +233,13 @@ function [] = show_state (state)
   yticks(1:16);
 
   subplot(1, 7, 3);
-  barh(1, outputer_input);
+  barh([outputer_input, zeros(1, 15)]);
   title("DS_O");
-  axis([0 1 0 2], 'ticky')
+  axis([0 1 0 17], 'ticky')
   yticks([1]);
 
   subplot(1, 7, 4);
-  barh(1, user_input);
+  barh([user_input]);
   title("u");
   axis([0 1 0 2], 'ticky')
   yticks([1]);
@@ -257,9 +257,9 @@ function [] = show_state (state)
   yticks(1:8);
 
   subplot(1, 7, 7);
-  barh(1, fudger_input);
+  barh([fudger_input, zeros(1, 7)]);
   title("DS_F");
-  axis([0 1 0 2], 'ticky')
+  axis([0 1 0 9], 'ticky')
   yticks([1]);
 end
 
