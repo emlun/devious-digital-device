@@ -169,19 +169,11 @@ function [states] = simulate_output_sequence (T)
   yticks([0 1]);
 end
 
-function [new_state] = toggle_user_input_1 (state)
+function [new_state] = toggle_user_input (state)
   new_state = [
     state(1:48);
     ~state(49);
     state(50);
-  ];
-end
-
-function [new_state] = toggle_user_input_2 (state)
-  new_state = [
-    state(1:48);
-    state(49);
-    ~state(50);
   ];
 end
 
@@ -364,7 +356,7 @@ function [] = animate_shift_registers (times)
   show_state(state);
   for i = 1:times
     if mod(i, 7) == 0
-      state = toggle_user_input_1(state);
+      state = toggle_user_input(state);
     else
       state = advance_state(state);
     end
