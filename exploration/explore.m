@@ -223,50 +223,43 @@ function [] = show_state (state)
   subplot(1, 7, 1);
   barh(outputer_parouts);
   title("O(1:16)");
-  axis([0 1 0 17])
+  axis([0 1 0 17], 'ticky')
   yticks(1:16);
-  xticks([0 1]);
 
   subplot(1, 7, 2);
   barh(outputer_internal);
   title("O'(1:16)");
-  axis([0 1 0 17])
+  axis([0 1 0 17], 'ticky')
   yticks(1:16);
-  xticks([0 1]);
 
   subplot(1, 7, 3);
   barh(1, outputer_input);
   title("DS_O");
-  axis([0 1 0 2])
-  xticks([0 1]);
+  axis([0 1 0 2], 'ticky')
   yticks([1]);
 
   subplot(1, 7, 4);
   barh(1, user_input);
   title("u");
-  axis([0 1 0 2])
-  xticks([0 1]);
+  axis([0 1 0 2], 'ticky')
   yticks([1]);
 
   subplot(1, 7, 5);
   barh(fudger_parouts);
   title("F(1:8)");
-  axis([0 1 0 9])
+  axis([0 1 0 9], 'ticky')
   yticks(1:8);
-  xticks([0 1]);
 
   subplot(1, 7, 6);
   barh(fudger_internal);
   title("F'(1:8)");
-  axis([0 1 0 9])
+  axis([0 1 0 9], 'ticky')
   yticks(1:8);
-  xticks([0 1]);
 
   subplot(1, 7, 7);
   barh(1, fudger_input);
   title("DS_F");
-  axis([0 1 0 2])
-  xticks([0 1]);
+  axis([0 1 0 2], 'ticky')
   yticks([1]);
 end
 
