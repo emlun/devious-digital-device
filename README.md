@@ -1,11 +1,15 @@
-(Name TBD) challenge for Midnight Sun CTF 2019
+"Devious Digital Device" challenge for Midnight Sun CTF 2019
 ---
 
-This repository contains the scripts and schematics used to create the (TBD)
-challenge for [Midnight Sun CTF][midnight-sun] 2019. A build log for the project
-can be found [here][build-log].
+This repository contains the scripts and schematics used to create the "Devious
+Digital Device" challenge for [Midnight Sun CTF][midnight-sun] 2019. A
+walkthrough of the design and development of the project can be found
+[here][build-log].
 
-The (TBD) directory can be opened as a project in [KiCad][kicad].
+`exploration/explore.m` can be run in [Octave][octave] or [MATLAB][matlab]. The
+`midnight-sun-2019` directory can be opened as a project in [KiCad][kicad]. All
+necessary resources should be included in the project or the KiCAD standard
+distribution; if they're not, please file a bug.
 
 All files in this repository are licensed under a [Creative Commons
 Attribution 4.0 International License][cc] unless noted otherwise.
@@ -14,4 +18,6 @@ Attribution 4.0 International License][cc] unless noted otherwise.
 [build-log]: (TBD)
 [cc]: https://creativecommons.org/licenses/by/4.0/
 [kicad]: http://kicad-pcb.org/
+[matlab]: https://www.mathworks.com/products/matlab.html
 [midnight-sun]: https://www.midnightsunctf.se/
+[octave]: https://www.gnu.org/software/octave/
