@@ -15,7 +15,7 @@ All files in this repository are licensed under a [Creative Commons
 Attribution 4.0 International License][cc] unless noted otherwise.
 
 
-[build-log]: (TBD)
+[build-log]: https://emlun.se/2019/08/02/design-devious-digital-device-midnight-sun-ctf-2019.html
 [cc]: https://creativecommons.org/licenses/by/4.0/
 [kicad]: http://kicad-pcb.org/
 [matlab]: https://www.mathworks.com/products/matlab.html
